@@ -1,0 +1,73 @@
+// Offset for Nav
+
+body {
+  margin-top: 55px;
+  @include breakpoint(medium down) {
+    margin-top: 40px;
+  }
+}
+
+// Article Intro
+.intro {
+  @include breakpoint(large up) {
+    margin-top: -7rem;
+    z-index: 10;
+    position: relative;
+    .sticky {
+      top: 7rem !important;
+      padding-top: $global-padding;
+    }
+  }
+  .cell {
+    &:last-child {
+      padding-top: $global-padding;
+      color: $white;
+      background: $primary-color;
+
+      .head {
+        margin-bottom: calc(2rem - 1px);
+        position: relative;
+
+        h2 {
+          margin: 0;
+          line-height: 1;
+        }
+
+        p {
+          font-style: italic;
+        }
+
+        &:before {
+          content: "";
+          height: 0.25rem;
+          width: 3rem;
+          background: $white;
+          box-shadow: 0.175rem 0.175rem 0 $secondary-color;
+          position: absolute;
+          top: calc(100% + 1.5rem - .175rem / 2);
+        }
+      }
+
+      .content {
+        padding-bottom: $global-padding;
+        padding-top: calc(1rem + 1px);
+        position: relative;
+        &:after {
+          content: "";
+          position: absolute;
+          right: 0;
+          top: 0;
+          bottom: 0;
+          left: 0;
+          background: $primary-color;
+          transform: translateX(100%);
+          z-index: 1;
+        }
+      }
+
+      p:last-child {
+        margin-bottom: 0;
+      }
+    }
+  }
+}

@@ -1,0 +1,52 @@
+@font-face {
+  font-family: 'icomoon';
+  src:  url('../fonts/icomoon.eot?f5rvyd');
+  src:  url('../fonts/icomoon.eot?f5rvyd#iefix') format('embedded-opentype'),
+    url('../fonts/icomoon.ttf?f5rvyd') format('truetype'),
+    url('../fonts/icomoon.woff?f5rvyd') format('woff'),
+    url('../fonts/icomoon.svg?f5rvyd#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'icomoon' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+// .icon-arrow-backtop:after {
+//   content: "\e900";
+//   color: #707070;
+// }
+// .icon-arrow-down:after {
+//   content: "\e901";
+//   color: #707070;
+// }
+// .icon-arrow-left:after {
+//   content: "\e902";
+//   color: #707070;
+// }
+// .icon-arrow-right:after {
+//   content: "\e903";
+//   color: #707070;
+// }
+// .icon-arrow-top:after {
+//   content: "\e904";
+//   color: #707070;
+// }
+// .icon-arrows-expand:after {
+//   content: "\e905";
+// }
+// .icon-arrows-tiny:after {
+//   content: "\e906";
+// }

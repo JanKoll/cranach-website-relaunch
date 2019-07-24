@@ -84,7 +84,7 @@ $dark-gray: #333333;
 $black: #111111;
 $white: #ffffff;
 $body-background: $white;
-$body-font-color: $black;
+$body-font-color: $medium-gray;
 $body-font-family: 'Open Sans', Helvetica, Roboto, Arial, sans-serif;
 $body-antialiased: true;
 $global-margin: 1rem;
@@ -228,12 +228,12 @@ $input-error-font-weight: $global-weight-bold;
 
 $accordion-background: $white;
 $accordion-plusminus: true;
-$accordion-title-font-size: rem-calc(12);
-$accordion-item-color: $primary-color;
+$accordion-title-font-size: 100%;
+$accordion-item-color: $medium-gray;
 $accordion-item-background-hover: $light-gray;
 $accordion-item-padding: 1.25rem 1rem;
 $accordion-content-background: $white;
-$accordion-content-border: 1px solid $light-gray;
+$accordion-content-border: 1px solid $medium-gray;
 $accordion-content-color: $body-font-color;
 $accordion-content-padding: 1rem;
 

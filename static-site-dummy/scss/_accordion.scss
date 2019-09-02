@@ -1,0 +1,31 @@
+.article-accordion {
+  .article-accordion-content {
+
+    @include breakpoint(medium up) {
+      display: block !important;
+    }
+  }
+
+  .article-accordion-title {
+    color: unset;
+    &:before {
+      content: "+";
+      position: absolute;
+      right: 1rem;
+      top: -.5rem;
+      font-size: 2rem;
+      width: 1.5rem;
+      text-align: center;
+
+      @include breakpoint(medium up) {
+        display: none;
+      }
+    }
+  }
+
+  .is-active>.article-accordion-title {
+    &:before {
+      content: '\2013';
+    }
+  }
+}

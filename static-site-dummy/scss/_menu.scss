@@ -1,5 +1,14 @@
 // Main Menu
 
+.title-bar {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+
+  z-index: 100;
+}
+
 .top-bar {
   position: fixed;
   top: 0;
@@ -15,6 +24,10 @@
 }
 // Article Menu
 ul.article-nav {
+  @include breakpoint(medium down) {
+    display: none;
+  }
+
   list-style: none;
   margin: 0;
 
@@ -44,5 +57,11 @@ ul.article-nav {
         content: "\e900";
       }
     }
+  }
+}
+
+.breadcrumbs {
+  @include breakpoint(medium down) {
+    padding: 1rem 0;
   }
 }

@@ -1,0 +1,17 @@
+.orbit {
+  .orbit-container {
+    outline: none;
+    figure {
+      figcaption {
+        position: absolute;
+        top: 1rem;
+        right: 1rem;
+        bottom: auto;
+        width: 33.33333%;
+        max-width: 20rem;
+        display: inline-block;
+
+      }
+    }
+  }
+}

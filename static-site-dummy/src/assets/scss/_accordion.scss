@@ -29,3 +29,31 @@
     }
   }
 }
+
+.accordion {
+  .accordion-item {
+    .accordion-title {
+        border-left: none;
+        border-right: none;
+        line-height: normal;
+        p {
+          margin-bottom: 0;
+        }
+        &:before {
+          top: auto;
+          bottom: 1rem;
+        }
+        .media-control {
+          top: 1rem;
+        }
+    }
+    .accordion-content {
+        border-left: none;
+        border-right: none;
+        border-top-color: $light-gray;
+        ul {
+          margin-bottom: 1rem;
+        }
+    }
+  }
+}

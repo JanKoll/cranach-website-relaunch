@@ -330,10 +330,10 @@ $callout-link-tint: 30%;
 // 14. Card
 // --------
 
-$card-background: $white;
-$card-font-color: $body-font-color;
+$card-background: unset;
+$card-font-color: $white;
 $card-divider-background: $light-gray;
-$card-border: 1px solid $light-gray;
+$card-border: unset;
 $card-shadow: none;
 $card-border-radius: $global-radius;
 $card-padding: $global-padding;
@@ -375,9 +375,9 @@ $drilldown-arrow-size: 6px;
 // 17. Dropdown
 // ------------
 
-$dropdown-padding: 1rem;
+$dropdown-padding: 1.25rem;
 $dropdown-background: $body-background;
-$dropdown-border: 1px solid $medium-gray;
+$dropdown-border: none;
 $dropdown-font-size: 1rem;
 $dropdown-width: 300px;
 $dropdown-radius: $global-radius;
@@ -394,13 +394,13 @@ $dropdownmenu-arrows: true;
 $dropdownmenu-arrow-color: $anchor-color;
 $dropdownmenu-arrow-size: 6px;
 $dropdownmenu-arrow-padding: 1.5rem;
-$dropdownmenu-min-width: 200px;
+$dropdownmenu-min-width: 250px;
 $dropdownmenu-background: null;
 $dropdownmenu-submenu-background: $white;
 $dropdownmenu-padding: $global-menu-padding;
 $dropdownmenu-nested-margin: 0;
 $dropdownmenu-submenu-padding: $dropdownmenu-padding;
-$dropdownmenu-border: 1px solid $medium-gray;
+$dropdownmenu-border: none;
 $dropdown-menu-item-color-active: get-color(primary);
 $dropdown-menu-item-background-active: transparent;
 
@@ -413,9 +413,9 @@ $flexbox-responsive-breakpoints: true;
 // 20. Forms
 // ---------
 
-$fieldset-border: 1px solid $medium-gray;
-$fieldset-padding: rem-calc(20);
-$fieldset-margin: rem-calc(18 0);
+$fieldset-border: 1px solid $light-gray;
+$fieldset-padding: rem-calc(16);
+$fieldset-margin: rem-calc(16 0);
 $legend-padding: rem-calc(0 3);
 $form-spacing: rem-calc(16);
 $helptext-color: $black;
@@ -822,12 +822,12 @@ $thumbnail-radius: $global-radius;
 // 53. Title Bar
 // -------------
 
-$titlebar-background: $black;
+$titlebar-background: $primary-color;
 $titlebar-color: $white;
 $titlebar-padding: 0.5rem;
 $titlebar-text-font-weight: bold;
 $titlebar-icon-color: $white;
-$titlebar-icon-color-hover: $medium-gray;
+$titlebar-icon-color-hover: $white;
 $titlebar-icon-spacing: 0.25rem;
 
 // 54. Tooltip

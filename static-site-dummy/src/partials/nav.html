@@ -1,29 +1,48 @@
 <!-- Navi -->
   <div class="title-bar" data-responsive-toggle="menu" data-hide-for="large">
-    <button class="menu-icon" type="button" data-toggle="menu"></button>
-    <div class="title-bar-title">Menu</div>
+    <div class="title-bar-left">
+      <button class="menu-icon" type="button" data-toggle="menu"></button>
+      <a href="/index.html" class="logo-topbar">cda_</a>
+    </div>
+
+    <div class="search">
+      <input type="search" placeholder="Search">
+      <button type="button">{{> search}}</button>
+    </div>
   </div>
 
   <div class="top-bar topbar-sticky-shrink-header" id="menu">
     <div class="top-bar-left">
       <ul class="dropdown menu" data-dropdown-menu>
-        <li class="menu-text">Site Title</li>
+        <a href="/index.html" class="logo">cda_</a>
+        <li><a href="#">Lukas Chranach</a></li>
+        <li><a href="#">Über Uns</a></li>
+        <li><a href="#">Aktuelles</a></li>
+        <li><a href="#">Partner</a></li>
         <li>
-          <a href="#">One</a>
+          <a href="gallery.html">Forschung</a>
           <ul class="menu vertical">
-            <li><a href="#">One</a></li>
-            <li><a href="#">Two</a></li>
-            <li><a href="#">Three</a></li>
+            <li> <a href="gallery.html">Gemälde</a></li>
+            <li><a href="gallery.html">Archivalien</a></li>
           </ul>
+
         </li>
-        <li><a href="#">Two</a></li>
-        <li><a href="#">Three</a></li>
       </ul>
     </div>
     <div class="top-bar-right">
-      <ul class="menu">
-        <li><input type="search" placeholder="Search"></li>
-        <li><button type="button" class="button">Search</button></li>
-      </ul>
+      <div class="meta-nav">
+        <ul class="menu">
+          <li><a href="#">Kontakt</a></li>
+        </ul>
+        <ul class="language">
+          <li class="active"><a href="#">DE</a></li>
+          <li><a href="#">EN</a></li>
+        </ul>
+      </div>
+
+      <div class="search">
+        <input type="search" placeholder="Search">
+        <button type="button">{{> search}}</button>
+      </div>
     </div>
   </div>

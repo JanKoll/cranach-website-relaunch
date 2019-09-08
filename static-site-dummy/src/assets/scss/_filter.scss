@@ -1,0 +1,48 @@
+.filter {
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+
+    @include breakpoint(medium down) {
+      .sticky.is-anchored {
+        position: unset !important;
+      }
+    }
+
+
+    form {
+      padding-bottom: 4rem;
+    }
+
+    .card {
+      position: relative;
+      transition: all .2s ease;
+
+      @include breakpoint(medium) {
+        margin-bottom: 2rem;
+      }
+
+      a {
+        color: $white;
+      }
+
+      img {
+        width: 100%;
+      }
+
+      &:hover {
+        @include breakpoint(medium) {
+          transform: translate(0, -.5rem);
+          box-shadow: 0 1rem 2rem rgba($black, 0.2), 0 1rem 1rem rgba($black, 0.1);
+        }
+      }
+
+      .card-section {
+        position: absolute;
+        bottom: 0;
+        left: 0;
+        right: 0;
+        background-image: linear-gradient(rgba($black, .0), rgba($black, .3));
+        padding-top: 2rem;
+      }
+    }
+}

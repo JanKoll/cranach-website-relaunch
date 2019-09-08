@@ -1,0 +1,260 @@
+// Main Menu
+
+.title-bar {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+
+  z-index: 100;
+
+  justify-content: space-between;
+
+  .search {
+    // width: 70%;
+    input {
+      box-shadow: unset;
+      background: rgba($light-gray, .5);
+      border: unset;
+      color: $white;
+      width: 0%;
+      transition: all .25s ease-out;
+    }
+
+    svg path {
+      fill: $white;
+    }
+  }
+
+  .title-bar-left {
+    display: flex;
+    align-items: center;
+    a.logo-topbar {
+      color: $white;
+      display: block;
+      font-size: 1.25rem;
+      padding: 0 1rem;
+    }
+  }
+}
+
+.top-bar {
+  border-bottom: 1px solid $light-gray;
+  position: fixed;
+
+  @include breakpoint(medium) {
+    top: 0;
+    left: 0;
+    right: 0;
+    z-index: 100;
+    background: $white;
+    height: 7rem;
+    align-items: flex-end;
+  }
+
+  .menu .active > a, .menu li:hover > a {
+    background: $primary-color;
+    color: $white;
+  }
+
+  .menu .active:after, .menu li:hover a:after  {
+    border-color: $white transparent transparent !important;
+  }
+
+  @include breakpoint(medium down) {
+    overflow-y: scroll;
+    max-height: calc(100vh - 2.5rem);
+    top: 55px;
+  }
+
+  ul {
+    background: $white;
+    align-items: flex-end;
+
+    li {
+      @include breakpoint(medium down) {
+        width: 100%;
+        ul {
+          position: relative;
+          padding-left: 1rem;
+          display: block;
+        }
+      }
+    }
+  }
+
+  a.logo {
+    display: none;
+
+    @include breakpoint(medium) {
+      display: unset;
+      font-weight: bold !important;
+      color: $medium-gray;
+      font-size: 2rem;
+    }
+  }
+
+  .top-bar-left {
+    order: 2;
+
+    @include breakpoint(medium) {
+      order: unset;
+    }
+    @include breakpoint(medium down) {
+      ul.dropdown {
+        padding: .5rem 0;
+      }
+    }
+  }
+
+  .top-bar-right {
+    flex-wrap: wrap;
+    order: 1;
+    background: $white;
+
+    @include breakpoint(medium) {
+      order: unset;
+    }
+    @include breakpoint(medium down) {
+      border-bottom: .5rem solid $light-gray;
+    }
+    .meta-nav {
+      display: flex;
+      justify-content: flex-end;
+
+      @include breakpoint(medium) {
+        height: 2rem;
+      }
+
+      ul {
+        list-style: none;
+        display: flex;
+        justify-content: flex-end;
+        align-items: center;
+
+        &.language {
+          margin: 0;
+          @include breakpoint(medium) {
+            margin: 0 0 inherit 1rem;
+          }
+          li {
+            padding: .7rem 0;
+            a {
+              padding: 0 .5rem;
+            }
+            &.active {
+              font-weight: bold;
+            }
+            &:not(:first-child) {
+              &:before {
+                content: "|";
+              }
+            }
+          }
+        }
+      }
+    }
+
+    .search {
+      display: none;
+      margin-top: .75rem;
+      height: 2rem;
+      input {
+        transition: all .25s ease-out;
+      }
+
+      svg path {
+        fill: $medium-gray;
+      }
+      @include breakpoint(medium) {
+        display: block;
+      }
+    }
+  }
+}
+
+.search {
+  position: relative;
+  width: 100%;
+  input {
+    float: right;
+    position: relative;
+    margin: 0;
+    z-index: 3;
+    background: unset;
+    border: unset;
+    box-shadow: unset;
+    padding-right: 1.75rem;
+    width: 0%;
+    transition: all .25s ease-out;
+    background: $light-gray;
+    opacity: 0;
+    border-radius: 2rem;
+    &:focus {
+      z-index: 1;
+      width: 100%;
+      opacity: 1;
+    }
+  }
+  button {
+    position: absolute;
+    right: 0;
+    top: 0;
+    z-index: 2;
+    margin-top: .125rem;
+    svg {
+      padding: .25rem;
+      height: 2rem;
+      width: 2rem;
+    }
+  }
+}
+
+
+
+
+
+// Article Menu
+ul.article-nav {
+  @include breakpoint(medium down) {
+    display: none;
+  }
+
+  list-style: none;
+  margin: 0;
+  padding-bottom: 4rem;
+
+  li {
+    text-transform: uppercase;
+    padding: 0.25rem;
+    border-top: 1px solid $medium-gray;
+
+    a {
+      text-decoration: none;
+      color: $medium-gray;
+      display: block;
+      position: relative;
+      line-height: 2rem;
+
+      &:after {
+        position: absolute;
+        right: 0;
+        font-size: 2rem;
+      }
+
+      &.icon-arrow-down:after {
+        content: "\e901";
+      }
+
+      &.icon-arrow-backtop:after {
+        content: "\e900";
+      }
+    }
+  }
+}
+
+.breadcrumbs {
+  @include breakpoint(medium down) {
+    padding: 1rem 0;
+  }
+}

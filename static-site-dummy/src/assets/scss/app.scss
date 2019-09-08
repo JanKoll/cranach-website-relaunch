@@ -42,8 +42,8 @@
 // Menu-based containers
 @include foundation-menu;
 @include foundation-menu-icon;
-@include foundation-accordion-menu;
-@include foundation-drilldown-menu;
+// @include foundation-accordion-menu;
+// @include foundation-drilldown-menu;
 @include foundation-dropdown-menu;
 
 // Layout components
@@ -62,3 +62,10 @@
 // Motion UI
 @include motion-ui-transitions;
 @include motion-ui-animations;
+
+@import 'icon-font';
+@import 'typography';
+@import 'menu';
+@import 'customize';
+@import 'accordion';
+@import 'filter';

@@ -1,9 +1,7 @@
 <?php snippet('header') ?>
 
 <main>
-  <header class="intro">
-    <h1><?= $site->title() ?></h1>
-  </header>
+ 
 
   <?php if ($photographyPage = page('photography')): ?>
   <ul class="grid">

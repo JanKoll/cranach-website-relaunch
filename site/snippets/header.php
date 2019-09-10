@@ -30,31 +30,34 @@
       <a class="logo" href="<?= $site->url() ?>" ><?= $site->title() ?></a>
 
       <?php foreach ($site->children()->listed() as $item): ?>
-        <?= $item->title()->link() ?>
-        <?php endforeach ?>
-      
-        <li>
-          <a href="gallery.html">Forschung</a>
-          <ul class="menu vertical">
-            <li> <a href="gallery.html">Gemälde</a></li>
-            <li><a href="gallery.html">Archivalien</a></li>
-          </ul>
+        <?= $item->name()->link() ?>
+        <?php
+echo $page->hasListedChildren(); //will echo 1 if true, nothing if false
 
-        </li>
+if($page->hasListedChildren()) {
+  $children = $page->children()->listed();
+}
+?>
+        <?php endforeach ?>
+
+    <!-- forschung bar  -->
+      
+     
       </ul>
     </div>
     <div class="top-bar-right">
-      <div class="meta-nav">
+     
+
+    
+     <div class="meta-nav">
         <ul class="menu">
-          <li><a href="<?= $item->title()->link() ?>"><?= $item->title() ?></a></li>
+          <li><a href="#">Kontakt</a></li>
         </ul>
         <ul class="language">
-        <?php foreach ($site->children()->listed() as $item): ?>
-        <li><a class="active" href="<?= $item->url() ?>"><?= $item->title() ?></a></li>
-        <?php endforeach ?>
-        
+          <li class="active"><a href="#">DE</a></li>
+          <li><a href="#">EN</a></li>
         </ul>
-      </div>
+      </div>  
 
       <div class="search">
         <input type="search" placeholder="Search">

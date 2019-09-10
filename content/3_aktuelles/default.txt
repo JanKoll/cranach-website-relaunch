@@ -1,0 +1,9 @@
+Title: news
+
+----
+
+Name: Aktuelles
+
+----
+
+Text: 

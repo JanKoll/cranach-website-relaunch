@@ -11,6 +11,5 @@ columns:
         type: pages
         create: default
         template:
-          - about
           - home
           - default

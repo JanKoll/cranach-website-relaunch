@@ -2,10 +2,11 @@ title: Site
 
 columns:
   - width: 1/2
-
+    sections:
       pages:
         type: pages
-        create: default
+        create: 
+          - default
         template:
           - home
           - default

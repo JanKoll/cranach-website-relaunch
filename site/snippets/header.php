@@ -30,7 +30,7 @@
       <a class="logo" href="<?= $site->url() ?>" ><?= $site->title() ?></a>
 
       <?php foreach ($site->children()->listed() as $item): ?>
-        <?= $item->name()->link() ?>
+        <?= $item->title()->link() ?>
         <?php
 echo $page->hasListedChildren(); //will echo 1 if true, nothing if false
 

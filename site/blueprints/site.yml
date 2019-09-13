@@ -7,7 +7,6 @@ columns:
         type: pages
         create: 
           - default
-          - lucas-cranach
         template:
           - home
           - default

@@ -21,4 +21,4 @@ fields:
   pages:
     type: pages
     create:
-    - lucas-cranach
+    - paragraph

@@ -7,6 +7,8 @@ columns:
         type: pages
         create: 
           - default
+          - paragraph
         template:
           - home
           - default
+          - paragraph

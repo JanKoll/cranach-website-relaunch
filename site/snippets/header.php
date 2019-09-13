@@ -52,11 +52,15 @@ if($page->hasListedChildren()) {
      <div class="meta-nav">
         <ul class="menu">
           <li><a href="#">Kontakt</a></li>
-        </ul>
-        <ul class="language">
-          <li class="active"><a href="#">DE</a></li>
-          <li><a href="#">EN</a></li>
-        </ul>
+          <ul>
+    <?php foreach($kirby->languages() as $language): ?>
+    <li <?php e($kirby->language() == $language, ' class="active"') ?>>
+      <a href="<?php echo $language->url() ?>" hreflang="<?php echo $language->code() ?>">
+        <?php echo html($language->code()) ?>
+      </a>
+    </li>
+    <?php endforeach ?>
+  </ul>
       </div>  
 
       <div class="search">

@@ -10,8 +10,6 @@ status:
     label: Menu Page
     text: The page is listed in the main menu
 
-pages:
-  template: default
 
 fields:
   headline:
@@ -19,5 +17,6 @@ fields:
   text:
     type: textarea
     size: huge
-  subpages:
-    type: page
+  date:
+    type: date
+ 

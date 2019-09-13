@@ -8,7 +8,10 @@ columns:
         create: 
           - default
           - paragraph
+          - content
         template:
           - home
           - default
           - paragraph
+          - content
+     

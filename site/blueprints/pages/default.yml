@@ -15,6 +15,7 @@ pages:
   template: 
     - default
     - paragraph
+    - content
 
 fields:
   intro:

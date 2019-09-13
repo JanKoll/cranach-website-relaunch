@@ -12,13 +12,15 @@ status:
     text: The page is listed in the main menu
 
 pages:
-  template: default
+  template: 
+    - default
+    - paragraph
 
 fields:
-  text:
+  intro:
     type: textarea
     size: huge
   pages:
     type: pages
-    create:
-    - paragraph
+    create: paragraph
+    template: paragraph

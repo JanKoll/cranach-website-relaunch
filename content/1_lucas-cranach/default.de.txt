@@ -1,0 +1,16 @@
+Title: lucas-cranach
+
+----
+
+Intro: hier steht kram über LC
+
+----
+
+Pages:
+
+- lucas-cranach/der-aeltere
+- lucas-cranach/der-juengere
+
+----
+
+Text: hier steht kram über LC

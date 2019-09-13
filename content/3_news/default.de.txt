@@ -1,0 +1,11 @@
+Title: aktuelles
+
+----
+
+Intro: 
+
+----
+
+Pages:
+
+- news/news1

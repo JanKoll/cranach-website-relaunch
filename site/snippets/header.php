@@ -28,17 +28,23 @@
       <ul class="dropdown menu" data-dropdown-menu>
 
       <a class="logo" href="<?= $site->url() ?>" ><?= $site->title() ?></a>
-
       <?php foreach ($site->children()->listed() as $item): ?>
-        <?= $item->title()->link() ?>
-        <?php
-echo $page->hasListedChildren(); //will echo 1 if true, nothing if false
+                  <?php if($item->title() == 'Würfe'): ?>
+                    <li class="<?= e($item->isOpen(), ' active') ?>"><a href="<?= $item->children()->first()->url() ?>"><?= $item->title()->html() ?></a>
+                  <?php else: ?>
+                    <li class="<?= e($item->isOpen(), ' active') ?>"><a href="<?= $item->url() ?>"><?= $item->title()->html() ?></a>
+                  <?php endif ?>
 
-if($page->hasListedChildren()) {
-  $children = $page->children()->listed();
-}
-?>
-        <?php endforeach ?>
+                  <?php if($item->hasChildren()):?>
+                      <ul class="sublinks">
+                        <?php foreach ($item->children()->listed() as $subitem): ?>
+                          <li><a class="<?= e($subitem->isOpen(), ' active') ?>" href="<?= $subitem->url() ?>"><?= $subitem->title()->html() ?></a></li>
+                        <?php endforeach ?>
+                      </ul>
+                  <?php endif ?>
+                </li>
+
+                <?php endforeach ?>
 
     <!-- forschung bar  -->
       

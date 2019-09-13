@@ -1,4 +1,4 @@
-title: Paragraph
+title: Content
 preset: page
 
 status:
@@ -12,6 +12,8 @@ status:
 
 
 fields:
+  files:
+        type: files
   headline:
     type: text
   text:
@@ -21,4 +23,5 @@ fields:
     type: date
   tags:
     type: tags
- 
+
+       

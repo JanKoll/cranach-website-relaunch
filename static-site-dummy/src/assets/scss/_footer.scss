@@ -1,5 +1,83 @@
 footer {
-  background: $black;
-  padding-top: 4rem;
-  padding-bottom: 4rem;
+    a {
+      display: block;
+      color: $white;
+      &:hover {
+        color: $medium-gray;
+      }
+    }
+
+  .footer-nav {
+    background: $black;
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+
+    div:not(:last-child) {
+      @include breakpoint(medium down) {
+        padding-bottom: 1rem;
+      }
+    }
+
+    ul {
+      list-style: none;
+      margin: 0;
+
+      li {
+        margin: 0;
+        line-height: 1.25;
+
+        a {
+          padding: .5rem 0;
+
+          @include breakpoint(medium) {
+              padding: .75rem 0;
+          }
+        }
+
+        &:first-child {
+          font-size: 1.25rem;
+          padding-bottom: .25rem;
+
+          @include breakpoint(medium) {
+            font-size: 1.5rem;
+            padding-bottom: .5rem;
+          }
+        }
+      }
+    }
+  }
+
+  .coppyright {
+    background: #000;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    color: $white;
+
+
+    @include breakpoint(medium down) {
+      div {
+        &.medium-4 {
+          order: 2;
+          margin-top: 1rem;
+        }
+        &.medium-8 {
+          order: 1;
+        }
+      }
+    }
+
+    ul {
+      list-style: none;
+      justify-content: flex-end;
+      margin: 0;
+
+      @include breakpoint(medium) {
+        display: flex;
+
+        li:not(:first-child) {
+          margin-left: 1rem;
+        }
+      }
+    }
+  }
 }

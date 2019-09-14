@@ -1,7 +1,0 @@
-Intro: Das ist die galleie
-
-----
-
-Pages:
-
-- gallerie/bild

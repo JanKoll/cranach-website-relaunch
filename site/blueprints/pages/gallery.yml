@@ -1,0 +1,48 @@
+title: Gallery
+icon: 📝
+
+status:
+  draft: true
+  unlisted:
+    label: Hidden Page
+    text: The page is not listed in the main menu
+  listed:
+    label: Menu Page
+    text: The page is listed in the main menu
+
+columns:
+  - width: 1/1
+    sections:
+      headerImage:
+        type: files
+        max: 5
+        accept: image
+
+  - width: 2/3
+    sections:
+      drafts:
+        headline: Invisible Artifacts
+        type: pages
+        status: draft
+        templates: artifact
+      published:
+        headline: Visible Artifacts
+        type: pages
+        status: unlisted
+        templates: artifact
+
+  - width: 1/3
+    fields:
+      headline:
+        label: Headline
+        type: text
+        required: true
+      previewText:
+        label: Previewtext Text
+        type: textarea
+        required: true
+      text:
+        label: Text
+        type: textarea
+        size: medium
+        required: true

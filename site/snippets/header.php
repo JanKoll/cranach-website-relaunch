@@ -51,7 +51,9 @@
     <div class="top-bar-right">
       <div class="meta-nav">
         <ul class="menu">
-          <li><a href="#">Kontakt</a></li>
+          <?php foreach ($site->header()->toPages() as $item): ?>
+              <li><a href="<?= $item->url() ?>"><?= $item->title() ?></a></li>
+          <?php endforeach ?>
         </ul>
         <ul class="language">
           <?php foreach($kirby->languages() as $language): ?>

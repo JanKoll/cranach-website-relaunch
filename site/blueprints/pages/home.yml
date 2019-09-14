@@ -4,12 +4,16 @@ icon: 🏠
 options:
   status: false
 
-sections:
-  info:
-    headline: Info
-    type: info
-    text: All content for the homepage is being pulled from the photography page.
+columns:
+  - width: 2/3
+    sections:
+      headerImage:
+        type: files
+        max: 5
+        accept: image
 
-  
-
-
+  - width: 1/3
+    fields:
+      pages:
+        type: pages
+        max: 5

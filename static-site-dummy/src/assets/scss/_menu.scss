@@ -65,6 +65,9 @@
     overflow-y: scroll;
     max-height: calc(100vh - 2.5rem);
     top: 55px;
+    left: 0;
+    right: 0;
+    z-index: 999;
   }
 
   ul {

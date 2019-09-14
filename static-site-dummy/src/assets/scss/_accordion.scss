@@ -8,6 +8,11 @@
 
   .article-accordion-title {
     color: unset;
+
+    @include breakpoint(medium up) {
+      cursor: default;
+    }
+
     &:before {
       content: "+";
       position: absolute;

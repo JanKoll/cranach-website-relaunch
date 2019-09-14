@@ -1,14 +1,13 @@
-title: Simple Page
+title: Artifact
 icon: 📝
 
 status:
   draft: true
   unlisted:
-    label: Hidden Page
+    label: Published
     text: The page is not listed in the main menu
-  listed:
-    label: Menu Page
-    text: The page is listed in the main menu
+  listed: false
+
 
 tabs:
   intro:
@@ -30,6 +29,9 @@ tabs:
             type: textarea
             size: medium
             required: true
+          tags:
+            label: Tags
+            type: tags
 
       - width: 1/3
         sections:
@@ -62,7 +64,7 @@ tabs:
                     label: Text
                     type: textarea
           multi:
-            name: Paragraph with Images
+            name: Multipe Accordion Paragraph (Material / Technik)
             tabs:
               content:
                 fields:
@@ -75,23 +77,23 @@ tabs:
                     columns: 1
                     fieldsets:
                       bodyMultiText:
-                        name: Paragraph
+                        name: Accordion
                         tabs:
                           content:
                             label: Content
                             icon: edit
                             fields:
+                              paragraphMultiDate:
+                                icon: calendar
+                                label: Date
+                                type: date
+                                default: today
+                              paragraphMultiTarget:
+                                label: Target
+                                type: text
+                              paragraphMultiTechnology:
+                                label: Technology
+                                type: text
                               paragraphMultiText:
                                 label: Text
                                 type: textarea
-                      bodyMultiImage:
-                        name: Image
-                        tabs:
-                          content:
-                            label: Content
-                            icon: edit
-                            fields:
-                              paragraphMultiImage:
-                                type: files
-                                max: 1
-                                accept: image

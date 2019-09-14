@@ -1,16 +1,58 @@
 title: Site
 
 columns:
-  - width: 1/2
+  - width: 1/1
     sections:
-      albums: sections/albums
-  - width: 1/2
-    sections:
-      notes: sections/notes
-      pages:
+      main:
         type: pages
-        create: default
         template:
-          - about
           - home
+  - width: 1/2
+    sections:
+
+      drafts:
+        headline: Drafts
+        type: pages
+        status: drafts
+        create:
           - default
+        template:
+          - default
+          - news
+          - research
+
+      published:
+        headline: Main Navigation
+        type: pages
+        status: listed
+        create:
+          - default
+        template:
+          - default
+          - news
+          - research
+
+      invisible:
+        headline: Invisible Pages
+        type: pages
+        status: unlisted
+        create:
+          - default
+        template:
+          - default
+          - news
+          - research
+
+
+  - width: 1/2
+      fields:
+        header:
+          label: Header Meta Navigation
+          type: pages
+          template:
+            - default
+        footer:
+          label: Footer Meta Navigation
+          type: pages
+          template:
+            - default

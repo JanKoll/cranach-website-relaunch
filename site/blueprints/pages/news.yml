@@ -1,0 +1,56 @@
+title: News
+icon: 📝
+
+status:
+  draft: true
+  unlisted:
+    label: Hidden Page
+    text: The page is not listed in the main menu
+  listed: false
+
+columns:
+  - width: 2/3
+    fields:
+      mybuilder:
+        label: Paragraphs
+        type: builder
+        columns: 1
+        fieldsets:
+          bodytext:
+            name: Paragraph
+            tabs:
+              content:
+                label: Content
+                icon: edit
+                fields:
+                  text:
+                    label: Text
+                    type: textarea
+          image:
+            name: Image
+            tabs:
+              content:
+                label: Bild
+                icon: edit
+                fields:
+                  builderimg:
+                    label: Bild des Interviewten
+                    type:  files
+                    max: 1
+
+  - width: 1/3
+    fields:
+      headline:
+        label: Headline
+        type: text
+        required: true
+      previewText:
+        label: Previewtext Text
+        type: textarea
+        required: true
+      date:
+        icon: calendar
+        label: Datum
+        type: date
+        default: today
+        required: true

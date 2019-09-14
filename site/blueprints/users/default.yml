@@ -18,18 +18,4 @@ columns:
         label: Country
         type: text
 
-  - width: 1/2
-    fields:
-      website:
-        label: Website
-        type: url
-      twitter:
-        label: Twitter
-        type: text
-        icon: twitter
-        placeholder: @username
-      instagram:
-        label: Instagram
-        type: text
-        icon: instagram
-        placeholder: username
+

@@ -1,0 +1,43 @@
+title: Research
+icon: 📝
+
+options:
+  delete: false
+
+status:
+  draft: true
+  unlisted:
+    label: Hidden Page
+    text: The page is not listed in the main menu
+  listed:
+    label: Menu Page
+    text: The page is listed in the main menu
+
+columns:
+  - width: 2/3
+    fields:
+      headline:
+        label: Headline
+        type: text
+        required: true
+      previewText:
+        label: Previewtext Text
+        type: textarea
+        required: true
+      text:
+        label: Text
+        type: textarea
+        size: medium
+        required: true
+
+  - width: 1/3
+    sections:
+      headerImage:
+        type: files
+        max: 5
+        accept: image
+      pages:
+        type: pages
+        layout: cards
+        create:
+          - gallery

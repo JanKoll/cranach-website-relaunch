@@ -52,12 +52,12 @@
     align-items: flex-end;
   }
 
-  .menu .active > a, .menu li:hover > a {
+  .menu .active > a, .menu li:hover > a, .menu li.is-active > a {
     background: $primary-color;
     color: $white;
   }
 
-  .menu .active:after, .menu li:hover a:after  {
+  .menu .active:after, .menu li:hover a:after, .menu li.active a:after, .menu li.is-active a:after  {
     border-color: $white transparent transparent !important;
   }
 
@@ -73,6 +73,10 @@
   ul {
     background: $white;
     align-items: flex-end;
+
+    .vertical {
+      box-shadow: -.25rem .25rem .25rem rgba($black, .05), .25rem .25rem .25rem rgba($black, .05);
+    }
 
     li {
       @include breakpoint(medium down) {
@@ -137,6 +141,7 @@
 
         &.language {
           margin: 0;
+          text-transform: uppercase;
           @include breakpoint(medium) {
             margin: 0 0 inherit 1rem;
           }
@@ -151,6 +156,7 @@
             &:not(:first-child) {
               &:before {
                 content: "|";
+                font-weight: normal !important;
               }
             }
           }
@@ -164,6 +170,8 @@
       height: 2rem;
       input {
         transition: all .25s ease-out;
+        box-shadow: unset;
+        outline: unset;
       }
 
       svg path {

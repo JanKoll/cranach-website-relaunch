@@ -53,6 +53,12 @@ footer {
     padding-bottom: 1rem;
     color: $white;
 
+    @include breakpoint(medium) {
+      div.medium-4 {
+        align-items: center;
+        display: flex;
+      }
+    }
 
     @include breakpoint(medium down) {
       div {

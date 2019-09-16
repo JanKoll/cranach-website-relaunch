@@ -1,6 +1,6 @@
 <!-- Slider -->
 
-  <div class="orbit <?php if($page->template() == 'artifact' || $page->template() == 'home') echo 'large' ?>" role="region" aria-label="Favorite Space Pictures" data-orbit>
+  <div class="orbit <?php if($page->intendedTemplate() == 'artefact' || $page->template() == 'home') echo 'large' ?>" role="region" aria-label="Favorite Space Pictures" data-orbit>
     <div class="orbit-wrapper">
       <div class="orbit-controls">
         <button class="orbit-previous"><span class="show-for-sr">Previous Slide</span>&#9664;&#xFE0E;</button>

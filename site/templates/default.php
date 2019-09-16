@@ -11,7 +11,7 @@
                 <?php snippet('breadcrumbs') ?>
 
                 <!-- Article Navigation -->
-                <?php if(!$page->intendedTemplate() == 'news'): ?>
+                <?php if(!($page->intendedTemplate() == 'news')): ?>
                   <?php snippet('jump-nav') ?>
                 <?php endif ?>
               </div>

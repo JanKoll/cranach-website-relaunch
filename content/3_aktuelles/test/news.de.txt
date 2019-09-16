@@ -16,6 +16,13 @@ Mybuilder:
     - placeholder_1200x600_2.jpg
   _key: newsImage
   _uid: newsImage_1568669205157_334
+- 
+  paragraphnewstext: |
+    Donec id elit non mi porta gravida at eget metus. Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Nullam id dolor id nibh ultricies vehicula ut id elit. Sed posuere consectetur est at lobortis.
+    
+    Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Nulla vitae elit libero, a pharetra augue. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Vestibulum id ligula porta felis euismod semper. Nullam id dolor id nibh ultricies vehicula ut id elit. Sed posuere consectetur est at lobortis.
+  _key: newsText
+  _uid: newsText_1568671968528_2247
 
 ----
 

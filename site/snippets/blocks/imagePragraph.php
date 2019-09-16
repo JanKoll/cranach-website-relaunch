@@ -16,7 +16,7 @@
 
                 <?php else: ?>
 
-                    <?= $multi->_key() ?>
+                    <?= $multi->paragraphmultiimage()->toFile() ?>
 
                 <?php endif ?>
               <?php endforeach ?>

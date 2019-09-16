@@ -83,6 +83,31 @@ tabs:
                       paragraphMultiImage:
                         label: Image
                         type: files
+                        max: 1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

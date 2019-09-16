@@ -1,5 +1,4 @@
 <?php snippet('header') ?>
-<?php snippet('slider') ?>
 
     <!-- Content -->
       <main id="sticky-container" data-something>

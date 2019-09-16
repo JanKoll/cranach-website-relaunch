@@ -10,6 +10,12 @@
                 <?php foreach ($item->children()->listed() as $subitem): ?>
                   <li><a href="<?= $subitem->url() ?>"><?= $subitem->title()->html() ?></a></li>
                 <?php endforeach ?>
+              <?php elseif($item->template() == 'news-page'): ?>
+                test
+              <?php else: ?>
+                <?php foreach($item->mybuilder()->toBuilderBlocks() as $subitem): ?>
+                  <li><a href="<?= $item->url() ?>#<?= $subitem->_uid() ?>"><?= $subitem->paragraphHeadline() ?></a></li>
+                <?php endforeach ?>
               <?php endif ?>
             </ul>
           </div>

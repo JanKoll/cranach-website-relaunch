@@ -11,19 +11,25 @@
                 <?php snippet('breadcrumbs') ?>
 
                 <!-- Article Navigation -->
-                <?php snippet('jump-nav') ?>
+                <?php if(!$page->intendedTemplate() == 'news'): ?>
+                  <?php snippet('jump-nav') ?>
+                <?php endif ?>
               </div>
             </div>
 
             <div class="cell medium-8 small-12">
               <div class="head">
                 <h2><?= $page->headline() ?></h2>
-                <p><?= $page->subHeadline() ?></p>
+                <p><?= $page->subHeadline() ?><?= $page->date()->toDate('d. M Y') ?></p>
                 <div class="media-control">0:00 / 5:24</div>
               </div>
 
               <div class="content">
                 <?= $page->text()->kt() ?>
+                <?php if($page->intendedTemplate() == 'news'): ?>
+                  <?= $page->previewText()->kt() ?>
+                <?php endif ?>
+
               </div>
             </div>
           </div>

@@ -3,7 +3,8 @@
     .orbit-container {
       outline: none;
       height: 70vh;
-      min-height: 15rem;
+      max-height: 70vh;
+      min-height: 10rem;
       figcaption {
         display: inline-block;
       }
@@ -13,7 +14,8 @@
   .orbit-container {
     outline: none;
     height: 30vh;
-    min-height: 15rem;
+    max-height: 30vh;
+    min-height: 10rem;
     figure {
       figcaption {
         position: absolute;

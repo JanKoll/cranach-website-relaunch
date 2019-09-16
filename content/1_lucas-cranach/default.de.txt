@@ -28,21 +28,21 @@ Donec id elit non mi porta gravida at eget metus. Donec id elit non mi porta gra
 
 Mybuilder:
 
--
+- 
   paragraphheadline: Test
   paragraphtext: Hallo Welt
   _key: paragraph
   _uid: paragraph_1568637027834_112
--
+- 
   paragraphheadline: Test
   mybuilder:
-    -
+    - 
       paragraphmultitext: Hallo Welt
       _key: bodyMultiText
       _uid: bodyMultiText_1568638498989_267
-    -
+    - 
       paragraphmultiimage:
-        - placeholder_1200x600.jpg
+        - placeholder_1200x600_2.jpg
       _key: bodyMultiImage
       _uid: bodyMultiImage_1568638503899_390
   _key: imagePragraph

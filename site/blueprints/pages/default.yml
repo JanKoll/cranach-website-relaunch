@@ -63,7 +63,7 @@ tabs:
           imagePragraph:
             name: Paragraph with Images
             fields:
-              paragraphMultiHeadline:
+              paragraphHeadline:
                 label: Headline
                 type: text
               mybuilder:

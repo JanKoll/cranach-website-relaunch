@@ -6,7 +6,7 @@
 
         <div class="article-accordion" data-accordion data-allow-all-closed="true">
           <div data-accordion-item>
-          <a href="#" class="article-accordion-title"><h2><?= $data->paragraphMultiHeadline() ?></h2></a>
+          <a href="#" class="article-accordion-title"><h2><?= $data->paragraphHeadline() ?></h2></a>
 
             <div class="article-accordion-content" data-tab-content style="display: none;">
 

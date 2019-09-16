@@ -38,6 +38,7 @@ tabs:
         sections:
           headerImage:
             type: files
+            min: 1
             max: 5
             accept: image
 

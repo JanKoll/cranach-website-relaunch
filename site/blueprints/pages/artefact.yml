@@ -34,6 +34,7 @@ tabs:
         sections:
           headerImage:
             type: files
+            min: 1
             max: 5
             accept: image
 
@@ -45,7 +46,7 @@ tabs:
             type: date
             default: today
             required: true
-            
+
       - width: 1/3
         fields:
           tags:
@@ -60,52 +61,45 @@ tabs:
       mybuilder:
         label: Paragraphs
         type: builder
-        columns: 1
         fieldsets:
-          bodytext:
+          paragraph:
             name: Paragraph
-            tabs:
-              content:
-                label: Content
-                icon: edit
-                fields:
-                  paragraphHeadline:
-                    label: Headline
-                    type: text
-                  paragraphText:
-                    label: Text
-                    type: textarea
+            fields:
+              paragraphHeadline:
+                label: Headline
+                type: text
+              paragraphText:
+                label: Text
+                type: textarea
+
           multi:
             name: Multipe Accordion Paragraph (Material / Technik)
-            tabs:
-              content:
-                fields:
-                  paragraphMultiHeadline:
-                    label: Headline
-                    type: text
-                  mybuilder:
-                    label: Paragraphs
-                    type: builder
-                    columns: 1
-                    fieldsets:
-                      bodyMultiText:
-                        name: Accordion
-                        tabs:
-                          content:
-                            label: Content
-                            icon: edit
-                            fields:
-                              paragraphMultiDate:
-                                icon: calendar
-                                label: Date
-                                type: date
-                                default: today
-                              paragraphMultiTarget:
-                                label: Target
-                                type: text
-                              paragraphMultiTechnology:
-                                label: Technology
-                                type: text
-                              paragraphMultiText:
-                                label: Text
-                                type: textarea
+            fields:
+              paragraphHeadline:
+                label: Headline
+                type: text
+              mybuilder:
+                label: Paragraphs
+                type: builder
+                fieldsets:
+                  bodyMultiText:
+                    name: Accordion
+                    tabs:
+                      content:
+                        label: Content
+                        icon: edit
+                        fields:
+                          paragraphMultiDate:
+                            icon: calendar
+                            label: Date
+                            type: date
+                            default: today
+                          paragraphMultiTarget:
+                            label: Target
+                            type: text
+                          paragraphMultiTechnology:
+                            label: Technology
+                            type: text
+                          paragraphMultiText:
+                            label: Text
+                            type: textarea

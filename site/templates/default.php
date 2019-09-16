@@ -1,9 +1,5 @@
 <?php snippet('header') ?>
-
-
-
-<h1>Spacer</h1>
-<h1>Spacer</h1>
+<?php snippet('slider') ?>
 
     <!-- Content -->
 
@@ -43,18 +39,8 @@
           </div>
         </div>
 
-
-
         <?php snippet('builder') ?>
 
-
-
-
       </main>
-
-
-
-
-
 
 <?php snippet('footer') ?>

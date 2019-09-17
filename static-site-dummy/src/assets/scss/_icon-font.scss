@@ -42,9 +42,11 @@
 // .icon-arrow-top:after {
 //   content: "\e905";
 // }
-// .icon-arrows-expand:after {
-//   content: "\e906";
-// }
-// .icon-arrows-tiny:after {
-//   content: "\e907";
-// }
+.icon-arrows-expand:after {
+  content: "\e906";
+  color: $white;
+}
+.icon-arrows-tiny:after {
+  content: "\e907";
+  color: $white;
+}

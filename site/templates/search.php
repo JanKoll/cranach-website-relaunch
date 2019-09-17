@@ -5,7 +5,7 @@
     <div class="grid-container chapter-spacer">
       <div class="grid-x grid-padding-x">
 
-        <div class="cell medium-offset-4 medium-8 small-12">
+        <div class="cell medium-offset-2 medium-8 small-12">
 
           <div class="grid-x grid-padding-x">
             <div class="cell">

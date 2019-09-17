@@ -9,8 +9,10 @@
                 <!-- Breadcrumbs -->
                 <?php snippet('breadcrumbs') ?>
 
-                <a href="<?= $page->children()->shuffle()->first()->url() ?>" class="button random icon-shuffle">Random Article</a>
-
+                <?php if($page->hasChildren()): ?>
+                  <a href="<?= $page->children()->shuffle()->first()->url() ?>" class="button random icon-shuffle">Random Article</a>
+                <?php endif ?>
+                
                 <!-- Filter -->
                 <form>
                   <fieldset class="fieldset">

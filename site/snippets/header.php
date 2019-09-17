@@ -62,6 +62,11 @@
             </a></li>
           <?php endforeach ?>
         </ul>
+        <ul class="language">
+          <li>
+            <a type="button" name="button" id="theme-toggle">DarkMode</a>
+          </li>
+        </ul>
       </div>
 
       <div class="search">

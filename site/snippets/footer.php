@@ -6,12 +6,27 @@
           <div class="cell medium-auto small-12">
             <ul>
               <li><a href="<?= $item->url() ?>"> <?= $item->title()->html() ?> </a></li>
-              <?php if($item->hasChildren()):?>
+              <?php if($item->hasListedChildren()):?>
                 <?php foreach ($item->children()->listed() as $subitem): ?>
                   <li><a href="<?= $subitem->url() ?>"><?= $subitem->title()->html() ?></a></li>
                 <?php endforeach ?>
               <?php elseif($item->template() == 'news-page'): ?>
-                test
+
+                <?php
+                  $callback = function ($f) {
+                    return $f->date()->toDate('Y');
+                  };
+
+                  $years = $item->children()->sortby('date','desc')->group($callback);
+
+                  foreach ($years as $year => $itemsPerYear) :
+                ?>
+
+                <li><a href="#"><?= $year ?></a></li>
+
+                <?php endforeach ?>
+
+
               <?php else: ?>
                 <?php foreach($item->mybuilder()->toBuilderBlocks() as $subitem): ?>
                   <li><a href="<?= $item->url() ?>#<?= $subitem->_uid() ?>"><?= $subitem->paragraphHeadline() ?></a></li>

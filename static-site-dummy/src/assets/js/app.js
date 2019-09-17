@@ -13,5 +13,26 @@ require('foundation-sites');
 // the line below
 //import './lib/foundation-explicit-pieces';
 
-
 $(document).foundation();
+
+$(document).ready(function() {
+
+  if (document.cookie == "mode=dark") {
+    $("body").addClass("dark");
+    console.log("Allready Dark");
+  }
+
+   $( "#theme-toggle" ).on( "click", function() {
+      if (document.cookie != "mode=dark") {
+        $("body").toggleClass("dark");
+        document.cookie = "mode=0";
+        document.cookie = "mode=dark";
+        console.log(document.cookie);
+      } else {
+        $("body").toggleClass("dark");
+        document.cookie = "mode=0";
+        document.cookie = "mode=light";
+        console.log(document.cookie);
+      }
+    });
+ });

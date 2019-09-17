@@ -21,6 +21,9 @@ tabs:
             label: Headline
             type: text
             required: true
+          subHeadline:
+            label: Headline
+            type: text
           previewText:
             label: Previewtext Text
             type: textarea
@@ -35,6 +38,7 @@ tabs:
         sections:
           headerImage:
             type: files
+            min: 1
             max: 5
             accept: image
 
@@ -46,52 +50,72 @@ tabs:
       mybuilder:
         label: Paragraphs
         type: builder
-        columns: 1
         fieldsets:
-          bodytext:
+          paragraph:
             name: Paragraph
-            tabs:
-              content:
-                label: Content
-                icon: edit
-                fields:
-                  paragraphHeadline:
-                    label: Headline
-                    type: text
-                  paragraphText:
-                    label: Text
-                    type: textarea
-          multi:
+            fields:
+              paragraphHeadline:
+                label: Headline
+                type: text
+              paragraphText:
+                label: Text
+                type: textarea
+
+          imagePragraph:
             name: Paragraph with Images
-            tabs:
-              content:
-                fields:
-                  paragraphMultiHeadline:
-                    label: Headline
-                    type: text
-                  mybuilder:
-                    label: Paragraphs
-                    type: builder
-                    columns: 1
-                    fieldsets:
-                      bodyMultiText:
-                        name: Paragraph
-                        tabs:
-                          content:
-                            label: Content
-                            icon: edit
-                            fields:
-                              paragraphMultiText:
-                                label: Text
-                                type: textarea
-                      bodyMultiImage:
-                        name: Image
-                        tabs:
-                          content:
-                            label: Content
-                            icon: edit
-                            fields:
-                              paragraphMultiImage:
-                                type: files
-                                max: 1
-                                accept: image
+            fields:
+              paragraphHeadline:
+                label: Headline
+                type: text
+              mybuilder:
+                label: Paragraphs
+                type: builder
+                fieldsets:
+                  bodyMultiText:
+                    name: Paragraph
+                    fields:
+                      paragraphMultiText:
+                        label: Text
+                        type: textarea
+                  bodyMultiImage:
+                    name: Image
+                    fields:
+                      paragraphMultiImage:
+                        label: Image
+                        type: files
+                        max: 1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                        #asdf

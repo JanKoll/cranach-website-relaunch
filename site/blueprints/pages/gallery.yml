@@ -15,21 +15,22 @@ columns:
     sections:
       headerImage:
         type: files
+        min: 1
         max: 5
         accept: image
 
   - width: 2/3
     sections:
       drafts:
-        headline: Invisible Artifacts
+        headline: Invisible Artefacts
         type: pages
         status: draft
-        templates: artifact
+        templates: artefact
       published:
-        headline: Visible Artifacts
+        headline: Visible Artefacts
         type: pages
         status: unlisted
-        templates: artifact
+        templates: artefact
 
   - width: 1/3
     fields:

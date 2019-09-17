@@ -541,7 +541,7 @@ $pagination-item-color: $black;
 $pagination-item-padding: rem-calc(3 10);
 $pagination-item-spacing: rem-calc(1);
 $pagination-radius: $global-radius;
-$pagination-item-background-hover: $light-gray;
+$pagination-item-background-hover: rgba($medium-gray, .25);
 $pagination-item-background-current: $primary-color;
 $pagination-item-color-current: $white;
 $pagination-item-color-disabled: $medium-gray;

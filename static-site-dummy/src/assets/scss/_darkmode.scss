@@ -1,0 +1,68 @@
+body.dark {
+
+  background: $black;
+
+  p, h2, h3, a {
+    color: darken($light-gray, 30);
+  }
+
+  .breadcrumbs li, label, legend {
+    color: $light-gray;
+  }
+
+  .card-section p {
+    color: $medium-gray;
+  }
+
+  .top-bar {
+    background: $primary-color;
+
+    a.logo {
+      color: $white;
+    }
+
+    li {
+      a {
+        color: $white;
+      }
+      ul {
+        background: $primary-color;
+      }
+    }
+
+    .menu .active > a, .menu li:hover > a, .menu li.is-active > a {
+      background: darken($primary-color, 10);
+      color: $white;
+    }
+
+    .menu li a:after  {
+      border-color: $white transparent transparent !important;
+    }
+  }
+
+  footer {
+    border-top: 1px solid $medium-gray;
+
+    a:hover {
+        color: $light-gray;
+    }
+  }
+
+  .home {
+      .cell {
+        &.primary {
+          color: $white;
+          a {
+            color: $white;
+          }
+        }
+        &.gray {
+          color: $white;
+        }
+        &.light-gray {
+          background: $light-gray;
+        }
+      }
+  }
+
+}

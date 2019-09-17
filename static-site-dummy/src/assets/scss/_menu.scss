@@ -39,7 +39,7 @@
 }
 
 .top-bar {
-  border-bottom: 1px solid $light-gray;
+  border-bottom: 1px solid rgba($medium-gray, .25 );
   position: fixed;
 
   @include breakpoint(medium) {
@@ -71,7 +71,7 @@
   }
 
   ul {
-    background: $white;
+    background: unset;
     align-items: flex-end;
 
     .vertical {
@@ -79,6 +79,9 @@
     }
 
     li {
+      ul {
+        background: $white;
+      }
       @include breakpoint(medium down) {
         width: 100%;
         ul {
@@ -117,7 +120,7 @@
   .top-bar-right {
     flex-wrap: wrap;
     order: 1;
-    background: $white;
+    background: unset;
 
     @include breakpoint(medium) {
       order: unset;

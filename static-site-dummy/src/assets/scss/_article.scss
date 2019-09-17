@@ -95,7 +95,7 @@
   }
 
   &:nth-child(2n + 1) {
-    background: $light-gray;
+    background: rgba($medium-gray, .1);
   }
 
   .chapter-inner {

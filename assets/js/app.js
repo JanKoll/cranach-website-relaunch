@@ -21789,6 +21789,26 @@ __webpack_require__(/*! foundation-sites */ "./node_modules/foundation-sites/dis
 
 
 jquery__WEBPACK_IMPORTED_MODULE_0___default()(document).foundation();
+jquery__WEBPACK_IMPORTED_MODULE_0___default()(document).ready(function () {
+  if (document.cookie == "mode=dark") {
+    jquery__WEBPACK_IMPORTED_MODULE_0___default()("body").addClass("dark");
+    console.log("Allready Dark");
+  }
+
+  jquery__WEBPACK_IMPORTED_MODULE_0___default()("#theme-toggle").on("click", function () {
+    if (document.cookie != "mode=dark") {
+      jquery__WEBPACK_IMPORTED_MODULE_0___default()("body").toggleClass("dark");
+      document.cookie = "mode=0";
+      document.cookie = "mode=dark";
+      console.log(document.cookie);
+    } else {
+      jquery__WEBPACK_IMPORTED_MODULE_0___default()("body").toggleClass("dark");
+      document.cookie = "mode=0";
+      document.cookie = "mode=light";
+      console.log(document.cookie);
+    }
+  });
+});
 
 /***/ }),
 

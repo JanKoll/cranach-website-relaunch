@@ -27,3 +27,21 @@ body {
     right: 3rem;
   }
 }
+
+.button.random {
+  margin-bottom: unset;
+  text-align: unset;
+  width: 100%;
+  background: $medium-gray;
+  position: relative;
+  &:hover {
+    background: $primary-color;
+  }
+  &.icon-shuffle:after {
+    content: "\e900";
+    position: absolute;
+    right: 1rem;
+    font-size: 1.25rem;
+    top: .6rem;
+  }
+}

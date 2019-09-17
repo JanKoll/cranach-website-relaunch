@@ -19,7 +19,7 @@
         transform: translate(0, -7.25rem);
         margin-bottom: -7.25rem;
       }
-      
+
       @include breakpoint(medium down) {
         padding-top: 4rem;
         padding-bottom: 3rem;
@@ -85,6 +85,10 @@
   padding-top: 2rem;
   padding-bottom: 2rem;
 
+  p:last-child {
+    margin-bottom: 0;
+  }
+
   @include breakpoint(medium) {
     padding-top: 4rem;
     padding-bottom: 4rem;
@@ -113,5 +117,20 @@
         top: calc(100% + 1.5rem - .175rem / 2);
       }
     }
+  }
+}
+
+.chapter-spacer {
+
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+
+  p:last-child {
+    margin-bottom: 0;
+  }
+
+  @include breakpoint(medium) {
+    padding-top: 4rem;
+    padding-bottom: 4rem;
   }
 }

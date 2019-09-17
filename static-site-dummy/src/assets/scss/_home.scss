@@ -2,12 +2,12 @@
   .grid-x {
     align-items: stretch;
     &.offset {
-      transform: translate(0, -4rem);
-      box-shadow: 0 0 2rem rgba($black, .3);
+      // transform: translate(0, -4rem);
+      // box-shadow: 0 0 2rem rgba($black, .3);
     }
     .grid-x {
       height: 100%;
-      box-shadow: 0 0 1rem rgba($black, .5);
+      // box-shadow: 0 0 1rem rgba($black, .5);
     }
     .cell {
       min-height: calc(1024px / 6);
@@ -30,5 +30,24 @@
         background: $light-gray;
       }
     }
+  }
+}
+
+.home-spacer {
+  padding-top: 2rem;
+  color: $white;
+
+  a {
+    color: $white;
+  }
+
+  .cell {
+    background: $primary-color;
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+  }
+
+  @include breakpoint(medium) {
+    padding-top: 4rem;
   }
 }

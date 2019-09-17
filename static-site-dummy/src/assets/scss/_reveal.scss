@@ -1,0 +1,32 @@
+.reveal {
+
+  height: unset;
+  min-height: unset;
+  padding: .25rem;
+
+  @include breakpoint(medium) {
+    max-width: 80%;
+    width: 100%;
+  }
+
+  overflow: visible;
+
+
+  .close-button {
+    color: $white;
+    position: fixed;
+    padding: 1rem;
+  }
+}
+
+.icon-arrows-expand {
+  height: 1.5rem;
+
+  &:focus {
+    outline: unset;
+  }
+
+  &:after {
+    font-size: 1.5rem;
+  }
+}

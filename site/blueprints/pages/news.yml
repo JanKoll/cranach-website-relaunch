@@ -14,29 +14,20 @@ columns:
       mybuilder:
         label: Paragraphs
         type: builder
-        columns: 1
         fieldsets:
-          bodytext:
+          newsText:
             name: Paragraph
-            tabs:
-              content:
-                label: Content
-                icon: edit
-                fields:
-                  text:
-                    label: Text
-                    type: textarea
-          image:
+            fields:
+              paragraphNewsText:
+                label: Text
+                type: textarea
+          newsImage:
             name: Image
-            tabs:
-              content:
-                label: Bild
-                icon: edit
-                fields:
-                  builderimg:
-                    label: Bild des Interviewten
-                    type:  files
-                    max: 1
+            fields:
+              paragraphNewsImage:
+                label: Image
+                type: files
+                max: 1
 
   - width: 1/3
     fields:

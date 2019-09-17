@@ -29,7 +29,7 @@
             <div class="cell medium-8 small-12">
 
               <div class="grid-x grid-padding-x">
-                <?php foreach ($page->children() as $item): ?>
+                <?php foreach ($list=$page->children()->paginate(9) as $item): ?>
                   <div class="cell medium-4 small-6">
                     <div class="card">
                       <a href="<?= $item->url() ?>">
@@ -42,20 +42,12 @@
                   </div>
                 <?php endforeach ?>
 
-                <nav class="cell" aria-label="Pagination">
-                  <ul class="pagination text-center">
-                    <li class="pagination-previous disabled">Previous</li>
-                    <li class="current"><span class="show-for-sr">You're on page</span> 1</li>
-                    <li><a href="#" aria-label="Page 2">2</a></li>
-                    <li><a href="#" aria-label="Page 3">3</a></li>
-                    <li><a href="#" aria-label="Page 4">4</a></li>
-                    <li class="ellipsis"></li>
-                    <li><a href="#" aria-label="Page 12">12</a></li>
-                    <li><a href="#" aria-label="Page 13">13</a></li>
-                    <li class="pagination-next"><a href="#" aria-label="Next page">Next</a></li>
-                  </ul>
-                </nav>
-
+                <?php if($list->last()->indexOf()+1 < 9): ?>
+            
+                <?php else:?>
+                 <?php snippet('pagination', ['list' => $list]) ?>
+                <?php endif ?>
+                
               </div>
             </div>
           </div>

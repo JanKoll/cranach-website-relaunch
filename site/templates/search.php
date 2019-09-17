@@ -12,7 +12,7 @@
               <h1>Results for <i><?= html($query) ?></i></h1>
               <hr />
             </div>
-            <?php foreach ($results as $result): ?>
+            <?php foreach ($list=$results->paginate(9) as $result): ?>
                 <div class="cell">
                   <h3><?= $result->headline() ?></h3>
                   <p><?= $result->previewText() ?></p>
@@ -21,19 +21,13 @@
                 </div>
             <?php endforeach ?>
 
-            <nav class="cell" aria-label="Pagination">
-              <ul class="pagination text-center">
-                <li class="pagination-previous disabled">Previous</li>
-                <li class="current"><span class="show-for-sr">You're on page</span> 1</li>
-                <li><a href="#" aria-label="Page 2">2</a></li>
-                <li><a href="#" aria-label="Page 3">3</a></li>
-                <li><a href="#" aria-label="Page 4">4</a></li>
-                <li class="ellipsis"></li>
-                <li><a href="#" aria-label="Page 12">12</a></li>
-                <li><a href="#" aria-label="Page 13">13</a></li>
-                <li class="pagination-next"><a href="#" aria-label="Next page">Next</a></li>
-              </ul>
-            </nav>
+            <?php if( $list == '' ): ?>
+              <h3>  Keine Ergebnisse </h3> 
+            <?php elseif(($list->last()->indexOf()+1) < 5): ?>
+            
+            <?php else:?>
+            
+            <?php endif ?>
 
           </div>
         </div>

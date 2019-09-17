@@ -41,7 +41,15 @@
           <div class="cell medium-6 small-12 primary">
             <h2><?= $childOne->headline() ?></h2>
             <p><?= $childOne->previewText() ?></p>
-            <a href="<?= $childOne->url() ?>">Mehr Lesen...</a>
+            <a href="<?= $childOne->url() ?>">
+              <?php 
+                if($kirby->language()->code()=='de') {
+                  echo 'Mehr lesen...'; 
+                } else {
+                  echo 'Read more...';  
+                };
+              ?>
+            </a>
           </div>
         </div>
       </div>
@@ -56,7 +64,15 @@
           <div class="cell small-12 gray">
             <h2><?= $childTwo->headline() ?></h2>
             <p><?= $childTwo->previewText() ?></p>
-            <a href="<?= $childTwo->url() ?>">Mehr Lesen...</a>
+            <a href="<?= $childTwo->url() ?>">
+              <?php 
+                  if($kirby->language()->code()=='de') {
+                    echo 'Mehr lesen...'; 
+                  } else {
+                    echo 'Read more...';  
+                  };
+              ?>
+            </a>
           </div>
         </div>
       </div>
@@ -69,7 +85,15 @@
           <div class="cell medium-4 small-12 light-gray">
             <h2><?= $childThree->headline() ?></h2>
             <p><?= $childThree->previewText() ?></p>
-            <a href="<?= $childThree->url() ?>">Mehr Lesen...</a>
+            <a href="<?= $childThree->url() ?>">
+              <?php 
+                  if($kirby->language()->code()=='de') {
+                    echo 'Mehr lesen...'; 
+                  } else {
+                    echo 'Read more...';  
+                  };
+              ?>
+            </a>
           </div>
           <div class="cell medium-8 small-12" style="background: url('<?= $childThree->images()->nth(0)->url() ?>');"></div>
         </div>
@@ -84,7 +108,15 @@
           <div class="cell small-12 primary">
             <h2><?= $childFour->headline() ?></h2>
             <p><?= $childFour->previewText() ?></p>
-            <a href="<?= $childFour->url() ?>">Mehr Lesen...</a>
+            <a href="<?= $childFour->url() ?>">
+              <?php 
+                if($kirby->language()->code()=='de') {
+                  echo 'Mehr lesen...'; 
+                } else {
+                  echo 'Read more...';  
+                };
+              ?>
+            </a>
           </div>
         </div>
       </div>
@@ -97,7 +129,15 @@
           <div class="cell medium-6 small-12 gray">
             <h2><?= $childFive->headline() ?></h2>
             <p><?= $childFive->previewText() ?></p>
-            <a href="<?= $childFive->url() ?>">Mehr Lesen...</a>
+            <a href="<?= $childFive->url() ?>">
+              <?php 
+                  if($kirby->language()->code()=='de') {
+                    echo 'Mehr lesen...'; 
+                  } else {
+                    echo 'Read more...';  
+                  };
+                ?>
+            </a>
           </div>
           <div class="cell medium-6 small-12" style="background: url('<?= $childFive->images()->nth(0)->url() ?>');"></div>
         </div>

@@ -8,7 +8,17 @@
             <li class="accordion-item" data-accordion-item>
               <a href="#" class="accordion-title">
                 <div class="media-control">0:00 / 5:24</div>
-                <p><b>Datum:</b> <?= $multi->paragraphMultiDate()->toDate('d.m.Y') ?></p>
+                <p>
+                  <b>
+                    <?php 
+                      if($kirby->language()->code()=='de') {
+                        echo 'Datum: '; 
+                      } else {
+                        echo 'Date: ';  
+                      };
+                    ?>
+                    </b> <?= $multi->paragraphMultiDate()->toDate('d.m.Y') ?> 
+                  </p>
                 <p><?= $multi->paragraphMultiTarget() ?></p>
                 <p><?= $multi->paragraphMultiTechnology() ?></p>
               </a>

@@ -1,4 +1,5 @@
-{{> orbital}}
+<?php snippet('header') ?>
+<?php snippet('slider') ?>
 
 <div class="home-spacer grid-container full">
   <div class="grid-container chapter-inner">
@@ -20,7 +21,6 @@
     </div>
   </div>
 </div>
-
 
 <div class="chapter-spacer grid-container home">
   <div class="grid-x offset">
@@ -77,4 +77,4 @@
   </div>
 </div>
 
-<button type="button" name="button" id="theme-toggle" class="button">Toggle</button>
+<?php snippet('footer') ?>

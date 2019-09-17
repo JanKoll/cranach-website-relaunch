@@ -11,11 +11,16 @@
           <li class="orbit-slide <?php if($image->first()) echo 'is-active' ?>">
             <figure class="orbit-figure">
               <img class="orbit-image" src="<?= $image->url() ?>" alt="<?= $image->alt() ?>">
-              <figcaption class="orbit-caption"><?= $image->caption() ?></figcaption>
+              <?php if($page->intendedTemplate() == 'artefact'): ?>
+                <figcaption class="orbit-caption"><a class="icon-arrows-expand" data-open="<?= $image->name() ?>"></a></figcaption>
+                <div class="reveal" id="<?= $image->name() ?>" data-reveal>
+                  <img class="orbit-image" src="<?= $image->url() ?>" alt="<?= $image->alt() ?>">
+                  <button class="close-button icon-arrows-tiny" data-close aria-label="Close modal" type="button"></button>
+                </div>
+              <?php endif ?>
             </figure>
           </li>
         <?php endforeach ?>
-
       </ul>
     </div>
   </div>

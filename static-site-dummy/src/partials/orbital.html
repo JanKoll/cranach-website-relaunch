@@ -1,5 +1,8 @@
 <!-- Slider -->
 
+
+
+
   <div class="orbit large" role="region" aria-label="Favorite Space Pictures" data-orbit>
     <div class="orbit-wrapper">
       <div class="orbit-controls">
@@ -10,7 +13,7 @@
         <li class="is-active orbit-slide">
           <figure class="orbit-figure">
             <img class="orbit-image" src="/assets/img/placeholder_1200x600.jpg" alt="Space">
-            <figcaption class="orbit-caption">Space, the final frontier.</figcaption>
+            <figcaption class="orbit-caption"><button class="button" data-open="exampleModal1">Click me for a modal</button></figcaption>
           </figure>
         </li>
         <li class="orbit-slide">
@@ -33,4 +36,13 @@
         </li>
       </ul>
     </div>
+  </div>
+
+  <div class="reveal" id="exampleModal1" data-reveal>
+
+    <img class="orbit-image" src="/assets/img/placeholder_1200x600.jpg" alt="Space">
+
+    <button class="close-button" data-close aria-label="Close modal" type="button">
+      <span aria-hidden="true">&times;</span>
+    </button>
   </div>

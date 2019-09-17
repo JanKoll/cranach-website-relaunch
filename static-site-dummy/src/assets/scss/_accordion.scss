@@ -51,6 +51,9 @@
         .media-control {
           top: 1rem;
         }
+        &:hover {
+          background: rgba($medium-gray, .1);
+        }
     }
     .accordion-content {
         border-left: none;

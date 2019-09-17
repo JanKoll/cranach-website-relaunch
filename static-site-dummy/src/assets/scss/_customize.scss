@@ -23,6 +23,14 @@ body {
   padding: 0.25rem 0.5rem;
   color: $secondary-color;
 
+  &:after {
+    content: "\e909";
+  }
+
+  &.playing:after {
+    content: "\e908";
+  }
+
   @include breakpoint(medium down) {
     right: 3rem;
   }

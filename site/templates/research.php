@@ -16,7 +16,6 @@
               <div class="head">
                 <h2><?= $page->headline() ?></h2>
                 <p><?= $page->subHeadline() ?><?= $page->date()->toDate('d. M Y') ?></p>
-                <div class="media-control">0:00 / 5:24</div>
               </div>
 
               <div class="content">

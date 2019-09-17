@@ -1,8 +1,8 @@
 <div class="chapter grid-container full" id="<?= $data->_uid() ?>">
   <div class="grid-container chapter-inner">
     <div class="grid-x grid-padding-x">
-      <div class="cell medium-offset-4 medium-8 small-12" data-sticky-container>
-        <div class="media-control">0:00 / 5:24</div>
+      <div class="cell medium-offset-4 medium-8 small-12" data-sticky-container id="<?= $page->uid() ?>-<?= $data->_uid() ?>">
+      <div class="media-control <?= $page->uid() ?>-<?= $data->_uid() ?> icon-pause" onClick="textToSpeech('<?= $page->uid() ?>-<?= $data->_uid() ?>')"></div>
 
         <div class="article-accordion" data-accordion data-allow-all-closed="true">
           <div data-accordion-item>

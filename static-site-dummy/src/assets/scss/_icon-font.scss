@@ -44,9 +44,13 @@
 // }
 .icon-arrows-expand:after {
   content: "\e906";
-  color: $white;
 }
 .icon-arrows-tiny:after {
   content: "\e907";
-  color: $white;
+}
+.icon-pause:after {
+  content: "\e908";
+}
+.icon-play:after {
+  content: "\e909";
 }

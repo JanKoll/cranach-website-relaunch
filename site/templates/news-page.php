@@ -20,37 +20,30 @@
           </nav>
 
           <!-- Article Navigation -->
-          <ul class="article-nav" data-smooth-scroll >
-          <?php
-          $callback = function ($f) {
-            return $f->date()->toDate('Y');
-          };
-          $years = $page->children()->group($callback);
-
-
-
-          foreach ($years as $year => $itemsPerYear) : ?>
-          <li><a href="#"><?= $year ?></a></li>
-          <?php endforeach ?>
-          <li><a href="#top" class="backtop icon-arrow-backtop"></a></li>
-        </ul>
-
+          <ul class="article-nav" data-smooth-scroll>
+            <?php
+            $callback = function ($f) {
+              return $f->date()->toDate('Y');
+            };
+            $years = $page->children()->group($callback);
+            foreach ($years as $year => $itemsPerYear) : ?>
+              <li><a href="#"><?= $year ?></a></li>
+            <?php endforeach ?>
+            <li><a href="#top" class="backtop icon-arrow-backtop"></a></li>
+          </ul>
+        </div>
       </div>
-    </div>
-
-
 
       <div class="news cell medium-8 small-12">
         <div class="grid-x">
 
-          <?php foreach ($list = $page->children()->paginate(2) as $item) : ?>
+          <?php foreach ($list = $page->children()->paginate(5) as $item) : ?>
             <div class="cell small-12">
               <span><?= $item->date()->toDate('d. M Y') ?></span>
               <h3><?= $item->headline() ?></h3>
-              <p><?= $item->previewText() ?>.</p>
+              <p><?= $item->previewText() ?></p>
               <a href="<?= $page->url() ?>">Weiter lesen...</a>
-
-              <?php if (!($item->isLast())) : ?>
+              <?php if (!(($item->indexOf() + 1) % 5 == 0)) : ?>
                 <hr />
               <?php endif ?>
             </div>

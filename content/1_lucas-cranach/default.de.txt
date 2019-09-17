@@ -29,21 +29,237 @@ Donec id elit non mi porta gravida at eget metus. Donec id elit non mi porta gra
 Mybuilder:
 
 - 
-  paragraphheadline: Test
-  paragraphtext: Hallo Welt
-  _key: paragraph
-  _uid: paragraph_1568637027834_112
-- 
-  paragraphheadline: Test
+  paragraphheadline: Lucas Cranach der Ältere
   mybuilder:
     - 
-      paragraphmultitext: Hallo Welt
+      paragraphmultiimage:
+        - inh_cranach1.jpg
+      _key: bodyMultiImage
+      _uid: bodyMultiImage_1568747286500_2870
+    - 
+      paragraphmultitext: >
+        Lucas Cranach der Ältere verkörpert
+        die Ideale eines Mannes im Zeitalter der
+        Renaissance, der neben seiner Tätigkeit
+        als Maler, Grafiker und Buchdrucker auch
+        als Politiker und Unternehmer tätig
+        war. Über seine ersten Lebensjahre ist
+        wenig bekannt. Geboren wurde er in
+        Kronach als eines von vier Kindern des
+        Malers Hans Maler und dessen Ehefrau,
+        einer geborenen Hübner. Sein genaues
+        Geburtsdatum ist nicht überliefert,
+        doch wurde im Jahr 1472 geboren. Den
+        Hinweis darauf liefert ein datiertes
+        Porträt von 1550 in den Uffizien
+        (Florenz), nach dessen Inschrift Lucas
+        Cranach im Alter von 77 Jahren
+        abgebildet ist. Diese Angabe deckt sich
+        mit den Notizen von Matthias Gunderam
+        (1556), einem Cousin von Cranach und
+        dessen erstem Biograph.
       _key: bodyMultiText
-      _uid: bodyMultiText_1568638498989_267
+      _uid: bodyMultiText_1568746973739_2132
+    - 
+      paragraphmultitext: >
+        Genau wie das exakte Geburtsdatum liegt
+        Lucas Cranachs künstlerische Ausbildung
+        größtenteils im Dunkeln. Es ist
+        bekannt, dass er bei seinem Vater in die
+        Lehre ging und dort das Handwerk der
+        "ars graphica" und wahrscheinlich auch
+        die Kunst der Malerei erlernte.
+        Unzureichende Informationen über seine
+        Wanderjahre als Geselle führten zu
+        vielen Spekulationen, doch bis heute
+        fehlen konkrete Anhaltspunkte zu seinem
+        künstlerischen Wirken vor 1502. Zu
+        dieser Zeit hielt er sich in Wien auf
+        und begann sich nach seinem Heimatort
+        Lucas Cranach zu nennen sowie die
+        Signatur "LC" zu verwenden. Sein
+        Aufenthalt in diesem Zentrum des
+        deutschen Frühhumanismus prägte
+        Cranach nachhaltig, insbesondere seine
+        Verbindung zu Johannes Cuspinian.
+      _key: bodyMultiText
+      _uid: bodyMultiText_1568747149169_2255
+    - 
+      paragraphmultitext: >
+        Im Jahr 1505 berief der sächsische
+        Kurfürst Friedrich III., der Weise,
+        Cranach zum Hofmaler nach Wittenberg.
+        Dieses Amt behielt er auch unter dessen
+        Nachfolgern fast ununterbrochen bis zu
+        seinem Tode. Der damit einhergehende
+        Aufgabenbereich umfasste nicht nur die
+        Produktion von Gemälden, Kupferstichen
+        und Holzschnitten, sondern auch den
+        Entwurf und die Ausführung von
+        Dekorationsarbeiten, die Beaufsichtigung
+        von Handwerkern, die Ausschmückung von
+        Hochzeiten, Turnieren und anderen
+        Hoffesten. Kurzum, Cranach war für fast
+        das gesamte ästhetische Ambiente bei
+        Hofe zuständig. Um diese umfangreichen
+        und vielfältigen Aufgaben
+        bewerkstelligen zu können, richtete er
+        sich eine große Werkstatt ein, die sich
+        zunächst im Wittenberger Schloss und
+        später in der Stadt befand.
+      _key: bodyMultiText
+      _uid: bodyMultiText_1568747173174_2378
+    - 
+      paragraphmultitext: 'Im Jahr 1508 verlieh ihm der Kurfürst einen Wappenbrief: Die geflügelte Schlange mit Rubinring im Maul wurde künftige Signatur des Künstlers. Frühzeitig begann Cranach sein künstlerisches Schaffen mit den Aufgaben bei Hofe zu identifizieren und verwendete das Symbol als Gütesiegel für Bilder, die von seiner Hand oder aus seiner Werkstatt stammten. Im selben Jahr reiste er in diplomatischen Angelegenheiten für den Kurfürsten in die Niederlande, wo er den Hof von Margarete von Österreich in Mechelen besuchte. Dort traf Cranach den Kaiser des Heiligen Römischen Reiches, Maximilian I., bei der Huldigungsfeier für den achtjährigen Erzherzog Karl, den späteren Karl V. Einige Jahre darauf beauftragte Maximilian I. Cranach und Albrecht Dürer mit der Illustration seines Gebetbuches.'
+      _key: bodyMultiText
+      _uid: bodyMultiText_1568747188253_2501
+    - 
+      paragraphmultitext: >
+        Cranach wurde bald ein bedeutender und
+        erfolgreicher Mann in Wittenberg, was
+        nicht nur auf sein künstlerisches
+        Schaffen zurückzuführen ist, sondern
+        auch auf sein Talent als Geschäftsmann.
+        Er erwarb die Lizenz zum Weinverkauf
+        (1512), war Grundbesitzer sowie mehrfach
+        gewähltes Mitglied des Stadtrates in
+        Wittenberg, besaß zwischen 1522 und
+        1526 eine Druckerei (zusammen mit
+        Christian Döring) und eine Apotheke (ab
+        1520). 1523 beherbergte er König
+        Christian II. von Dänemark als Gast in
+        seinem Haus und im folgenden Jahr
+        begleitete er den Kurfürsten zum
+        Reichstag nach Nürnberg, wo er seinen
+        Freund Dürer wiedertraf.
+      _key: bodyMultiText
+      _uid: bodyMultiText_1568747225945_2624
+    - 
+      paragraphmultitext: >
+        Als Künstler ist Cranach bekannt für
+        seine Porträts von höfischen,
+        bürgerlichen und kirchlichen
+        Auftraggebern einschließlich der
+        Führer der protestantischen
+        Reformation. Er prägte das Bildnis von
+        Martin Luther, mit dem ihn auch eine
+        enge Freundschaft verband. Cranach war
+        Trauzeuge bei Luthers Heirat mit
+        Katharina von Bora und später Taufpate
+        ihres Sohnes. In seiner Werkstatt
+        druckte Cranach reformatorische
+        Schriften und Luthers Übersetzung des
+        Neuen Testaments. Später inspirierte
+        ihn Philipp Melanchthon dazu, die
+        lutherischen religiösen Ideen mit neuen
+        Bildthemen zum Ausdruck zu bringen.
+        Cranachs künstlerische Tätigkeit hatte
+        wesentlichen Einfluss auf die deutsche
+        Reformation. Neben den zahlreichen
+        Bildern mit protestantischem Inhalt
+        fertigte Cranach auch Bilderzyklen in
+        katholischer Tradition. Hierfür waren
+        unter anderem die albertinische Linie
+        der sächsischen Fürsten und Kardinal
+        Albrecht von Brandenburg wichtige
+        Patrone.
+      _key: bodyMultiText
+      _uid: bodyMultiText_1568747245753_2747
     - 
       paragraphmultiimage:
-        - placeholder_1200x600_2.jpg
+        - inh_cranach2.jpg
       _key: bodyMultiImage
-      _uid: bodyMultiImage_1568638503899_390
+      _uid: bodyMultiImage_1568748243943_9071
+    - 
+      paragraphmultitext: 'Ab der Mitte der 1520er-Jahre wuchsen Größe und Produktion der Wittenberger Werkstatt. Cranach entwickelte schnellere Maltechniken und standardisierte Arbeitsabläufe, die ihm eine bessere Aufgabenverteilung ermöglichten. Dementsprechend existieren viele seiner Werke in mehreren Versionen. In den 1530er-Jahren erfolgte eine weitere Spezialisierung auf Bilder mit mythologischem Inhalt, welche neben religiösen Bildthemen fester Bestandteil seines gesamten künstlerischen Schaffens blieben. Während dieser Zeit waren seine beiden Söhne Hans (ca. 1513 - 1537) und Lucas Cranach der Jüngere (1515 - 1586) in den Werkstattbetrieb involviert. Um 1537, dem Todesjahr seines Sohnes Hans, änderte Cranach die Werkstattsignatur: Die Schlange wurde nicht mehr mit aufrecht stehenden sondern mit liegenden Flügeln dargestellt.'
+      _key: bodyMultiText
+      _uid: bodyMultiText_1568747289871_2936
+    - 
+      paragraphmultitext: >
+        1547 nahm Cranachs Tätigkeit als
+        Hofmaler ein vorläufiges Ende, als
+        Kurfürst Johann Friedrich I., der
+        Großmütige, nach der verlorenen
+        Schlacht bei Mühlberg von Kaiser Karl
+        V. abgesetzt und gefangengenommen wurde.
+        1550 folgte Cranach seinem Herrn ins
+        Exil nach Augsburg und Innsbruck. Dort
+        traf er den italienischen Maler Tizian,
+        jedoch hatte diese Begegnung keinen
+        Einfluss mehr auf Cranachs
+        künstlerisches Werk. 1552 erhielt
+        Johann Friedrich seinen Herzogtitel für
+        die Thüringer Landesteile zurück, neue
+        Residenz und Aufenthaltsort Cranachs
+        wurde Weimar. Dort starb Lucas Cranach
+        der Ältere am 16. Oktober 1553. Sein
+        Grabstein, der heute im Chor der
+        Weimarer Stadtkirche St. Peter und Paul
+        aufgestellt ist, bezeichnet ihn als
+        zutreffend als „pictor celerrimus“,
+        den schnellsten Maler.
+      _key: bodyMultiText
+      _uid: bodyMultiText_1568747306445_3059
+    - 
+      paragraphmultitext: >
+        Der Werkstattbetrieb überlebte ihn und
+        seine außergewöhnliche Kreativität.
+        Dies kommt nicht zuletzt darin zum
+        Ausdruck, dass sein Sohn Lucas Cranach
+        der Jüngere und andere
+        Werkstattmitarbeiter auch Jahrzehnte
+        nach seinem Tode noch Versionen seiner
+        Arbeiten schufen. Selbst heute ist der
+        Erfolg des Malerunternehmens nicht nur
+        an über 1500 erhaltenen Werken
+        ersichtlich, sondern auch an der
+        Schwierigkeit, die Werke höchster
+        Qualität eindeutig zuzuschreiben.
+      _key: bodyMultiText
+      _uid: bodyMultiText_1568747319518_3182
+    - 
+      paragraphmultiimage:
+        - inh_cranach3.jpg
+      _key: bodyMultiImage
+      _uid: bodyMultiImage_1568748435828_10125
+    - 
+      paragraphmultitext: |
+        | 1472            | geboren in Kronach als Sohn eines Malers                                                                           |
+        |-----------------|--------------------------------------------------------------------------------------------------------------------|
+        | ca.1502-03      | Arbeit in Wien                                                                                                     |
+        | 1505            | Berufung zum Hofmaler nach Wittenberg durch den sächsischen Kurfürsten Friedrich III., den Weisen (gestorben 1525) |
+        | 1508            | Verleihung eines Wappenbriefes in Nürnberg: geflügelte Schlange mit Rubinring im Maul                              |
+        | 1508            | Aufenthalt am Hofe der Margarete von Österreich, Statthalterin der Niederlande, in Mechelen                        |
+        | 1512            | Erwerb zweier benachbarter Häuser am Wittenberger Markt (heute Nr.3/4)                                             |
+        | ca.1512/13      | Hochzeit mit Barbara Brengbier (gestorben 1541) und Geburt des Sohnes Hans (gestorben 1537)                        |
+        | 1515            | Geburt des Sohnes Lucas der Jüngere (gestorben 1586)                                                               |
+        | ca.1515-1520    | Geburt der Töchter Ursula (Todesjahr unbekannt), Barbara (gestorben 1601) und Anna (gestorben 1577)                |
+        | 1518            | Erwerb des "Cranachhofes", Schlossstraße Nr. 1 in Wittenberg                                                       |
+        | 1519-1544/45    | Ratsmitglied in Wittenberg (mit Unterbrechungen)                                                                   |
+        | 1520            | Erhalt des Apothekerprivilegs                                                                                      |
+        | 1523            | Empfang von König Christian II. von Dänemark als Gast in seinem Haus                                               |
+        | 1523-1525/26    | Betreibung einer Buchdruckerei mit Christian Döring                                                                |
+        | 1524            | Begleitung Friedrichs III., des Weisen, zum Reichstag nach Nürnberg                                                |
+        | 1525            | Trauzeuge bei der Heirat von Martin Luther und Katharina von Bora                                                  |
+        | 1525            | Arbeit für den neuen Kurfürsten Johann, den Beständigen (gestorben 1532)                                           |
+        | 1532            | Arbeit für den neuen Kurfürsten Johann Friedrich I., den Großmütigen                                               |
+        | 1537/38-1543/44 | Bürgermeister von Wittenberg (mit Unterbrechungen)                                                                 |
+        | 1547-1550       | zeitweiser Verlust seiner Anstellung als Hofmaler                                                                  |
+        | 1550-1552       | Aufenthalt in Augsburg und Innsbruck als Hofmaler des im Exil lebenden Johann Friedrich I.                         |
+        | 1552-1553       | Arbeit in Weimar                                                                                                   |
+        | 1553            | Lucas Cranach der Ältere stirbt am 16. Oktober in Weimar                                                           |
+      _key: bodyMultiText
+      isnew: true
+      _uid: bodyMultiText_1568748598631_11034
   _key: imagePragraph
-  _uid: imagePragraph_1568638495619_182
+  _uid: imagePragraph_1568746945227_2033
+- 
+  paragraphheadline: Hans Cranach
+  mybuilder:
+    - 
+      paragraphmultiimage:
+        - hanscranach.jpg
+      _key: bodyMultiImage
+      _uid: bodyMultiImage_1568749746176_12147
+  _key: imagePragraph
+  _uid: imagePragraph_1568749683353_12062

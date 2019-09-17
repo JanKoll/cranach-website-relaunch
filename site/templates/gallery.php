@@ -40,7 +40,7 @@
                   </div>
                 <?php endforeach ?>
 
-                <?php if($list->last()->indexOf() < 9): ?>
+                <?php if($list->last()->indexOf()+1 < 9): ?>
             
                 <?php else:?>
                  <?php snippet('pagination', ['list' => $list]) ?>

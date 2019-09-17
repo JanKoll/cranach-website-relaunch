@@ -12,7 +12,7 @@
               <h1>Results for <i><?= html($query) ?></i></h1>
               <hr />
             </div>
-            <?php foreach ($list=$results->paginate(5) as $result): ?>
+            <?php foreach ($list=$results->paginate(9) as $result): ?>
                 <div class="cell">
                   <h3><?= $result->headline() ?></h3>
                   <p><?= $result->previewText() ?></p>
@@ -23,10 +23,10 @@
 
             <?php if( $list == '' ): ?>
               <h3>  Keine Ergebnisse </h3> 
-            <?php elseif($list->last()->indexOf() < 5): ?>
+            <?php elseif(($list->last()->indexOf()+1) < 5): ?>
             
             <?php else:?>
-              <?php snippet('pagination', ['list' => $list]) ?>
+            
             <?php endif ?>
 
           </div>

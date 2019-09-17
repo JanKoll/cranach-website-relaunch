@@ -44,7 +44,6 @@ tabs:
             icon: calendar
             label: Datum
             type: date
-            default: today
             required: true
 
       - width: 1/3

@@ -1,0 +1,10 @@
+ nav .pagination .current {
+   // background: unset;
+   padding: unset;
+   a {
+     color: $white;
+     &:hover {
+       color: $primary-color;
+     }
+   }
+ }

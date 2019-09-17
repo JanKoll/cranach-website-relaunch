@@ -1,8 +1,8 @@
-Title: news2
+Title: news1
 
 ----
 
-Headline: Überschrift 2
+Headline: Überschrift 1
 
 ----
 
@@ -10,4 +10,8 @@ Previewtext: Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam n
 
 ----
 
-Date: 2020-10-06
+Date: 2017-09-07
+
+----
+
+Mybuilder: 

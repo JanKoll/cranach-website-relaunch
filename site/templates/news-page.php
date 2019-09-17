@@ -37,8 +37,22 @@
       <div class="news cell medium-8 small-12">
         <div class="grid-x">
 
-          <?php foreach ($list = $page->children()->paginate(5) as $item) : ?>
-            <div class="cell small-12">
+        <?php
+// let's fetch all visible children from the blog page and sort them by their date field
+$items = $page->children()->sortBy(function ($page) {
+  return $page->date()->toDate();
+}, 'desc');
+foreach($items as $item): ?>
+  <span><?= $item->date()->toDate('Y') ?></span>
+  
+<?php endforeach ?>
+
+
+          <?php foreach ($list = $page->children()->sortby('date','desc')->paginate(5) as $item) : ?>
+           
+          
+          <div class="cell small-12">
+
               <span><?= $item->date()->toDate('d. M Y') ?></span>
               <h3><?= $item->headline() ?></h3>
               <p><?= $item->previewText() ?></p>

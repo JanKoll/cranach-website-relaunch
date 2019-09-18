@@ -1,0 +1,25 @@
+Title: test
+
+----
+
+Headline: test
+
+----
+
+Previewtext: test
+
+----
+
+Text: test
+
+----
+
+Date: 2019-09-18
+
+----
+
+Tags: 
+
+----
+
+Mybuilder: 

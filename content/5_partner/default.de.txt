@@ -1,0 +1,98 @@
+Title: Partner
+
+----
+
+Headline: Unsere Partner
+
+----
+
+Subheadline: Unsere Partner
+
+----
+
+Previewtext: Das Cranach Digital Archive ist eine Initiative des Kunstpalasts, Düsseldorf und des Institutes für Restaurierungs- und Konservierungswissenschaft der Technischen Hochschule Köln in Zusammenarbeit mit neun Gründungspartnern sowie zahlreichen Partnerinstitutionen und Projektbeteiligten. Gefördert wird das Projekt durch die Andrew W. Mellon Foundation.
+
+----
+
+Text: Das Cranach Digital Archive ist eine Initiative des Kunstpalasts, Düsseldorf und des Institutes für Restaurierungs- und Konservierungswissenschaft der Technischen Hochschule Köln in Zusammenarbeit mit neun Gründungspartnern sowie zahlreichen Partnerinstitutionen und Projektbeteiligten. Gefördert wird das Projekt durch die Andrew W. Mellon Foundation.
+
+----
+
+Mybuilder:
+
+- 
+  paragraphheadline: Gründungspartner
+  paragraphtext: |
+    **Bayerische Staatsgemäldesammlungen, München und Doerner Institut, München**
+    
+    Die Bayerischen Staatsgemäldesammlungen betreuen einen wesentlichen Teil des Gemälde- und Kulturbesitzes des Freistaates. Mehrere Tausend Kunstwerke sind in diversen Galerien und Museen in ganz Bayern ausgestellt, darunter in der Alten Pinakothek. Dieses bedeutende Museum beherbergt mit Gemälden der italienischen, deutschen, altniederländischen und flämischen Malerei eine der berühmtesten und wichtigsten Sammlungen an Gemälden Alter Meister.
+    Im Besitz der Bayerischen Staatsgemäldesammlungen befinden sich 103 Gemälde von oder zugeschrieben an Lucas Cranach d. Ä., Lucas Cranach d. J. und Werkstatt.
+    Die Hauptaufgabe des Doerner Institutes liegt in der konservatorischen Betreuung der umfangreichen Bestände der Bayerischen Staatsgemäldesammlungen. Weiterhin gehören die Erforschung künstlerischer Techniken und Materialien sowie die Entwicklung physikalisch-chemischer Methoden zur Untersuchung von Kunstobjekten zum Aufgabenspektrum.
+    
+    (link: https://www.pinakothek.de/ text: Website Bayerische Staatsgemäldesammlungen)
+    (link: http://www.doernerinstitut.de/ text: Website Doerner Institut)
+    
+    **Gemäldegalerie, Staatliche Museen zu Berlin**
+    
+    (image: inhalt_partner_clip_image001.jpg)
+    
+    Die Gemäldegalerie besitzt eine der weltweit schönsten Sammlungen europäischer Malerei des 13. bis 18. Jahrhunderts. Die seit ihrer Gründung 1830 systematisch ausgebaute Sammlung beinhaltet Meisterwerke von van Eyck, Bruegel, Dürer, Raffael, Tizian, Caravaggio, Rubens, Vermeer und Rembrandt.
+    Die Gemäldegalerie beherbergt 39 Gemälde von oder zugeschrieben an Lucas Cranach d. Ä., Lucas Cranach d. J. und Werkstatt.
+    
+    (link: https://www.smb.museum/museen-und-einrichtungen.html/index.php?lang=en&p=2&objID=35&n=5 text: Website)
+    
+    **Staatliche Kunstsammlungen Dresden, Gemäldegalerie Alte Meister**
+    
+    (image: inhalt_partner_clip_image003.gif)
+    
+    Der weltweite Ruhm der Dresdner Gemäldegalerie Alte Meister gründet sich auf die hervorragende Auswahl hochkarätiger Meisterwerke. Zu den Sammlungsschwerpunkten des Museums gehört die italienische Malerei der Renaissance mit Hauptwerken von Raffael, Giorgione und Tizian. Ebenso bedeutend ist der Bestand holländischer und flämischer Maler des 17. Jahrhunderts. Mit einer großen Anzahl an qualitätsvollen Werken sind Rembrandt und seine Schule vertreten, außerdem Ruysdael und die großen Flamen Rubens, Jordaens und van Dyck.
+    Die Gemäldegalerie Alte Meister beherbergt mit 58 Werken von oder zugeschrieben an Lucas Cranach d. Ä., Lucas Cranach d. J. und Werkstatt eine der größten Sammlungen an Cranach-Gemälden. Weitere sieben Gemälde befinden sich im Besitz der Rüstkammer in Dresden.
+    
+    (link: https://www.skd.museum/ text: Website)
+    
+    **Kunsthistorisches Museum, Wien**
+    
+    (image: inhalt_partner_clip_image004.jpg)
+    
+    Die Gemäldegalerie des Kunsthistorischen Museums ging aus den Kunstsammlungen des Hauses Habsburg hervor und zählt heute weltweit zu den größten und bedeutendsten ihrer Art. Der Grundstock der Sammlung sowie ihre wesentlichen Schwerpunkte wurden bereits im 17. Jahrhundert gelegt: die venezianische Malerei des 16. Jahrhunderts (Tizian, Veronese, Tintoretto), die flämische Malerei des 17. Jahrhunderts (Rubens, van Dyck), altniederländische Malerei (van Eyck, van der Weyden) und die altdeutsche Malerei (Dürer, Cranach).
+    In der Sammlung des Kunsthistorischen Museums befinden sich 44 Gemälde von oder zugeschrieben an Lucas Cranach d. Ä., Lucas Cranach d. J. und Werkstatt. 48 Miniaturen von Cranach d. J. in der Porträtsammlung von Erzherzog Ferdinand bereichern den Bestand.
+    
+    (link: https://www.khm.at/ text: Website)
+    
+    **The J. Paul Getty Museum, Los Angeles**
+    
+    (image: inhalt_partner_clip_image005.gif)
+    
+    Das J. Paul Getty Museum im Getty Center in Los Angeles beherbergt bedeutende Sammlungen europäischer Gemälde, Zeichnungen, Skulpturen, illustrierter Manuskripte, kunstgewerblicher Gegenstände sowie europäischer und amerikanischer Fotografie.
+    Das Getty Center besitzt ein Gemälde und drei Studien auf Papier von Lucas Cranach d. Ä. sowie einen reichen Fundus an Dokumentationen über Cranach.
+    
+    (link: http://www.getty.edu/museum/ text: Website)
+    
+    **The Metropolitan Museum of Art, New York**
+    
+    (image: inhalt_partner_clip_image007.gif)
+    
+    Das im Jahre 1870 gegründete Metropolitan Museum of Art, New York, beherbergt eine Sammlung von über zwei Millionen Kunstobjekten und ist unterteilt in 19 Abteilungen darunter die Sammlung Alter Meister mit einem Bestand von 1700 Gemälden.
+    Das Metropolitan Museum of Art besitzt eine Sammlung von 17 Cranach-Gemälden.
+    
+    (link: https://www.metmuseum.org text: Website)
+    
+    **The National Gallery, London**
+    
+    (image: inhalt_partner_clip_image009.jpg)
+    
+    Im Besitz der 1824 gegründeten National Gallery in London befindet sich eine Sammlung von mehr als 2500 Gemälden aus einem Zeitraum von der Mitte des 13. Jahrhundert bis um 1900. Die Renaissancemalerei ist mit Meisterwerken von Leonardo, Michelangelo, Raffael, Holbein, Bruegel, Tizian und Veronese vertreten.
+    Von Cranach befinden sich sieben Gemälde im Besitz der National Gallery.
+    
+    (link: https://www.nationalgallery.org.uk/ text: Website)
+    
+    **Kunstmuseum Basel**
+    
+    (image: inhalt_partner_clip_image010.jpg)
+    
+    Das Kunstmuseum beherbergt die Sammlungen der Galerie und des Kupferstichkabinetts. Der Hauptfokus liegt auf Gemälden und Zeichnungen von Künstlern der oberen Rheingegend zwischen 1400 und 1600 sowie auf der Kunst des 19. und 21. Jahrhunderts. Daneben beherbergt das Kunstmuseum Basel die weltweit größte Sammlung an Werken der Holbein-Familie.
+    In der Sammlung des Kunstmuseums Basel befinden sich 11 Werke von oder zugeschrieben an Lucas Cranach d. Ä., Lucas Cranach d. J. und Werkstatt.
+    
+    (link: https://kunstmuseumbasel.ch/en/kunstmuseum/ text: Website)
+  _key: paragraph
+  _uid: paragraph_1568756771758_1650

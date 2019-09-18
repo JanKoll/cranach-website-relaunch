@@ -2,16 +2,41 @@ Title: Impressum
 
 ----
 
-Headline: Mollis Cursus
+Headline: Herausgeber
 
 ----
 
-Previewtext: Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Donec id elit non mi porta gravida at eget metus.
+Subheadline: 
+
+----
+
+Previewtext:
+
+Stiftung Museum Kunstpalast
+Ehrenhof 4-5
+D-40479 Düsseldorf
+Tel. +49(0) 211 - 566 42 100
+Fax. +49(0) 211 - 566 42 906
+eMail: info@kunstpalast.de
 
 ----
 
 Text:
 
-Nullam quis risus eget urna mollis ornare vel eu leo. Nullam id dolor id nibh ultricies vehicula ut id elit. Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Donec ullamcorper nulla non metus auctor fringilla. Praesent commodo cursus magna, vel scelerisque nisl consectetur et.
+Stiftung Museum Kunstpalast
+Ehrenhof 4-5
+D-40479 Düsseldorf
+Tel. +49(0) 211 - 566 42 100
+Fax. +49(0) 211 - 566 42 906
+eMail: info@kunstpalast.de
 
-Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Nullam id dolor id nibh ultricies vehicula ut id elit. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nullam quis risus eget urna mollis ornare vel eu leo. Donec id elit non mi porta gravida at eget metus. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Nullam quis risus eget urna mollis ornare vel eu leo.
+Gemeinsam mit CICS Institut für Restaurierungs- und Konservierungswissenschaft Technische Hochschule Köln
+Ubierring 40
+D-50678 Köln
+Tel. +49(0) 221 - 8275 3454
+Fax. +49(0) 221 - 8275 3485
+eMail: gunnar.heydenreich@th-koeln.dem quis risus eget urna mollis ornare vel eu leo.
+
+----
+
+Mybuilder: 

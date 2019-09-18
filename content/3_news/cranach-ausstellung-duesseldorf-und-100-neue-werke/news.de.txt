@@ -1,0 +1,81 @@
+Title: Cranach-Ausstellung Düsseldorf und 100 neue Werke
+
+----
+
+Mybuilder:
+
+- 
+  paragraphnewsimage:
+    - plakat_hoch.jpg
+  _key: newsImage
+  _uid: newsImage_1568756437715_6043
+- 
+  paragraphnewstext: |
+    Über 94 000 Besucher haben die Ausstellung "**Cranach. Meister - Marke - Moderne**" im Museum Kunstpalast besucht. Fast vier Monate lang sind rund 230 Werke aus bedeutenden Sammlungen sowie teilweise noch nie öffentlich gezeigte Gemälde in Düsseldorf präsentiert worden.
+    
+    Begleitend zur Ausstellung erschien im Hirmer Verlag ein umfangreicher illustrierter Katalog mit Texten von Anne-Marie Bonnet, Bodo Brinkmann, Georg Josef Dietz, Daniel Hess, Daniel Görres, Gunnar Heydenreich, Dieter Koepplin, Oliver Mack, Guido Messling, Elizabeth Savage, Ad Stijnman, Susanne Wegmann und Beat Wismer.
+    Herausgeber: Gunnar Heydenreich, Daniel Görres, Beat Wismer
+    
+    Besprechungen der Ausstellung (Auswahl):
+    
+    (link: https://www.faz.net/aktuell/feuilleton/kunst/lucas-cranach-der-aeltere-im-kunstpalast-duesseldorf-14969828.html text: Frankfurter Allgemeine Zeitung)
+    
+    (link: https://www.rundschau-online.de/kultur/sensationelle-ausstellung--lucas-cranach--meister---marke---moderne--in-duesseldorf-26678408 text: Kölnische Rundschau)
+    
+    Das Cranach Digital Archive erweitert zudem nun erneut seinen Gesamtbestand **um 100 Gemälde **und **mehr als 500 neu transkribierte und kommentierte Archivalienseiten** aus dem Stadtarchiv Wittenberg.
+    
+    Folgende Sammlungen und Institutionen sind mit neuen Gemälden im cda vertreten:
+    
+    Bayerisches Nationalmuseum, München
+    Brooklyn Museum, New York
+    City Museum & Art Gallery, Bristol
+    The Cleveland Museum of Art
+    Domstift Brandenburg an der Havel
+    Ev. Kirchengemeinde Klitten
+    Ev. Kirchengemeinde St. Petri - St. Marien, Berlin
+    Ev.-Luth. Kirchgemeinde St. Wolfgang, Schneeberg
+    Ev.-Luth. Kirchgemeinde Thallwitz-Nischwitz
+    Franzikanerkirche zum heiligen BIschof Nikolaus, Čakovec
+    Friedhofskapelle Heilig Kreuz, Stadt Grimma
+    Galleria Borghese, Rom
+    Galleria Uffizi, Firenze
+    Gemäldegalerie der Akademie der Künste, Wien
+    Hauptkirche St. Nikolai, Hamburg
+    Kaiser Wilhelm Museum Krefeld/Kunstmuseen Krefeld
+    Karl und Magdalene Haberstock-Stiftung, Augsburg
+    Kunsthaus Zürich
+    Kunstsammlungen der Veste Coburg, Coburg
+    Landesmuseum Mainz
+    LWL-Museum für Kunst und Kultur Münster/Westfälischer Kunstverein
+    Musée d'Art et d'Histoire, Genf
+    Musée des Beaux-Arts, Strassburg
+    Musée des Beaux-arts du Canada/National Gallery of Canada, Ottawa
+    Musée du Louvre
+    Museo Lázaro Galdiano, Madrid
+    Museo Nacional de San Carlos/Instituto Nacional de Bellas Artes, Mexico City
+    Museu Nacional d'Art de Catalunya (MNAC), Barcelona
+    Norton Simon Art Foundation, Pasadena, California
+    Österreichische Galerie Belvedere
+    Petit Palais, Musée des Beaux-Arts de la Ville des Paris
+    Sammlung Rau für UNICEF im Arp Museum Bahnhof Rolandseck, Remagen
+    Schaezlerpalais, Augsburg
+    Staatliche Eremitage, St. Petersburg
+    Staatsgalerie Augsburg, Katharinenkirche
+    Stiftung der Herzog von Sachsen-Coburg und Gotha'schen Familie, Gotha
+    Wartburg-Stiftung, Eisenach
+    
+    Darüber hinaus konnten Werke aus Privatbesitz und heute verlorene Gemälde aufgenommen werden.
+  _key: newsText
+  _uid: newsText_1568756472412_680
+
+----
+
+Headline: Cranach-Ausstellung Düsseldorf und 100 neue Werke
+
+----
+
+Previewtext: Über 94 000 Besucher haben die Ausstellung "Cranach. Meister - Marke - Moderne" im Museum Kunstpalast besucht. Fast vier Monate lang sind rund 230 Werke aus bedeutenden Sammlungen sowie teilweise noch nie öffentlich gezeigte Gemälde in Düsseldorf präsentiert worden.
+
+----
+
+Date: 2017-10-25

@@ -2,11 +2,11 @@ Title: Lucas Cranach
 
 ----
 
-Headline: Mollis Cursus
+Headline: Lucas Cranach
 
 ----
 
-Subheadline: Test
+Subheadline: 
 
 ----
 
@@ -14,15 +14,7 @@ Previewtext: Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis 
 
 ----
 
-Text:
-
-**Curabitur blandit **
-Tempus porttitor. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur blandit tempus porttitor. Maecenas faucibus mollis interdum.
-
-**Aenean lacinia**
-bibendum nulla sed consectetur. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Donec ullamcorper nulla non metus auctor fringilla. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum.
-
-Donec id elit non mi porta gravida at eget metus. Donec id elit non mi porta gravida at eget metus. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Donec ullamcorper nulla non metus auctor fringilla.
+Text: Lucas Cranach der Ältere verkörpert die Ideale eines Mannes im Zeitalter der Renaissance, der neben seiner Tätigkeit als Maler, Grafiker und Buchdrucker auch als Politiker und Unternehmer tätig war. Über seine ersten Lebensjahre ist wenig bekannt. Geboren wurde er in Kronach als eines von vier Kindern des Malers Hans Maler und dessen Ehefrau, einer geborenen Hübner. Sein genaues Geburtsdatum ist nicht überliefert, doch wurde im Jahr 1472 geboren. Den Hinweis darauf liefert ein datiertes Porträt von 1550 in den Uffizien (Florenz), nach dessen Inschrift Lucas Cranach im Alter von 77 Jahren abgebildet ist. Diese Angabe deckt sich mit den Notizen von Matthias Gunderam (1556), einem Cousin von Cranach und dessen erstem Biograph.
 
 ----
 
@@ -261,5 +253,57 @@ Mybuilder:
         - hanscranach.jpg
       _key: bodyMultiImage
       _uid: bodyMultiImage_1568749746176_12147
+    - 
+      paragraphmultitext: |
+        | ca. 1513     | geboren in Wittenberg als erster Sohn von Lucas Cranach und dessen Ehefrau Barbara Brengbier                                          |
+        |--------------|---------------------------------------------------------------------------------------------------------------------------------------|
+        | ca. 1527/29  | Beginn der Lehrzeit in der väterlichen Werkstatt zusammen mit Bruder Lucas                                                            |
+        | 1534         | Bildnis eines bärtigen Mannes (Museo Thyssen-Bornemisza, Madrid) datiert "1534" und signiert mit den Initialen "HC"                   |
+        |              | Empfang einer Zahlung an seinen Vater auf dem Leipziger Michaelismarkt                                                                |
+        | 1536/37      | in Abrechnungen für Arbeiten im Torgauer Schloss erwähnt                                                                              |
+        | 1537         | Bild Herkules bei Omphale (Museo Thyssen-Bornemisza, Madrid), datiert "1537" und signiert mit Schlangensignet zwischen Initialen "HC" |
+        |              | Studienreise nach Italien                                                                                                             |
+        |              | Skizzenbuch                                                                                                                           |
+        | 9. Okt. 1537 | verstorben in Bologna                                                                                                                 |
+      _key: bodyMultiText
+      _uid: bodyMultiText_1568752972413_1321
   _key: imagePragraph
   _uid: imagePragraph_1568749683353_12062
+- 
+  paragraphheadline: Lucas Cranach der Jüngere
+  mybuilder:
+    - 
+      paragraphmultiimage:
+        - lucascranachdj.jpg
+      _key: bodyMultiImage
+      _uid: bodyMultiImage_1568753039610_1540
+    - 
+      paragraphmultitext: |
+        | 04. Okt. 1515 | geboren in Wittenberg als zweiter Sohn von Lucas Cranach und dessen Ehefrau Barbara Brengbier                                                     |
+        |---------------|---------------------------------------------------------------------------------------------------------------------------------------------------|
+        | ca. 1527/29   | Beginn der Lehrzeit in der väterlichen Werkstatt zusammen mit Bruder Hans                                                                         |
+        | 1535          | erstmals namentlich in Abrechnungen der väterlichen Werkstatt erwähnt                                                                             |
+        | 1536/37       | in Abrechnungen für Arbeiten im Torgauer Schloss erwähnt                                                                                          |
+        | 1541          | Tod seiner Mutter Babara                                                                                                                          |
+        |               | Heirat mit Barbara Brück, Tochter des kursächsischen Kanzlers Dr. Gregor Brück, aus dieser Ehe vier Kinder                                        |
+        | 1549 - 1567   | Ratsherr in Wittenberg                                                                                                                            |
+        | 1550          | Tod seiner Frau Barbara                                                                                                                           |
+        | 1551          | großformatige Herkulesbilder für das Dresdner Schloss                                                                                             |
+        |               | Heirat mit Magdalena Schurff, Tochter des Medizinprofessors Augustin Schurff und Nichte Philipp Melanchthons, aus dieser Ehe fünf Kinder          |
+        | Jan. 1553     | Aufenthalt an Weimar zusammen mit Familie und Gesellen aufgrund der Pest in Wittenberg                                                            |
+        | 16. Okt. 1553 | Tod des Vaters Lucas Cranach d. Ä. in Weimar                                                                                                      |
+        | 1554          | Geburt Augustin Cranach (gest. 1595)                                                                                                              |
+        | 1555          | Epitaph für Herzog Johann Friedrich von Sachsen und Sibylle von Cleve, Weimarer Stadtkirche St. Peter und Paul                                    |
+        |               | Amt des Kämmerers in Wittenberg                                                                                                                   |
+        | 1558          | Epitaph für Michael Meyenburg, Nordhausen, St. Blasii                                                                                             |
+        | 1565          | Epitaph für Fürst Joachim von Anhalt, Dessau, St. Johannis und St. Marien                                                                         |
+        | 1565/67       | Bürgermeister von Wittenberg                                                                                                                      |
+        | 1567          | Grumbachsche Händel, Einsetzung Cranachs für seine verwitwete Schwester Barbara zur teilweisen Rückgabe der eingezogenen Besitztümer ihres Mannes |
+        | 1568          | Immatrikulation an der Universität Wittenberg                                                                                                     |
+        | 25. Jan. 1586 | verstorben in Wittenberg                                                                                                                          |
+        | 27. Jan. 1586 | Beerdigung in der Stadtkirche                                                                                                                     |
+        | 1608          | Tod Cranachs zweiter Frau Magdalena, Epitaph für Cranach und seine beiden Ehefrauen in der Stadtkirche                                            |
+      _key: bodyMultiText
+      _uid: bodyMultiText_1568753407235_2685
+  _key: imagePragraph
+  _uid: imagePragraph_1568753028716_1455

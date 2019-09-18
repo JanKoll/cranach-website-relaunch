@@ -17,11 +17,12 @@
               </div>
             </div>
 
-            <div class="cell medium-8 small-12">
+
+            <div class="cell medium-8 small-12" id="<?= $page->uid() ?>-<?= $page->title() ?>">
               <div class="head">
                 <h2><?= $page->headline() ?></h2>
                 <p><?= $page->subHeadline() ?><?= $page->date()->toDate('d. M Y') ?></p>
-                <div class="media-control">0:00 / 5:24</div>
+                <div class="media-control <?= $page->uid() ?>-<?= $page->title() ?> icon-pause" onClick="textToSpeech('<?= $page->uid() ?>-<?= $page->title() ?>')"></div>
               </div>
 
               <div class="content">
@@ -34,7 +35,9 @@
             </div>
           </div>
         </div>
+
         <?php snippet('builder') ?>
+
       </main>
 
 <?php snippet('footer') ?>

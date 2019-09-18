@@ -64,6 +64,8 @@
   </div>
 </footer>
 
+<?php snippet('web-speech') ?>
+
 <script type="text/javascript" src="<?= $kirby->url() ?>/assets/js/app.js"></script>
 
 </body>

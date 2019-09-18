@@ -5,9 +5,9 @@
         <h2><?= $data->paragraphheadline() ?></h2>
         <ul class="accordion" data-accordion data-allow-all-closed="true">
           <?php foreach($data->mybuilder()->toBuilderBlocks() as $multi): ?>
-            <li class="accordion-item" data-accordion-item>
+            <li class="accordion-item" data-accordion-item id="<?= $page->uid() ?>-<?= $multi->_uid() ?>">
               <a href="#" class="accordion-title">
-                <div class="media-control">0:00 / 5:24</div>
+              <div class="media-control <?= $page->uid() ?>-<?= $multi->_uid() ?> icon-pause" onClick="textToSpeech('<?= $page->uid() ?>-<?= $multi->_uid() ?>')"></div>
                 <p>
                   <b>
                     <?php 
@@ -15,10 +15,7 @@
                         echo 'Datum: '; 
                       } else {
                         echo 'Date: ';  
-                      };
-                    ?>
-                    </b> <?= $multi->paragraphMultiDate()->toDate('d.m.Y') ?> 
-                  </p>
+                      }; ?>:</b> <?= $multi->paragraphMultiDate()->toDate('d.m.Y') ?></p>
                 <p><?= $multi->paragraphMultiTarget() ?></p>
                 <p><?= $multi->paragraphMultiTechnology() ?></p>
               </a>

@@ -42,7 +42,14 @@
     <div class="grid-container">
       <div class="grid-x grid-padding-x">
         <div class="cell medium-4 small-12">
-          © Lucas Cranach Arcive 2019
+          <?php 
+                if($kirby->language()->code()=='de') {
+                  echo '© Lucas Cranach Archiv 2019'; 
+                } else {
+                  echo '© Lucas Cranach Archive 2019';  
+                };
+              ?>
+         
         </div>
 
         <div class="cell medium-8 small-12">

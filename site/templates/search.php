@@ -16,13 +16,29 @@
                 <div class="cell">
                   <h3><?= $result->headline() ?></h3>
                   <p><?= $result->previewText() ?></p>
-                  <a href="<?= $result->url() ?>">Weiter Lesen...</a>
+                  <a href="<?= $result->url() ?>">
+                    <?php 
+                      if($kirby->language()->code()=='de') {
+                        echo 'Weiter lesen...'; 
+                      } else {
+                        echo 'Read more...';  
+                      };
+                      ?>
+                   </a>
                   <hr />
                 </div>
             <?php endforeach ?>
 
             <?php if( $list == '' ): ?>
-              <h3>  Keine Ergebnisse </h3> 
+              <h3>
+                <?php 
+                      if($kirby->language()->code()=='de') {
+                        echo 'Keine Ergebnisse'; 
+                      } else {
+                        echo 'No Results';  
+                      };
+                  ?>  
+                </h3> 
             <?php elseif(($list->last()->indexOf()+1) < 5): ?>
             
             <?php else:?>

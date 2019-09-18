@@ -1,0 +1,297 @@
+Title: Lucas Cranach
+
+----
+
+Headline: Lucas Cranach
+
+----
+
+Subheadline: 
+
+----
+
+Previewtext: Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Donec id elit non mi porta gravida at eget metus.
+
+----
+
+Text: Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Donec id elit non mi porta gravida at eget metus.
+
+----
+
+Mybuilder:
+
+- 
+  paragraphheadline: Lucas Cranach the Elder
+  mybuilder:
+    - 
+      paragraphmultiimage:
+        - inh_cranach1.jpg
+      _key: bodyMultiImage
+      _uid: bodyMultiImage_1568747286500_2870
+    - 
+      paragraphmultitext: "Lucas Cranach the Elder embodies the ideals of Renaissance man active not only as a painter and printmaker, but also as an entrepreneur and politician. Little can be stated with any certainty about his early life except that he was born in the town of Kronach in Northern Franconia as one of four children to the painter Hans Maler and that his mother's maiden name was Hübner. His exact birth date is unknown, but it was probably in the year 1472. A portrait from 1550 (now in the Uffizi, Florence) bearing an authentic inscription that claims the sitter to be Cranach the Elder aged 77, provides evidence which corresponds with the accounts of the artist's cousin and first biographer, Matthias Gunderam in 1556."
+      _key: bodyMultiText
+      _uid: bodyMultiText_1568746973739_2132
+    - 
+      paragraphmultitext: "His early artistic training remains equally obscure. It is known that he was apprenticed to his father Hans, in Kronach, where he learned the crafts of the ars graphica and presumably the art of painting. Insufficient documentation has led to much speculation about his Wanderjahre - years of travel - and real evidence with regard to his artistic identity does not emerge until 1502 in Vienna. It is here that he assumes the name Lucas Cranach after his birth place, and begins to employ the initials 'LC'. Although this period was brief, less than two years in fact, his close association with a circle of humanist writers, particularly Johannes Cuspinian, proved to be formative."
+      _key: bodyMultiText
+      _uid: bodyMultiText_1568747149169_2255
+    - 
+      paragraphmultitext: >
+        In the year 1505 Cranach was appointed
+        court painter to Friedrich III the Wise,
+        Elector of Saxony, a position he
+        occupied almost uninterrupted until his
+        death. He moved to Wittenberg where his
+        duties not only included the production
+        of paintings, engravings and woodcuts
+        but also entailed everything from the
+        design and execution of decorative
+        schemes to the supervision of craftsmen
+        as well as the embellishment of
+        weddings, tournaments and other court
+        celebrations. In short Cranach was
+        responsible for almost the entire
+        aesthetic ambience of the court. To meet
+        these extensive demands he established a
+        workshop, which was initially in
+        Wittenberg castle and later moved to
+        premises in the town.
+      _key: bodyMultiText
+      _uid: bodyMultiText_1568747173174_2378
+    - 
+      paragraphmultitext: >
+        In 1508 the elector awarded him the
+        heraldic letter bearing the symbol of a
+        winged serpent. At an early stage
+        Cranach began to identify his artistic
+        production with the court and employed
+        this insignia as a seal of approval on
+        paintings produced by himself and his
+        expanding workshop. That same year he
+        journeyed in diplomatic service of the
+        elector to the Netherlands where he
+        visited the court of Margaret of Austria
+        in Mechelen. Here he met the Holy Roman
+        Emperor Maximilian I at the oath
+        ceremony of his successor the
+        eight-year-old Archduke Charles, later
+        Charles V. Some years later Maximilian I
+        commissioned Cranach together with the
+        artist Albrecht Dürer to illustrate his
+        prayer book.
+      _key: bodyMultiText
+      _uid: bodyMultiText_1568747188253_2501
+    - 
+      paragraphmultitext: >
+        Cranach soon became a man of status in
+        the city of Wittenberg and began to
+        prosper, a situation, which was not
+        achieved by artistic activity alone, but
+        also by his talent as a businessman. By
+        the 1520s he had a licence to sell wine,
+        had been repeatedly elected as a member
+        of the Wittenberg town council, and was
+        owner of numerous properties, a
+        publishing press (together with
+        Christian Döring) and an apothecary. In
+        1523 he hosted King Christian II of
+        Denmark as a guest in his home and a
+        year later he accompanied the elector to
+        the Reichstag in Nuremberg where he
+        again met his friend and rival Albrecht
+        Dürer.
+      _key: bodyMultiText
+      _uid: bodyMultiText_1568747225945_2624
+    - 
+      paragraphmultitext: >
+        As an artist Cranach is known for his
+        portraits of German nobility and the
+        leading figures of the Protestant
+        Reformation, whose cause he embraced
+        with enthusiasm. He became a close
+        friend of Martin Luther, serving as best
+        man at his wedding and later godfather
+        to his son. Numerous portraits of Luther
+        and his wife Katharina von Bora survive
+        and testify to this sympathy. In his
+        workshop Cranach printed reformation
+        texts and Luther’s translation of the
+        New Testament. Later, inspired by his
+        friend and mentor Melanchthon, he
+        explored new ways of conveying Lutheran
+        religious concerns. Cranach’s artistic
+        activity had a significant influence on
+        the evolution of the Reformation in
+        Germany. In addition to numerous
+        paintings illustrating protestant
+        concerns Cranach also completed
+        paintings in the catholic tradition and
+        numbered the catholic Albertine branch
+        of Saxon princes and Cardinal Albrecht
+        of Brandenburg among his most important
+        patrons.
+      _key: bodyMultiText
+      _uid: bodyMultiText_1568747245753_2747
+    - 
+      paragraphmultiimage:
+        - inh_cranach2.jpg
+      _key: bodyMultiImage
+      _uid: bodyMultiImage_1568748243943_9071
+    - 
+      paragraphmultitext: >
+        From the mid 1520s the size and
+        productivity of the Wittenberg workshop
+        increased. Cranach developed techniques,
+        which enabled him to paint speedily, and
+        procedures of standardization that
+        facilitated easy workshop delegation.
+        Consequently many works now exist in
+        different versions. In the 1530s Cranach
+        cultivated a taste for subjects drawn
+        from mythology and like his interest in
+        religious subjects this continued
+        throughout his career. At this stage
+        both his sons Hans (c.1513-1537) and
+        Lucas Cranach the Younger (1515-1586)
+        were active members of the workshop
+        enterprise.
+      _key: bodyMultiText
+      _uid: bodyMultiText_1568747289871_2936
+    - 
+      paragraphmultitext: >
+        Cranach lost his position as court
+        painter after the defeat of the Elector
+        Johann Friedrich I at the Battle of
+        Mühlberg in 1547. In 1550 he followed
+        his master, who had been imprisoned by
+        the Emperor Charles V in Augsburg and
+        Innsbruck, into captivity. It was here
+        that he met the Italian artist Titian,
+        an encounter which was too late in his
+        career to influence his work. Johann
+        Friedrich was liberated in 1552 and
+        reinstated as duke of Thuringia. He
+        returned north to settle in Weimar, with
+        Cranach at his side. A year later, on
+        the 16th of October, Cranach died. His
+        gravestone, which has now been installed
+        in the chancel of the church of Saints
+        Peter and Paul in Weimar, accurately
+        describes him as ‘pictor
+        celerrimus’, the fastest painter.
+      _key: bodyMultiText
+      _uid: bodyMultiText_1568747306445_3059
+    - 
+      paragraphmultitext: >
+        The workshop enterprise outlived him,
+        and his extraordinary artistic
+        creativity is accentuated by the fact
+        that his son Lucas Cranach the Younger,
+        and other members, continued to create
+        versions of his works for decades after
+        his death. Today the success of the
+        enterprise can be measured in more than
+        1500 surviving paintings and the
+        difficulty in securing authorship of the
+        highest quality works.
+      _key: bodyMultiText
+      _uid: bodyMultiText_1568747319518_3182
+    - 
+      paragraphmultiimage:
+        - inh_cranach3.jpg
+      _key: bodyMultiImage
+      _uid: bodyMultiImage_1568748435828_10125
+    - 
+      paragraphmultitext: |
+        | 1472            | born in Kronach, Franconia as the son of a painter                                                                 |
+        |-----------------|--------------------------------------------------------------------------------------------------------------------|
+        | c.1502-03       | worked in Vienna                                                                                                   |
+        | 1505            | appointed to Wittenberg as court painter by the Elector of Saxony, Friedrich III the Wise (died 1525)  	       |
+        | 1508            | awarded the Heraldic Letter in Nuremberg (a winged serpent with a ruby ring in his mouth)                          |
+        | 1508            | visited the court of Margaret of Austria, Governor of the Low Countries, Mechelen                        	       |
+        | 1512            | acquired two adjacent houses in the market square, Wittenberg (today Nos. 3/4)                                     |
+        | c.1512/13       | married Barbara Brengebier (died 1541) and the birth of son Hans (died 1537)                      		       |
+        | 1515            | birth of son Lucas the Younger (died 1586)                                                             	       |
+        | ca.1515-1520    | birth of daughters Ursula (date of death unknown), Barbara (died 1601) and Anna (died 1577)                        |
+        | 1518            | acquired the 'Cranachhof', at No. 1 Schloßstraße, Wittenberg                                                       |
+        | 1519-1544/45    | served as councillor in Wittenberg (intermittently)                                                                |
+        | 1520            | awarded the Electoral Privilege to run an apothecary                                                               |
+        | 1523            | received King Christian II of Denmark as a guest in his home                                                       |
+        | 1523-1525/26    | operated a printing house together with Christian Döring                                                           |
+        | 1524            | accompanied the Elector Friedrich III the Wise to the Reichstag, Nuremberg                                         |
+        | 1525            | was witness at the marriage ceremony of Martin Luther and Katharina von Bora                                       |
+        | 1525            | worked for the new elector of Saxony Johann the Steadfast (died 1532)                                              |
+        | 1532            | worked for the new elector of Saxony Johann Friedrich I the Magnanimous                                            |
+        | 1537/38-1543/44 | served as mayor of Wittenberg (intermittently)                                                                     |
+        | 1547-1550       | temporarily lost his position as court painter                                                                     |
+        | 1550-1552       | stayed in Augsburg and Innsbruck as court painter with the imprisoned Johann Friedrich I                           |
+        | 1552-1553       | worked in Weimar                                                                                                   |
+        | 1553            | Lucas Cranach the Elder died on 16 October in Weimar                                                      	       |
+      _key: bodyMultiText
+      isnew: true
+      _uid: bodyMultiText_1568748598631_11034
+  _key: imagePragraph
+  _uid: imagePragraph_1568746945227_2033
+- 
+  paragraphheadline: Hans Cranach
+  mybuilder:
+    - 
+      paragraphmultiimage:
+        - hanscranach.jpg
+      _key: bodyMultiImage
+      _uid: bodyMultiImage_1568749746176_12147
+    - 
+      paragraphmultitext: |
+        | ca. 1513     | geboren in Wittenberg als erster Sohn von Lucas Cranach und dessen Ehefrau Barbara Brengbier                                          |
+        |--------------|---------------------------------------------------------------------------------------------------------------------------------------|
+        | ca. 1527/29  | Beginn der Lehrzeit in der väterlichen Werkstatt zusammen mit Bruder Lucas                                                            |
+        | 1534         | Bildnis eines bärtigen Mannes (Museo Thyssen-Bornemisza, Madrid) datiert "1534" und signiert mit den Initialen "HC"                   |
+        |              | Empfang einer Zahlung an seinen Vater auf dem Leipziger Michaelismarkt                                                                |
+        | 1536/37      | in Abrechnungen für Arbeiten im Torgauer Schloss erwähnt                                                                              |
+        | 1537         | Bild Herkules bei Omphale (Museo Thyssen-Bornemisza, Madrid), datiert "1537" und signiert mit Schlangensignet zwischen Initialen "HC" |
+        |              | Studienreise nach Italien                                                                                                             |
+        |              | Skizzenbuch                                                                                                                           |
+        | 9. Okt. 1537 | verstorben in Bologna                                                                                                                 |
+      _key: bodyMultiText
+      _uid: bodyMultiText_1568752972413_1321
+  _key: imagePragraph
+  _uid: imagePragraph_1568749683353_12062
+- 
+  paragraphheadline: Lucas Cranach der Jüngere
+  mybuilder:
+    - 
+      paragraphmultiimage:
+        - lucascranachdj.jpg
+      _key: bodyMultiImage
+      _uid: bodyMultiImage_1568753039610_1540
+    - 
+      paragraphmultitext: |
+        | 04. Okt. 1515 | geboren in Wittenberg als zweiter Sohn von Lucas Cranach und dessen Ehefrau Barbara Brengbier                                                     |
+        |---------------|---------------------------------------------------------------------------------------------------------------------------------------------------|
+        | ca. 1527/29   | Beginn der Lehrzeit in der väterlichen Werkstatt zusammen mit Bruder Hans                                                                         |
+        | 1535          | erstmals namentlich in Abrechnungen der väterlichen Werkstatt erwähnt                                                                             |
+        | 1536/37       | in Abrechnungen für Arbeiten im Torgauer Schloss erwähnt                                                                                          |
+        | 1541          | Tod seiner Mutter Babara                                                                                                                          |
+        |               | Heirat mit Barbara Brück, Tochter des kursächsischen Kanzlers Dr. Gregor Brück, aus dieser Ehe vier Kinder                                        |
+        | 1549 - 1567   | Ratsherr in Wittenberg                                                                                                                            |
+        | 1550          | Tod seiner Frau Barbara                                                                                                                           |
+        | 1551          | großformatige Herkulesbilder für das Dresdner Schloss                                                                                             |
+        |               | Heirat mit Magdalena Schurff, Tochter des Medizinprofessors Augustin Schurff und Nichte Philipp Melanchthons, aus dieser Ehe fünf Kinder          |
+        | Jan. 1553     | Aufenthalt an Weimar zusammen mit Familie und Gesellen aufgrund der Pest in Wittenberg                                                            |
+        | 16. Okt. 1553 | Tod des Vaters Lucas Cranach d. Ä. in Weimar                                                                                                      |
+        | 1554          | Geburt Augustin Cranach (gest. 1595)                                                                                                              |
+        | 1555          | Epitaph für Herzog Johann Friedrich von Sachsen und Sibylle von Cleve, Weimarer Stadtkirche St. Peter und Paul                                    |
+        |               | Amt des Kämmerers in Wittenberg                                                                                                                   |
+        | 1558          | Epitaph für Michael Meyenburg, Nordhausen, St. Blasii                                                                                             |
+        | 1565          | Epitaph für Fürst Joachim von Anhalt, Dessau, St. Johannis und St. Marien                                                                         |
+        | 1565/67       | Bürgermeister von Wittenberg                                                                                                                      |
+        | 1567          | Grumbachsche Händel, Einsetzung Cranachs für seine verwitwete Schwester Barbara zur teilweisen Rückgabe der eingezogenen Besitztümer ihres Mannes |
+        | 1568          | Immatrikulation an der Universität Wittenberg                                                                                                     |
+        | 25. Jan. 1586 | verstorben in Wittenberg                                                                                                                          |
+        | 27. Jan. 1586 | Beerdigung in der Stadtkirche                                                                                                                     |
+        | 1608          | Tod Cranachs zweiter Frau Magdalena, Epitaph für Cranach und seine beiden Ehefrauen in der Stadtkirche                                            |
+      _key: bodyMultiText
+      _uid: bodyMultiText_1568753407235_2685
+  _key: imagePragraph
+  _uid: imagePragraph_1568753028716_1455

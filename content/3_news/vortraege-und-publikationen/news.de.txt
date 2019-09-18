@@ -1,0 +1,39 @@
+Title: Vorträge und Publikationen
+
+----
+
+Mybuilder:
+
+- 
+  paragraphnewstext: |
+    **Vorträge**
+    
+    Das Cranach Digital Archive wurde als Modell für andere Projekte in den zurückliegenden Monaten u.a. in folgenden Veranstaltungen präsentiert und diskutiert:
+    
+    - Rom, 26. Juni 2017, Bibliotheca Hertziana, Max Planck Institut für Kunstgeschichte
+    - Oslo, 18. Oktober 2017, Munch Museum
+    - Tokyo, 10. November 2017, Workshop anlässlich des Dokkyo University International Forum
+    
+    **Neue Publikationen**
+    Das Team des Cranach Digital Archive veröffentlichte neue Ergebnisse unter anderem in den folgenden Publikationen:
+    
+    
+    Lucas Cranach der Jüngere. Archivalische Quellen zu Leben und Werk, eingeleitet und bearbeitet von Monika und Dieter Lücke (Schriften der Stiftung Luthergedenkstätten in Sachsen-Anhalt 22), Evangelische Verlagsanstalt, Leipzig 2017.
+    
+    Thomas Pöpper (Hg.): Cranach in Zwickau. Das Retabel in der St. Katharinenkirche, Schnell & Steiner, Regensburg 2017.
+    
+    I volti della Riforma. Lutero e Cranach nelle collezioni medicee, (Ausstellungskatalog, Uffizien, Florenz, 31. Oktober 2017 - 7. Januar 2018), Giunti, Florenz 2017.
+  _key: newsText
+  _uid: newsText_1568756324891_5480
+
+----
+
+Headline: Vorträge und Publikationen
+
+----
+
+Previewtext: Das Cranach Digital Archive wurde als Modell für andere Projekte in den zurückliegenden Monaten u.a. in folgenden Veranstaltungen präsentiert und diskutiert.
+
+----
+
+Date: 2018-04-02

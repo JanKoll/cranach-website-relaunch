@@ -3,8 +3,26 @@
   <div class="orbit <?php if($page->intendedTemplate() == 'artefact' || $page->template() == 'home') echo 'large' ?>" role="region" aria-label="Favorite Space Pictures" data-orbit>
     <div class="orbit-wrapper">
       <div class="orbit-controls">
-        <button class="orbit-previous"><span class="show-for-sr">Previous Slide</span>&#9664;&#xFE0E;</button>
-        <button class="orbit-next"><span class="show-for-sr">Next Slide</span>&#9654;&#xFE0E;</button>
+        <button class="orbit-previous">
+          <span class="show-for-sr">
+            <?php 
+              if($kirby->language()->code()=='de') {
+                echo 'Vorheriges Bild'; 
+              } else {
+                echo 'Previous Slide';  
+              };
+            ?>
+          </span>&#9664;&#xFE0E;</button>
+        <button class="orbit-next">
+          <span class="show-for-sr">
+            <?php 
+                if($kirby->language()->code()=='de') {
+                  echo 'Nächstes Bild'; 
+                } else {
+                  echo 'Next Slide';  
+                };
+              ?>
+          </span>&#9654;&#xFE0E;</button>
       </div>
       <ul class="orbit-container">
         <?php foreach($page->images() as $image): ?>

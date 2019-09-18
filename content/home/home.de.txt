@@ -5,7 +5,7 @@ Title: Startseite
 Pages:
 
 - lucas-cranach
+- about-us
+- news
+- partner
 - research
-- research/paintings
-- research/archivals
-- research/paintings/test

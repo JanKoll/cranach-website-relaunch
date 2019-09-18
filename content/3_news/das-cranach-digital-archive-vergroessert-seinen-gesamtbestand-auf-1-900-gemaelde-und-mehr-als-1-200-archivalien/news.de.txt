@@ -1,0 +1,73 @@
+Title: Das Cranach Digital Archive vergrößert seinen Gesamtbestand auf 1.900 Gemälde und mehr als 1.200 Archivalien.
+
+----
+
+Mybuilder:
+
+- 
+  paragraphnewsimage:
+    - jachymov.jpg
+  _key: newsImage
+  _uid: newsImage_1568755962730_2849
+- 
+  paragraphnewstext: |
+    Mit dieser Erweiterung kommen weitere 200 Gemälde und mehr als 350 Archivalien zum Gesamtbestand des Cranach Digital Archive hinzu.
+    
+    Folgende Sammlungen und Institutionen sind mit neuen Gemälden im cda vertreten:
+    Art Museum of Estonia, Tallinn
+    Musée Anne-de-Beaujeu & Maison Mantin, Moulins
+    Carnegie Museum of Art, Pittsburgh
+    Portland Art Museum
+    Collections artistiques de l'Université de Liège - Galerie Wittert
+    Evangelisch-Lutherische Kirchgemeinde St. Nikolai, Leipzig
+    Erzgebirgsmuseum Annaberg-Buchholz
+    Kupferstichkabinett, Staatliche Museen zu Berlin Preußischer Kulturbesitz
+    Zamek Królewski na Wawelu
+    Muzeum Palacu Króla Jana III w Wilanowie
+    Stiftsmuseum Klosterneuburg
+    Museum Kurhaus Kleve
+    Zisterzienserabtei Lilienfeld
+    Benediktinerstift Melk
+    Museum Mayer van den Bergh, Antwerpen
+    Österreichische Galerie Belvedere, Wien
+    St. Anna Kirche, Augsburg
+    Tiroler Landesmuseum Ferdinandeum, Innsbruck
+    St. Annen-Museum, Lübeck
+    Sammlung Huis Bergh, `s-Heerenberg
+    Kulturstiftung Sachsen-Anhalt - Kunstmuseum Moritzburg
+    Museum Wiesbaden
+    Musée des Beaux-Arts, La Rochelle
+    Kunstsammlungen Chemnitz
+    Rosgartenmuseum Konstanz
+    Kostel svatého Jáchyma a svaté Anny
+    Muzeum Královská mincovna Jáchymov
+    Kulturhistorisches Museum Görlitz
+    Kunstsammlungen der Veste Coburg, Coburg
+    Dorfkirche Klix
+    Museum Bautzen
+    Regionální muzeum v Teplicích
+    Stadtmuseum Baden-Baden
+    Rijksmuseum Het Catharijneconvent, Utrecht
+    Muzeum Narodowe we Wroclawiu
+    Muzeum Czartoryskich
+    Muzeum Narodowe w Krakowie
+    Muzeum Zamek w Goluchowie
+    Muzeum Narodowe w Poznaniu
+    Západoceská galerie v Plzni
+    Halle, Landesamt für Denkmalpflege, Archiv
+    Karlovy Vary (Karlsbad), Regionalmuseum
+    Stiftskirche Unsere Liebe Frau, Baden-Baden
+  _key: newsText
+  _uid: newsText_1568755938250_2726
+
+----
+
+Headline: Das Cranach Digital Archive vergrößert seinen Gesamtbestand auf 1.900 Gemälde und mehr als 1.200 Archivalien.
+
+----
+
+Previewtext: Mit dieser Erweiterung kommen weitere 200 Gemälde und mehr als 350 Archivalien zum Gesamtbestand des Cranach Digital Archive hinzu.
+
+----
+
+Date: 2019-01-28

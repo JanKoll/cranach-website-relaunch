@@ -43,7 +43,15 @@
                   <figcaption class="content">
                     <p><?= $block->previewText() ?></p>
                     <p>
-                      <a href="<?= $block->url() ?>" class="button">Discover</a>
+                      <a href="<?= $block->url() ?>" class="button">
+                        <?php 
+                          if($kirby->language()->code()=='de') {
+                            echo 'Entdecken'; 
+                          } else {
+                            echo 'Discover';  
+                          };
+                         ?>
+                        </a>
                     </p>
                   </figcaption>
                 </figure>

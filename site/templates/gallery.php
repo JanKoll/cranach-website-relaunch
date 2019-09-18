@@ -20,7 +20,15 @@
                     <label for="eins"><input type="checkbox" name="eins" value="eins" id="eins">Eins</label>
                     <label for="zwei"><input type="checkbox" name="zwei" value="zwei" id="zwei">Zwei</label>
                     <label for="drei"><input type="checkbox" name="drei" value="drei" id="drei">Drei</label>
-                    <button type="button" name="anwenden" class="button">Anwenden</button>
+                    <button type="button" name="anwenden" class="button"> 
+                      <?php 
+                        if($kirby->language()->code()=='de') {
+                          echo 'Anwenden'; 
+                        } else {
+                          echo 'Apply';  
+                        };
+                      ?>
+              	    </button>
                   </fieldset>
                 </form>
               </div>

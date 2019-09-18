@@ -1,17 +1,304 @@
-Title: About Us
+Title: About us
 
 ----
 
-Headline: Mollis Cursus
+Headline: Über uns
 
 ----
 
-Previewtext: Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Donec id elit non mi porta gravida at eget metus.
+Subheadline: 
+
+----
+
+Previewtext:
+
+Im Oktober 2009 begannen acht große Museen in Europa und den USA gemeinsam mit dem Kunstpalast in Düsseldorf und der Technischen Hochschule Köln ein Forschungsprojekt zur digitalen Erschließung der Gemälde eines der bedeutendsten Maler der deutschen Renaissance: Lucas Cranach der Ältere. Gefördert wird das Projekt von der Andrew W. Mellon Foundation als Teil einer größeren Initiative, deren Ziel es ist, eine internetbasierte Infrastruktur für den Austausch und die Vermittlung neuer kunsthistorischer, technologischer und naturwissenschaftlicher Forschungsergebnisse zu entwickeln, welche die Grenzen von Institutionen und internationalen Grenzen überschreitet. Der umfangreiche Fundus an Bild- und Textinformationen soll der Öffentlichkeit ein tieferes Verständnis der Kunst Lucas Cranachs ermöglichen und die Forscher künftig dabei unterstützen, u. a. Fragen zu Zuschreibung und Werkstattorganisation zu beantworten.
+
+Das Cranach-Forschungsprojekt befindet sich derzeitig in seiner dritten Phase (2015 – 2019). Ziel dieser Phase ist, das bestehende Netzwerk weiter auszubauen, die Infrastruktur weiterzuentwickeln und den Inhalt zu vermehren, um das Fundament für eine innovative, umfassende und gemeinschaftliche Quelle des Wissens über Lucas Cranach und seine Werkstatt zu legen, die sich signifikant von dem traditionellen Modell eines Werkkataloges unterscheidet.
 
 ----
 
 Text:
 
-Nullam quis risus eget urna mollis ornare vel eu leo. Nullam id dolor id nibh ultricies vehicula ut id elit. Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Donec ullamcorper nulla non metus auctor fringilla. Praesent commodo cursus magna, vel scelerisque nisl consectetur et.
+Im Oktober 2009 begannen acht große Museen in Europa und den USA gemeinsam mit dem Kunstpalast in Düsseldorf und der Technischen Hochschule Köln ein Forschungsprojekt zur digitalen Erschließung der Gemälde eines der bedeutendsten Maler der deutschen Renaissance: Lucas Cranach der Ältere. Gefördert wird das Projekt von der Andrew W. Mellon Foundation als Teil einer größeren Initiative, deren Ziel es ist, eine internetbasierte Infrastruktur für den Austausch und die Vermittlung neuer kunsthistorischer, technologischer und naturwissenschaftlicher Forschungsergebnisse zu entwickeln, welche die Grenzen von Institutionen und internationalen Grenzen überschreitet. Der umfangreiche Fundus an Bild- und Textinformationen soll der Öffentlichkeit ein tieferes Verständnis der Kunst Lucas Cranachs ermöglichen und die Forscher künftig dabei unterstützen, u. a. Fragen zu Zuschreibung und Werkstattorganisation zu beantworten.
 
-Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Nullam id dolor id nibh ultricies vehicula ut id elit. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nullam quis risus eget urna mollis ornare vel eu leo. Donec id elit non mi porta gravida at eget metus. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Nullam quis risus eget urna mollis ornare vel eu leo.
+Das Cranach-Forschungsprojekt befindet sich derzeitig in seiner dritten Phase (2015 – 2019). Ziel dieser Phase ist, das bestehende Netzwerk weiter auszubauen, die Infrastruktur weiterzuentwickeln und den Inhalt zu vermehren, um das Fundament für eine innovative, umfassende und gemeinschaftliche Quelle des Wissens über Lucas Cranach und seine Werkstatt zu legen, die sich signifikant von dem traditionellen Modell eines Werkkataloges unterscheidet.
+
+----
+
+Mybuilder:
+
+- 
+  paragraphheadline: Das Projekt
+  paragraphtext: |
+    **Das Anliegen des Cranach Digital Archive (cda)**
+    
+    Lucas Cranach der Ältere war einer der größten und vielseitigsten Künstler Europas im 16. Jahrhundert. In fast fünf Jahrzehnten diente er drei sächsischen Kurfürsten als Hofmaler. Mit außergewöhnlicher Kreativität entwickelte er in einer der produktivsten Werkstätten seiner Zeit zahlreiche innovative Bildthemen und ikonografische Neuerungen, die das Zeitalter des Humanismus und Protestantismus beispiellos reflektieren. Heute sind noch über 1500 Gemälde von Cranach und seiner Werkstatt bekannt und diese repräsentieren nur einen Bruchteil der einst produzierten Werke.
+    
+    Trotz umfangreicher Bemühungen vieler Generationen von Cranach-Forschern, ein tieferes Verständnis für die Kunst Cranachs zu generieren und sein breitgefächertes Oeuvre an Gemälden, Zeichnungen und Drucken zu katalogisieren, bietet der Werkbestand noch immer eine große Anzahl an Fragen und Aufgabenstellungen für die kunstwissenschaftliche Forschung:
+    
+    - Der Werkkatalog von Max J. Friedländer und Jakob Rosenberg wurde zuletzt 1979 überarbeitet und ist inzwischen nicht mehr aktuell. Darin sind etwa 1000 Gemälde aufgeführt, aber nur 452 abgebildet. Verlässliche Informationen über das Oeuvre Cranachs, u.a. qualitativ hochwertige Fotografien, sind nur aufwändig zusammenzutragen oder zu generieren, und zahlreiche Werke in Kirchen oder privaten Sammlungen blieben bisher unberücksichtigt.
+    - Obwohl in den letzten Jahrzehnten zahlreiche kunsthistorische und technologische sowie restaurierungs- und naturwissenschaftliche Untersuchungen erfolgten, deren Ergebnisse neue Erkenntnisse in Fragen der Zuschreibung, Authentizität, Datierung, Präsentation und Funktion sowie Veränderungen in der Erscheinung der Werke erbrachten, konnte bislang nur ein Bruchteil dieser Forschungsergebnisse publiziert werden. Trotz wachsenden Interesses ist es für Cranach-Forscher schwierig, diesen reichen und über zahlreiche Archive verteilten Materialfundus zu erschließen. Zudem wird permanent neues Dokumentationsmaterial erzeugt, vieles davon in digitaler Form, und bisher gibt es noch kein etabliertes Verfahren, wie dieses Material analog oder digital einfach und vertrauensvoll ausgetauscht werden kann.
+    - Die Gemälde Cranachs sind in fast allen großen Museen vertreten. Diese Tatsache bildet eine ideale Grundlage für eine vernetzte Forschung. Zudem existiert eine hochmotivierte Gemeinschaft aus Kunsthistorikern, Restauratoren, Historikern und Naturwissenschaftlern, die ein Interesse daran haben, Dokumentationsmaterial einander zur Verfügung zu stellen und somit zum Erfolg des cda beizutragen.
+    - In den letzten Jahren gab es große und erfolgreiche Cranach-Ausstellungen in Chemnitz (2006), Frankfurt a. M. (2007), London (2008), Berlin (2009), Brüssel (2010), Rom (2010), Paris (2011) und München (2011). Diese Ausstellungen begeisterten nicht nur Millionen Besucher, sondern warfen auch zahlreiche Fragen auf und machten auf weiteren Forschungsbedarf aufmerksam.
+    - Die Verbesserung der digitalen Fototechnik im sichtbaren und im infraroten Bereich ermöglicht es, hochauflösende Aufnahmen zu erstellen und elektronisch auszutauschen. Dadurch ist es möglich, u.a. digitale mikroskopische Aufnahmen oder Dokumentationen der Unterzeichnungen zu generieren, die heute ein wichtiger Bestandteil der Cranach-Forschung sind.
+    
+    **Das Cranach Digital Archive verfolgt drei primäre Ziele:**
+    
+    - Erhaltung
+    Das Cranach Digital Archive soll eine Möglichkeit bieten, Dokumentationen aus Museen und privaten Sammlungen wie z.B. Berichte, Korrespondenzen, Röntgenaufnahmen, Farbdias und digitale Fotos langfristig zu speichern und die Nutzbarkeit zu erhalten. Gerade in kleineren Museen und privaten Sammlungen ist dieses Material in Gefahr, verloren zu gehen.
+    - Erschließung
+    Das Datenmaterial wird nach Ordnungsprinzipien erfasst, systematisiert und kommentiert. Das Cranach Digital Archive führt Informationen verschiedenster Institutionen in einer Internetressource zusammen und stellt sie der Öffentlichkeit zur Verfügung.
+    - Forschung und Nutzungsvermittlung
+    Das Cranach Digital Archive gewährleistet den Zugang zu historischen Dokumentationen und abgeschlossenen Forschungsarbeiten und es befördert die interdisziplinäre Forschung und Lehre. Die Mitarbeiter des Projektes sind aktiv in die Forschung und die Generierung von neuem Dokumentationsmaterial wie z.B. dendrochronologischen Analysen und digitalen IR-Aufnahmen involviert.
+    
+    **Die Pilotphase (2009 – 2011)**
+    
+    Von Oktober 2009 bis September 2011 wurden Methoden für die Erfassung, den Austausch und das internetbasierte Studium von Text- und Bildmaterial zu Gemälden Lucas Cranachs entwickelt und eine repräsentative Anzahl an Gemälden dokumentiert. In dieser Phase hat das Cranach-Projekt mit anderen durch die Mellon Foundation geförderten Pilotprojekten kooperiert, deren Modelle und Methoden getestet und weiterentwickelt.
+    
+    **Ergebnisse der Pilotphase (2009 – 2011)**
+    
+    **Kooperation**
+    In der Pilotphase arbeiteten neun Gründungspartner und weiteren zehn Partnerinstitutionen zusammen mit den Organisatoren am Cranach Digital Archive:
+    Gündungspartner: Bayerische Staatsgemäldesammlungen, Alte Pinakothek und Doerner Institut, München; J. Paul Getty Museum, Los Angeles; Kunsthistorisches Museum, Wien; Kunstmuseum Basel; Metropolitan Museum, New York; National Gallery, London; Gemäldegalerie der Staatlichen Museen zu Berlin; Gemäldegalerie Alte Meister, Dresden; Prof. Dr. Dieter Koepplin, Basel; Dr. Werner Schade, Berlin; Prof. Dr. Ingo Sandner, Dresden
+    
+    Partner: Anhaltische Gemälde-Galerie, Dessau; Germanisches Nationalmuseum, Nürnberg; Klassik Stiftung, Weimar; Kunstsammlungen der Veste Coburg, Coburg; Musées royaux des Beaux-Arts de Belgique, Brüssel; Museum der bildenden Künste, Leipzig; Stiftung Preußischer Schlösser und Gärten, Berlin-Brandenburg; Statens Museum for Kunst, Kopenhagen; Stiftung Schloss Friedenstein Gotha; Szépmüvészeti Múzeum, Budapest Zusätzlich konnte die Zusammenarbeit mit 23 weiteren Projektbeteiligten initiiert werden.
+    
+    **Infrastruktur**
+    Für die Erfassung und den Austausch von Daten wurden ein Modell und Regeln entwickelt:
+    
+    - In Zusammenarbeit mit dem Digitalen Kunst- und Kulturarchiv Düsseldorf (d:kult) wurde das Collection Management System (TMS) für die Datenerfassung individuell angepasst.
+    - Auf der Basis einer Open Source SQL Datenbank und des IIPimage client-server Systems konnte eine Prototyp-Anwendung und ein Webinterface entwickelt werden.
+    
+    **Produktion**
+    - Zu mehr als 500 Cranach-Gemälden wurden kunsthistorische, technologische und restauratorische Dokumentationen sowie hochauflösende Fotografien und technische Abbildungen (insgesamt über 7000 Abbildungen) erzeugt bzw. zusammengeführt.
+    - Innerhalb der Pilotphase dokumentierte das Projektteam über 300 Cranach-Gemälde in 16 Sammlungen (Berlin, Bremen, Brüssel, Coburg, Dessau, Gotha, Halle, Weimar, Wittenberg, Leipzig, Naumburg, Nürnberg, Kronach, Regensburg, Karlsruhe, Basel) u.a. mittels digitaler Fotografie, digitaler Mikroskopie und digitaler Infrarot-Reflektografie.
+    - Von über 350 Gemälden wurden neue OSIRIS Infrarot-Reflektografien angefertigt.
+    - Eine neu erstellte Cranach-Literaturdatenbank mit über 1.600 Einträgen konnte mit den Objektdatensätzen verlinkt werden.
+    - In einer Fallstudie wurden mehr als 60 Darstellungen der "Lucretia" erfasst.
+    - Im Januar 2012 stellte das cda den Internetzugang zu den Datensätzen von 400 Gemälden (in deutscher und englischer Sprache) mit mehr als 5.000 Abbildungen (darunter ca. 300 Infrarot-Reflektografien und 130 Röntgenaufnahmen) bereit.
+    
+    **Die zweite Projektphase (2012 – 2015)**
+    
+    In der zweiten Projektphase war es Ziel, das bestehende Netzwerk weiter auszubauen, die gemeinsam genutzte Infrastruktur weiterzuentwickeln und das Archiv inhaltlich wesentlich zu bereichern, um in dieser Weise ein innovatives Forschungsinstrument zu entwickeln und eine umfassende Forschungsressource zu Lucas Cranach zu generieren. Das Projekt sollte die interdisziplinäre und interinstitutionelle Forschung sowie die Entwicklung eines internationalen und nachhaltigen Forschungsnetzwerkes befördern.
+    Die zweite Projektphase verfolgte zwei primäre Ziele:
+    
+    - Die Weiterentwicklung der internetbasierten gemeinschaftlichen Forschungsinstrumente und Arbeitsprozesse, die Archivierung, Austausch und Vermittlung von kunsthistorischen, technologischen, naturwissenschaftlichen und restaurierungswissenschaftlichen Informationen zu unterstützen und damit Wissenschaft und Lehre zu befördern.
+    - Zusammenführung und Generierung kunsthistorischer, technologischer sowie restaurierungs- und naturwissenschaftlicher Dokumentationen zu über 1000 Gemälden von Lucas Cranach und seiner Werkstatt sowie die Digitalisierung und Transkription erhaltener Quellenschriften zum Ausbau eines nachhaltigen Wissensspeichers zu Lucas Cranach, um ein tieferes Verständnis für dessen Kunst zu ermöglichen.
+    
+    **Ergebnisse der zweiten Projektphase (2012 – Juni 2015)**
+    
+    **Kooperation**
+    
+    Seit 2012 baute das cda-Team Kooperationen mit weiteren 140 Institutionen (Museen, Forschungseinrichtungen und Kirchgemeinden) auf. Insgesamt repräsentiert das cda damit Dokumentationen und Forschungsergebnisse aus über 183 Institutionen in 24 Ländern, die von mehreren hundert Fachwissenschaftlern generiert und laufend erweitert werden.
+    
+    **Infrastruktur**
+    Es wurden Filterfunktionen auf der Basis von Thesauri in deutscher und englischer Sprache, die Möglichkeit zum Bildvergleich sowie eine persönliche Galerie eingerichtet und die Arbeitsabläufe bei der Erfassung optimiert. Darüber hinaus konnten zahlreiche Beziehungen zwischen verschiedenen Werken visualisiert werden.
+    
+    **Produktion**
+    
+    Das cda bietet einen freien Zugang zu kunsthistorischen, technischen und konservatorischen Information zu 1.300 Gemälden. Dazu gehören:
+    
+    - mehr als 12.200 hochauflösende Abbildungen
+    - mehr als 850 pdf-Dokumente
+    - mehr als 5.000 Textseiten (in deutscher und englischer Sprache)
+    - 1.100 Infrarotreflektogramme
+    - 360 Röntgenaufnahmen
+    Das Projektteam untersuchte mehr als 930 Gemälde in 85 Sammlungen und erstellte dabei u.a. digitale Fotografien, mikroskopische Aufnahmen und Infrarotreflektografien (noch nicht vollständig online)
+    
+    Mehrere Hundert Infrarotreflektogramme wurden ausgewertet und die Ergebnisse in Berichten dokumentiert.
+    
+    Gegenwärtig sind 345 Scans von Archivdokumenten zusammen mit neue Transkriptionen von Monika und Dieter Lücke frei verfügbar. Sie ermöglichen u.a. Einblicke in Entstehungsbedingungen und Werkstattpraxis.
+    
+    Die folgenden Archive wurden in der zweiten Projektphase digitalisiert:
+    
+    - Dieter Koepplin-Archiv (Basel) [7.500 Dateien – abgeschlossen, teilweise online]
+    - Max J. Friedländer-Archiv (RKD, Den Haag) [1.090 Dateien – abgeschlossen, teilweise online]
+    - Paolo Cadorin Archiv (Röntgenaufnahmen) [c. 60 Gemälde – abgeschlossen, teilweise online]
+    - Peter Klein-Archiv [ca. 300 Berichte – abgeschlossen, größtenteils online]
+    Die Literaturdatenbank umfasst gegenwärtig 2.950 Publikationen zu Cranach.
+    
+    **Die dritte Projektphase (2015 – 2019)**
+    
+    Die dritte Projektphase verfolgte drei primäre Ziele:
+    
+    - Die Weiterentwicklung der umfangreichen Forschungsressource zu Lucas Cranach.
+    - Die Weiterentwicklung eines innovativen, nutzerfreundlichen, vernetzten und nachhaltigen digitalen Archivs.
+    - Die Sicherstellung der dauerhaften Nutzbarkeit des Cranach Digital Archive.
+    
+    Zur Verwirklichung dieser Ziele werden die folgenden fünf Schritte unternommen:
+    
+    - Die Werke Lucas Cranachs des Älteren, seiner Söhne und seiner Werkstatt werden nahezu vollständig mit ausführlichen Metadaten und hochauflösenden Abbildungen in das cda aufgenommen. Darüber hinaus zielt das cda darauf ab, zusätzliche Informationen technischer und konservatorischer Art zu den neuen und bestehenden Objekten bereitzustellen. Zu Umsetzung dieses Ziels wird das cda mit vielen weiteren Museen, Archiven, Kirchgemeinden und Privatsammlern kooperieren. Das cda möchte sowohl vorhandenes Material digitalisieren und sichern, als auch neues Material mit modernsten technischen Verfahren generieren.
+    - Es wird sichergestellt, dass das cda auf der Grundlage einer interdisziplinären und interinstitutionellen Zusammenarbeit von Kunsthistorikern, Restauratoren, Naturwissenschaftlern und Historikern als umfassende Forschungsressource zu Lucas Cranach fungieren kann. Das cda strebt die Möglichkeit zur Aktualisierung der Daten durch die Museumspartner an, um einen hohen Standard der Datenpflege zu gewährleisten. Dieser Standard soll durch einen wissenschaftlichen Beirat überwacht werden. Da der Schwerpunkt der Arbeit im Bereich der Gemälde liegt, sollen die vorhandenen Inhalte erweitert und die Zahl der Archivdokumente zu Cranach (Briefe, Rechnungen, Zahlungsanweisungen etc.) deutlich erhöht werden.
+    - Weiterentwicklung innovativer, nutzerfreundlicher und nachhaltiger technischer Werkzeuge, die Zugang, Erschließung und Langlebigkeit des umfangreichen Materialbestands gewährleisten. Verbesserung der Nutzerfreundlichkeit um das Archiv für immer mehr Laien und Fachleute, Studenten und Lehrende attraktiv zu machen. Dies wird ein webbasiertes Eingabemodul für ein einfaches Aktualisieren der Daten und weiterführende Möglichkeiten des Bildvergleichs ebenso umfassen wie die Erweiterung der Filterfunktionen um dem breiten Interessensspektrum der Nutzer gerecht zu werden.
+    - Ausbau der Vernetzung des cda mit anderen Archiven um den Bekanntheitsgrad und Nutzerkreis zu erweitern. Das cda wird dazu anderen Datenbanken Metadaten und persistente Links zur Verfügung stellen und seinerseits Verknüpfungen zu anderen relevanten Datenbanken einpflegen.
+    - Etablierung einer dauerhaften Zusammenarbeit zwischen dem Kunstpalast, der Technischen Hochschule Köln und dem Deutschen Dokumentationszentrum für Kunstgeschichte - Bildarchiv Foto Marburg. Da die dauerhafte Speicherung aller Daten im Digitalen Kunst- und Kulturarchiv Düsseldorf (d:kult) bereits sichergestellt ist, wird die webgestützte Bereitstellung der Daten zukünftig in Zusammenarbeit mit dem Bildarchiv Foto Marburg gewährleistet und weiterentwickelt.
+  _key: paragraph
+  _uid: paragraph_1568753533422_1502
+- 
+  paragraphheadline: Projektorganisation
+  paragraphtext: |
+    **Organisatoren**
+    - Stiftung Museum Kunstpalast, Düsseldorf
+    - Technische Hochschule Köln
+    Prof. Dr. Gunnar Heydenreich (project director)
+    
+    **Gründungspartner**
+    - Bayerische Staatsgemäldesammlungen, Alte Pinakothek, Munich
+    Dr. Martin Schawe
+    - Doerner Institut, München
+    Prof. Dr. Andreas Burmester
+    - J. Paul Getty Museum, Los Angeles
+    Yvonne Szafran
+    - Kunsthistorisches Museum, Wien
+    Dr. Karl Schütz
+    Dr. Guido Messling
+    Mag. Alice Hoppe-Harnoncourt
+    Mag. Elke Oberthaler
+    Mag. Monika Strolz
+    - Kunstmuseum Basel
+    Dr. Bodo Brinkmann
+    - Metropolitan Museum, New York
+    Dr. Maryan Ainsworth
+    - National Gallery, London
+    Dr. Susan Foister
+    - Gemäldegalerie, Staatliche Museen zu Berlin, Stiftung Preußischer Kulturbesitz
+    Prof. Dr. Bernd Lindemann
+    Dr. Stefan Kemperdick
+    Dr. Babette Hartwieg
+    - Staatliche Kunstsammlungen Dresden, Gemäldegalerie Alte Meister
+    Dr. Stephan Koja
+    Roland Enke
+    - Prof. Dr. Dieter Koepplin, Basel
+    - Prof. Dr. Ingo Sandner, Dresden
+    - Dr. Werner Schade, Berlin
+    
+    **Partnerinstitutionen**
+    - Anhaltische Gemälde-Galerie, Dessau
+    Dr. Norbert Michels
+    - Centre de recherche et de restauration des musées de France (C2RMF), Paris
+    Marie Lavandier
+    Michel Menu
+    - Germanisches Nationalmuseum, Nürnberg
+    Dr. Daniel Hess
+    Oliver Mack
+    - Klassik Stiftung, Weimar
+    Dr. Bettina Werche
+    Dr. Karin Kolb
+    - Kunstsammlungen der Veste Coburg, Coburg
+    Dr. Klaus Weschenfelder
+    - Musées royaux des Beaux-Arts de Belgique, Brüssel
+    Dr. Veronique Bücken
+    - Museo Thyssen Bornemisza, Madrid
+    Mar Borobia
+    - Museum der bildenden Künste, Leipzig
+    Dr. Jan Nicolaisen
+    Rüdiger Beck
+    - Netherlands Institute for Art History, Den Haag
+    Ursula de Goede
+    - Staatliche Kunsthalle Karlsruhe
+    Dr. Holger Jacob-Friesen
+    - Städel Museum, Frankfurt/M.
+    Prof. Dr. Jochen Sander
+    - Statens Museum for Kunst, Kopenhagen
+    Dr. Jørgen Wadum
+    Loa Ludvigsen
+    - Stiftung Luthergedenkstätten in Sachsen-Anhalt
+    Dr. Stefan Rhein
+    Jutta Strehle
+    - Stiftung Preußischer Schlösser und Gärten, Berlin-Brandenburg
+    Dr. Samuel Wittwer
+    Mechthild Most
+    - Stiftung Schloss Friedenstein Gotha
+    Dr. Allmuth Schuttwolf
+    - Szépmüvészeti Múzeum, Budapest
+    Miklós Gálos
+    - Thüringisches Hauptstaatsarchiv - Ernestinisches Gesamtarchiv, Weimar
+    Dr. Bernhard Post
+    - Prof. Dr. Peter Klein, Hamburg
+    - Dr. Monika und Dietrich Lücke, Nauendorf
+    
+    **Wissenschaftlicher Beirat**
+    Dr. Maryan Ainsworth, New York
+    Dr. Bodo Brinkmann, Basel
+    Dr. Susan Foister, London
+    Prof. Dr. Dieter Koepplin, Basel
+    Dr. Werner Schade, Berlin
+    Dr. Karl Schütz, Wien
+    Dr. Regine Stein, Marburg
+    
+    **Informationsrechtliche Beratung**
+    Prof. Dr. Thomas Dreier
+    Sven Mitsdörffer
+    Institut für Informationsrecht, Zentrum für angewandte Rechtswissenschaft (ZAR),
+    Universität Karlsruhe / Karlsruhe Institute of Technology (KIT)
+    
+    Prof. Dr. Louisa Specht
+    Lehrstuhl für Europäisches und Internationales Informations- und Datenrecht
+    Universität Passau
+    
+    **Projektteam**
+    Prof. Dr. Gunnar Heydenreich (Kunstpalast/Cologne Institute of Conservation Sciences)
+    Helen Smith, Mellon Fellow (Kunstpalast)
+    Jana Herrschaft (Kunstpalast)
+    Daniel Görres (Germanisches Nationalmuseum Nürnberg/Kunstpalast)
+    Prof. Christian Noss (Technische Hochschule Köln)
+    Jörg Stahlmann (bis 2018)
+    
+    In Zusammenarbeit mit
+    Prof. Dr. Ingo Sandner, Dresden
+    Dr. Monika Lücke
+    Dietrich Lücke
+    
+    **Studierende**
+    Christine Unsinn (Freie Universität, Berlin)
+    Linda Schmidt, Sonja Ruß, Svenja Dickmann, Nicole Reds (Cologne Institute of Conservation Sciences, Technische Hochschule Köln)
+    
+    **Mit Beiträgen von**
+    Désirée Monsees (Universität Kassel)
+    Laura Thiepold (Heinrich Heine Universität Düsseldorf)
+    Prof. Dr. Martina Sitt (Universität Kassel)
+    Prof. Dr. Thomas Pöpper (Westsächsische Hochschule Zwickau)
+    u.a.
+  _key: paragraph
+  _uid: paragraph_1568754886814_557
+- 
+  paragraphheadline: Verwandte Projekte
+  mybuilder:
+    - 
+      paragraphmultitext: |
+        **Wege zu Cranach**
+        (image: wege-zu-cranach.jpg)
+        Bei den "Wegen zu Cranach" handelt es sich um ein länderübergreifendes Projekt, in dem Orte mit einem besonderen Bezug zu Leben und Wirken Lucas Cranachs d. Ä. und der Malerfamilie Cranach kooperieren. Ziel ist es, das künstlerische Erbe Cranachs zu würdigen und zu bewahren sowie in der Öffentlichkeit zu vermitteln und zu verbreiten. Derzeit arbeiten zwölf Partner in diesem Projekt zusammen: Coburg, Dessau-Roßlau, Eisenach, Erfurt, Gotha, Kronach, Lutherstadt Wittenberg, Meissen, Neustadt/Orla, Nürnberg, Schneeberg und Weimar. Begleitet wird die Arbeit von einem wissenschaftlichen Beirat aus Kunsthistorikern und Cranach-Experten.
+        
+        (link: http://wege-zu-cranach.de/wege-zu-cranach.html text: http://wege-zu-cranach.de/wege-zu-cranach.html)
+        
+        
+        **Digitales Kunst- und Kulturarchiv Düsseldorf (d:kult)**
+        d:kult ist eine gemeinschaftliche Initiative von Museen und Kulturinstitutionen der Landeshauptstadt Düsseldorf, deren Anliegen es ist, die Sammlungen zu verwalten und etwa 3,5 Millionen Sammlungsobjekte online zugänglich zu machen. Das cda arbeitet mit d:kult zusammen und nutzt das Collection Management System als Datenspeicher.
+        
+        (link: https://emuseum.duesseldorf.de text: https://emuseum.duesseldorf.de)
+        
+        **Research Space**
+        ResearchSpace ist ein von der Andrew W. Mellon Foundation gefördertes Projekt mit dem Ziel, die interdisziplinäre und interinstitutionelle Forschung sowie die Kommunikation und Publikation von Informationen über unser kulturelles Erbe mittels digitaler Technologien zu befördern. ResearchSpace entwickelt in Kooperation mit dem Cranach Digital Archive folgende Elemente: Werkzeuge für Daten- und digitale Analyse, Austausch und Zusammenarbeit, semantische RDF-Datenformate sowie Instrumente für die digitale Verwaltung, Veröffentlichung und Bearbeitung.
+        
+        (link: http://www.researchspace.org text: http://www.researchspace.org)
+        
+        **Raphael Research Resource**
+        Seit 2007 hat die Andrew W. Mellon Foundation mehrere Pilotprojekte unterstützt, die sich mit der digitalen Erfassung und der internetbasierten Vermittlung von kunsthistorischen und restauratorischen Dokumenten befassen. Im Fokus der Raphael Research Resource, einem Projekt der National Gallery in London stehen kunsthistorische, technologische und restauratorische Informationen zu zehn bedeutenden Gemälden von Raffael. Mittlerweile konnten durch die Zusammenarbeit mit Partnerinstitutionen weitere Gemälde integriert werden. Die Raphael Research Resource ist heute eine Plattform, die Raffaels Gesamtwerk in noch nie da gewesenem Umfang präsentiert.
+        
+        (link: http://cima.ng-london.org.uk/documentation text: http://cima.ng-london.org.uk/documentation)
+        
+        **The Rembrandt Database**
+        Bei der Rembrandt Database handelt es sich um ein gemeinschaftliches Projekt des Niederländischen Instituts für Kunstgeschichte (RKD) und der Königlichen Gemäldegalerie Mauritshuis in Den Haag. Das Projekt wird ebenfalls von der Andrew W. Mellon Foundation als Teil einer größeren Initiative zur Schaffung einer internetbasierten Infrastruktur zum Austausch zwischen Institutionen gefördert. Ziel der Rembrandt Database ist es, eine vielsprachige, internetbasierte Forschungsquelle zu schaffen, in der restauratorische, technologische und kunsthistorische Dokumentationen zu Gemälden von Rembrandt aus verschiedenen Museen und Institutionen weltweit erfasst werden. Die Datenbank basiert auf einem umfangreichen Netzwerk aus bestehenden RKD-Datenbanken.
+        
+        (link: http://rembrandtdatabase.org/ text: http://rembrandtdatabase.org/)
+        
+        **Cranach Magnified**
+        Cranach Magnified ist ein Pilotprojekt des J. Paul Getty Museums, welches es ermöglicht, die Maltechnik von Lucas Cranach d. Ä. und seiner Werkstatt anhand makroskopischer Details verschiedener Gemälde vergleichend zu studieren. Der Schwerpunkt liegt bei Gemälden, die zwischen 1525 und 1530 entstanden sind. Sie zeigen den geschmeidigen, fast kalligrafischen Pinselstrich, das strukturierte Laubwerk und die minutiöse Malweise Cranachs in den späten 1520er-Jahren.
+        
+        (link: http://www.getty.edu/museum/conservation/cranach_comparison/index.html text: http://www.getty.edu/museum/conservation/cranach_comparison/index.html)
+      _key: bodyMultiText
+      _uid: bodyMultiText_1568755325935_1001
+  _key: imagePragraph
+  _uid: imagePragraph_1568755316226_903

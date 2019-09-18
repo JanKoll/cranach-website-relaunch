@@ -2,12 +2,20 @@ Title: Forschung
 
 ----
 
-Headline: Lorem Ipsum
+Headline: Kunsttechnologische Untersuchungen
 
 ----
 
-Previewtext: Aenean lacinia bibendum nulla sed consectetur. Cras justo odio, dapibus ac facilisis in, egestas eget quam.
+Previewtext: In Kooperation mit den Partnermuseen untersuchte das Team des Cranach Digital Archive bereits 1102 Gemälde in 143 Sammlungen und Kirchen unter Einsatz neuer Technologien wie der digitalen Infrarot-Reflektografie, die es ermöglicht, den Kompositionsentwurf unter der Malschicht sichtbar zu machen. In dieser Weise wurden zahlreiche neue Erkenntnisse zum Arbeitsprozess und zur Arbeitsteilung in der Cranach-Werkstatt gewonnen.
 
 ----
 
-Text: Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Cras mattis consectetur purus sit amet fermentum. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vestibulum id ligula porta felis euismod semper.
+Text: In Kooperation mit den Partnermuseen untersuchte das Team des Cranach Digital Archive bereits 1102 Gemälde in 143 Sammlungen und Kirchen unter Einsatz neuer Technologien wie der digitalen Infrarot-Reflektografie, die es ermöglicht, den Kompositionsentwurf unter der Malschicht sichtbar zu machen. In dieser Weise wurden zahlreiche neue Erkenntnisse zum Arbeitsprozess und zur Arbeitsteilung in der Cranach-Werkstatt gewonnen.
+
+----
+
+Subheadline: 
+
+----
+
+Mybuilder: 

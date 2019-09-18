@@ -12,7 +12,15 @@
           <!-- Breadcrumbs -->
           <nav aria-label="You are here:" role="navigation">
             <ul class="breadcrumbs">
-              <li><a href="#">Home</a></li>
+              <li><a href="#">
+                <?php 
+                if($kirby->language()->code()=='de') {
+                  echo 'Startseite'; 
+                } else {
+                  echo 'Home';  
+                };
+                ?>
+              </a></li>
               <li>
                 <span class="show-for-sr">Current: </span> <?= $page->title() ?>
               </li>
@@ -50,7 +58,15 @@
               <span><?= $item->date()->toDate('d. M Y') ?></span>
               <h3><?= $item->headline() ?></h3>
               <p><?= $item->previewText() ?></p>
-              <a href="<?= $page->url() ?>">Weiter lesen...</a>
+              <a href="<?= $item->url() ?>">
+                <?php 
+                    if($kirby->language()->code()=='de') {
+                      echo 'Weiter lesen...'; 
+                    } else {
+                      echo 'Read more...';  
+                    };
+                ?>
+            </a>
               <?php if (!(($item->indexOf() + 1) % 5 == 0)) : ?>
                 <hr />
               <?php endif ?>

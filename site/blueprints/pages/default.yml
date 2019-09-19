@@ -22,11 +22,12 @@ tabs:
             type: text
             required: true
           subHeadline:
-            label: Headline
+            label: Subheadline
             type: text
           previewText:
             label: Previewtext Text
             type: textarea
+            maxlength: 200
             required: true
           text:
             label: Text

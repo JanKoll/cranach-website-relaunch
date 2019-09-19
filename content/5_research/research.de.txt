@@ -6,7 +6,7 @@ Headline: Kunsttechnologische Untersuchungen
 
 ----
 
-Previewtext: In Kooperation mit den Partnermuseen untersuchte das Team des Cranach Digital Archive bereits 1102 Gemälde in 143 Sammlungen und Kirchen unter Einsatz neuer Technologien wie der digitalen Infrarot-Reflektografie, die es ermöglicht, den Kompositionsentwurf unter der Malschicht sichtbar zu machen. In dieser Weise wurden zahlreiche neue Erkenntnisse zum Arbeitsprozess und zur Arbeitsteilung in der Cranach-Werkstatt gewonnen.
+Previewtext: In Kooperation mit den Partnermuseen untersuchte das Team des Cranach Digital Archive bereits 1102 Gemälde in 143 Sammlungen und Kirchen unter Einsatz neuer Technologien...
 
 ----
 

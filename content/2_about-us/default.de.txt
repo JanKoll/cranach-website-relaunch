@@ -10,11 +10,7 @@ Subheadline:
 
 ----
 
-Previewtext:
-
-Im Oktober 2009 begannen acht große Museen in Europa und den USA gemeinsam mit dem Kunstpalast in Düsseldorf und der Technischen Hochschule Köln ein Forschungsprojekt zur digitalen Erschließung der Gemälde eines der bedeutendsten Maler der deutschen Renaissance: Lucas Cranach der Ältere. Gefördert wird das Projekt von der Andrew W. Mellon Foundation als Teil einer größeren Initiative, deren Ziel es ist, eine internetbasierte Infrastruktur für den Austausch und die Vermittlung neuer kunsthistorischer, technologischer und naturwissenschaftlicher Forschungsergebnisse zu entwickeln, welche die Grenzen von Institutionen und internationalen Grenzen überschreitet. Der umfangreiche Fundus an Bild- und Textinformationen soll der Öffentlichkeit ein tieferes Verständnis der Kunst Lucas Cranachs ermöglichen und die Forscher künftig dabei unterstützen, u. a. Fragen zu Zuschreibung und Werkstattorganisation zu beantworten.
-
-Das Cranach-Forschungsprojekt befindet sich derzeitig in seiner dritten Phase (2015 – 2019). Ziel dieser Phase ist, das bestehende Netzwerk weiter auszubauen, die Infrastruktur weiterzuentwickeln und den Inhalt zu vermehren, um das Fundament für eine innovative, umfassende und gemeinschaftliche Quelle des Wissens über Lucas Cranach und seine Werkstatt zu legen, die sich signifikant von dem traditionellen Modell eines Werkkataloges unterscheidet.
+Previewtext: Im Oktober 2009 begannen acht große Museen in Europa und den USA gemeinsam mit dem Kunstpalast in Düsseldorf und der Technischen Hochschule Köln ein Forschungsprojekt zur digitalen Erschließung...
 
 ----
 

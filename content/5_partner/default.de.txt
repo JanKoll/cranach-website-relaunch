@@ -6,11 +6,11 @@ Headline: Unsere Partner
 
 ----
 
-Subheadline: Unsere Partner
+Subheadline: 
 
 ----
 
-Previewtext: Das Cranach Digital Archive ist eine Initiative des Kunstpalasts, Düsseldorf und des Institutes für Restaurierungs- und Konservierungswissenschaft der Technischen Hochschule Köln in Zusammenarbeit mit neun Gründungspartnern sowie zahlreichen Partnerinstitutionen und Projektbeteiligten. Gefördert wird das Projekt durch die Andrew W. Mellon Foundation.
+Previewtext: Das Cranach Digital Archive ist eine Initiative des Kunstpalasts, Düsseldorf und des Institutes für Restaurierungs- und Konservierungswissenschaft der Technischen Hochschule Köln in Zusammenarbeit...
 
 ----
 

@@ -74,7 +74,7 @@ Headline: Cranach-Ausstellung Düsseldorf und 100 neue Werke
 
 ----
 
-Previewtext: Über 94 000 Besucher haben die Ausstellung "Cranach. Meister - Marke - Moderne" im Museum Kunstpalast besucht. Fast vier Monate lang sind rund 230 Werke aus bedeutenden Sammlungen sowie teilweise noch nie öffentlich gezeigte Gemälde in Düsseldorf präsentiert worden.
+Previewtext: Über 94 000 Besucher haben die Ausstellung "Cranach. Meister - Marke - Moderne" im Museum Kunstpalast besucht. Fast vier Monate lang sind rund 230 Werke aus bedeutenden Sammlung sowie teilweise...
 
 ----
 

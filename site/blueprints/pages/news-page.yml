@@ -23,6 +23,7 @@ columns:
       previewText:
         label: Previewtext Text
         type: textarea
+        maxlength: 200
         required: true
       text:
         label: Text

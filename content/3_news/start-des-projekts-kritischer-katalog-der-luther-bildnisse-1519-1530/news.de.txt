@@ -29,7 +29,7 @@ Headline: Start des Projekts "Kritischer Katalog der Luther-Bildnisse (1519-1530
 
 ----
 
-Previewtext: Das SAW-Forschungsprojekt "Kritischer Katalog der Luther-Bildnisse (1519-1530)" hat inzwischen erfolgreich seine Arbeit aufgenommen und wird sich in Kooperation mit dem Cranach Digital Archive in den kommenden drei Jahren der Erforschung der Porträts Martin Luthers widmen. Die Ergebnisse des Projekts werden anschließend im Cranach Digital Archive präsentiert.
+Previewtext: Das SAW-Forschungsprojekt "Kritischer Katalog der Luther-Bildnisse (1519-1530)" hat inzwischen erfolgreich seine Arbeit aufgenommen und wird sich in Kooperation mit dem Cranach Digital Archive...
 
 ----
 

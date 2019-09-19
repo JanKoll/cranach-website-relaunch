@@ -6,7 +6,7 @@ Headline: Lorem Ipsum
 
 ----
 
-Previewtext: Nulla vitae elit libero, a pharetra augue. Praesent commodo cursus magna, vel scelerisque nisl consectetur et.
+Previewtext: Nulla vitae elit libero, a pharetra augue. Cras mattis consectetur purus sit amet fermentum. Nullam quis risus eget urna mollis ornare vel eu leo. Aenean lacinia bibendum nulla sed...
 
 ----
 

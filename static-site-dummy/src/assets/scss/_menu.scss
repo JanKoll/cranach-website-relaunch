@@ -142,7 +142,7 @@
         justify-content: flex-end;
         align-items: center;
 
-        &.language {
+        &.language, &.mode {
           margin: 0;
           text-transform: uppercase;
           @include breakpoint(medium) {

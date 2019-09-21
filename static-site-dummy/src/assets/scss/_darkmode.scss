@@ -1,12 +1,16 @@
 body.dark {
-
   background: $black;
 
-  p, h2, h3, a {
+  a,
+  h2,
+  h3,
+  p {
     color: darken($light-gray, 30);
   }
 
-  .breadcrumbs li, label, legend {
+  .breadcrumbs li,
+  label,
+  legend {
     color: $light-gray;
   }
 
@@ -25,17 +29,20 @@ body.dark {
       a {
         color: $white;
       }
+
       ul {
         background: $primary-color;
       }
     }
 
-    .menu .active > a, .menu li:hover > a, .menu li.is-active > a {
+    .menu .active > a,
+    .menu li.is-active > a,
+    .menu li:hover > a {
       background: darken($primary-color, 10);
       color: $white;
     }
 
-    .menu li a:after  {
+    .menu li a:after {
       border-color: $white transparent transparent !important;
     }
   }
@@ -44,25 +51,39 @@ body.dark {
     border-top: 1px solid $medium-gray;
 
     a:hover {
-        color: $light-gray;
+      color: $light-gray;
     }
   }
 
   .home {
-      .cell {
-        &.primary {
+    .cell {
+      &.primary {
+        color: $white;
+
+        a {
           color: $white;
-          a {
-            color: $white;
-          }
-        }
-        &.gray {
-          color: $white;
-        }
-        &.light-gray {
-          background: $light-gray;
         }
       }
+
+      &.gray {
+        color: $white;
+      }
+
+      &.light-gray {
+        background: $light-gray;
+      }
+    }
   }
 
+  #theme-toggle {
+    &:after {
+      content: "\e90b";
+    }
+  }
+}
+
+#theme-toggle {
+  &:after {
+    content: "\e90a";
+  }
 }

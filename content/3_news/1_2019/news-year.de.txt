@@ -1,0 +1,13 @@
+Title: 2019
+
+----
+
+Headline: 2019
+
+----
+
+Previewtext: Lorem Ipsum
+
+----
+
+Text: Lorem Ipsum

@@ -29,7 +29,7 @@
 
           <!-- Article Navigation -->
           <ul class="article-nav" data-smooth-scroll>
-            <?php foreach ($page->children() as $year): ?>
+            <?php foreach ($page->parent()->children() as $year): ?>
 
             <li><a href="<?= $year->url() ?>"><?= $year->title() ?></a></li>
 
@@ -43,7 +43,7 @@
       <div class="news cell medium-8 small-12">
         <div class="grid-x">
 
-          <?php foreach ($list = $page->children()->children()->sortby('date','desc')->paginate(5) as $item) : ?>
+          <?php foreach ($list = $page->children()->sortby('date','desc')->paginate(5) as $item) : ?>
 
           <div class="cell small-12">
 

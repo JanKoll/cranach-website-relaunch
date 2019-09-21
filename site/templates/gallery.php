@@ -12,7 +12,7 @@
                 <?php if($page->hasChildren()): ?>
                   <a href="<?= $page->children()->shuffle()->first()->url() ?>" class="button random icon-shuffle">Random Article</a>
                 <?php endif ?>
-                
+
                 <!-- Filter -->
                 <form>
                   <fieldset class="fieldset">
@@ -20,12 +20,12 @@
                     <label for="eins"><input type="checkbox" name="eins" value="eins" id="eins">Eins</label>
                     <label for="zwei"><input type="checkbox" name="zwei" value="zwei" id="zwei">Zwei</label>
                     <label for="drei"><input type="checkbox" name="drei" value="drei" id="drei">Drei</label>
-                    <button type="button" name="anwenden" class="button"> 
-                      <?php 
+                    <button type="button" name="anwenden" class="button">
+                      <?php
                         if($kirby->language()->code()=='de') {
-                          echo 'Anwenden'; 
+                          echo 'Anwenden';
                         } else {
-                          echo 'Apply';  
+                          echo 'Apply';
                         };
                       ?>
               	    </button>
@@ -43,7 +43,7 @@
                       <a href="<?= $item->url() ?>">
                       <img src="<?= $item->images()->nth(0)->crop(400,500)->url() ?>">
                         <div class="card-section">
-                          <p><?= $item->title() ?> [<?= $item->date()->toDate('d. M Y') ?>]</p>
+                          <p><?= $item->title() ?> [<?= $item->date() ?>]</p>
                         </div>
                       </a>
                     </div>
@@ -51,11 +51,11 @@
                 <?php endforeach ?>
 
                 <?php if($list->last()->indexOf()+1 < 9): ?>
-            
+
                 <?php else:?>
                  <?php snippet('pagination', ['list' => $list]) ?>
                 <?php endif ?>
-                
+
               </div>
             </div>
           </div>

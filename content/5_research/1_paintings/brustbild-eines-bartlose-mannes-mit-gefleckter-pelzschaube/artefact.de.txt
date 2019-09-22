@@ -1,0 +1,84 @@
+Title: Brustbild eines bartlose Mannes mit gefleckter Pelzschaube
+
+----
+
+Headline: Brustbild eines bartlose Mannes mit gefleckter Pelzschaube
+
+----
+
+Previewtext: Links oben Wappen mit drei schwarzen Querbalken auf goldenem Grunde, rechts Sonnenuhr, darunter auf einem Spruchband: Betalet all. [Friedländer, Rosenberg 1979, no. 58]
+
+----
+
+Text: Links oben Wappen mit drei schwarzen Querbalken auf goldenem Grunde, rechts Sonnenuhr, darunter auf einem Spruchband: Betalet all. [Friedländer, Rosenberg 1979, no. 58]
+
+----
+
+Date: um 1510 - 1512
+
+----
+
+Tags: 
+
+----
+
+Mybuilder:
+
+- 
+  paragraphheadline: Allgemeines
+  paragraphtext: |
+    **Gemälde:**
+    
+    | CDA ID / Inventarnummer | 	PRIVATE_NONE-P200 |
+    |-------------------------|---------------------------------------|
+    | Permanent Link          | 		http://lucascranach.org/PRIVATE_NONE-P200|
+    | FR (1978) Nr.           | FR058
+    |
+    
+    **Titel:**
+    Brustbild eines bartlose Mannes mit gefleckter Pelzschaube	[Friedländer, Rosenberg 1979, no. 58]
+    
+    **Zuschreibung:**
+    Lucas Cranach der Ältere	[Friedländer, Rosenberg 1979, no. 58]
+    
+    **Datierung:**
+    um 1510 - 1512	[Friedländer, Rosenberg 1979, no. 58]
+    um 1508	[Exhib. Cat. Hamburg 2003, 166, No. 1]
+    um 1508 - 1512	[Exhib. Cat. Basel 1974, no. 166]
+    
+    **Eigentümer / Besitzer / Standort:**
+    
+    | Eigentümer | 	Privatbesitz |
+    |------------|--------------------------------|
+    | Besitzer   | 	Privatbesitz |
+    | Standort   |  |
+    
+    **Maße:**
+    Maße Bildträger: 48,4 x 36,4 cm [Friedländer, Rosenberg 1979, no. 58]
+    
+    **Bildträger:**
+    Malerei auf Eichenholz [Exhib. Cat. Basel 1974, no. 166] Malerei auf Fichtenholz [Friedländer, Rosenberg 1979, no. 58]
+    
+    **Signatur / Datierung:**
+    Keine
+    
+    **Inschriften, Stempel, Siegel, Beschriftungen:**
+    Rechts oben: Banner mit Inschrift: "Betalet all." - Oben links: Wappen (Nach Monika und Dietrich Lücke ist es ein bürgerliches Wappen, wohl der Familie Agicourt zuzuordnen [Exhib. Cat. Hamburg 2003, 166])
+  _key: paragraph
+  _uid: paragraph_1569175860029_8246
+- 
+  paragraphheadline: Provenienz
+  paragraphtext: |
+    - London, Sammlung Holman Hunt
+    - Köln, Sammlung Dr. Richard von Schnitzler, Katalog 1931, Nr. 15
+    - Kreuzlingen, Sammlung Heinz Kisters
+    [Friedländer, Rosenberg 1979, no. 58]
+  _key: paragraph
+  _uid: paragraph_1569175980807_8398
+- 
+  paragraphheadline: Ausstellungen
+  paragraphtext: |
+    Basel 1974, Nr. 166
+    Hamburg 2003, Nr. 1
+  _key: paragraph
+  _uid: paragraph_1569175994822_8550

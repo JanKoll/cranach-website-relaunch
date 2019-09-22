@@ -1,0 +1,78 @@
+Title: Bildnis einer Braut
+
+----
+
+Headline: Bildnis einer Braut
+
+----
+
+Previewtext: Brustbild nach links, ohne Hände, vor blauem Grund. Sie hat graublaue Augen und an den Schläfen sichtbares blondes Haar. Sie trägt ein moireseidenes rotes Kleid mit engen Ärmeln, geschnürtem...
+
+----
+
+Text: Brustbild nach links, ohne Hände, vor blauem Grund. Sie hat graublaue Augen und an den Schläfen sichtbares blondes Haar. Sie trägt ein moireseidenes rotes Kleid mit engen Ärmeln, geschnürtem Mieder und breiten gemusterten Goldborten, einen Brustlatz mit einer Darstellung der Jungfrau mit dem Einhorn, flankiert von zwei Personen (Jägern?), ein Schulterhemd mit Goldborten, einen goldenen Halsreif und Goldketten. Die Haube besteht aus aufgepolsterten dunkleren Zöpfen mit goldfarbenem perlenbesticktem Flechtrand und einem roten Bändchen. [Löcher, Cat. Nuremberg 1997, 160]
+
+----
+
+Date: um 1500 - 1506
+
+----
+
+Tags: 
+
+----
+
+Mybuilder:
+
+- 
+  paragraphheadline: Allgemeines
+  paragraphtext: |
+    **Gemälde:**
+    
+    | CDA ID / Inventarnummer | DE_GNMN_Gm614 |
+    |-------------------------|---------------------------------------|
+    | Permanent Link          | 		http://lucascranach.org/DE_GNMN_Gm614 |
+    | FR (1978) Nr.           | FR-none
+    |
+    
+    **Titel:**
+    Bildnis einer Braut	[Löcher, Cat. Nuremberg 1997, 161]
+    
+    **Zuschreibung:**
+    Lucas Cranach der Ältere	"...oder früher Werkstatt Mitarbeiter (Christof Maler?)" [Heydenreich 2007 A, 310] "zugeschrieben" [Löcher, Cat. Nuremberg 1997, 160] "?" [Heydenreich 1997, 7]
+    
+    
+    
+    **Datierung:**
+    um 1500 - 1506	[Heydenreich 1997, 7-11] [Heydenreich 2007 A, 303-311]
+    1532	[Braune, Cat. Nuremberg 1909, No. 614] "irrtümlich" [Löcher, Cat. Nuremberg 1997, 161]
+    1523	[Löcher, Cat. Nuremberg 1997, 160]
+    
+    **Eigentümer / Besitzer / Standort:**
+    
+    | Eigentümer | 	Germanisches Nationalmuseum, Nürnberg |
+    |------------|--------------------------------|
+    | Besitzer   | 	Germanisches Nationalmuseum, Nürnberg |
+    | Standort   | Nürnberg |
+    
+    **Maße:**
+    Maße Bildträger: 41,9 x 33,5 cm [Löcher, Cat. Nuremberg 1997, 160]
+    
+    **Bildträger:**
+    Malerei auf Lindenholz (Tilia sp) [Klein, Bericht 2013] [Löcher, Cat. Nuremberg 1997, 160]
+    
+    **Signatur / Datierung:**
+    Keine
+    
+    **Inschriften, Stempel, Siegel, Beschriftungen:**
+    Auf der Bildseite (später hinzugefügt): - Oben links zweizeilige Inschrift in Antiqua-Majuskeln: "AETATIS SVAE XXI/ 1523" - Darunter Wappen: In Gold schräger Sparren von drei roten Rosenblüten belegt; Helmzier Strauß mit drei roten Rosen; Decken schwarz gold. - Darüber in Kanzleischrift: "Magdalena von / Büritz" Rückseitig auf dem Bildträger: - Oben rechts: Mit weißer Farbe "Gm 614" - Unten links: Mit blauem Farbstift "Gm 614" Reste zweier Siegel [Löcher, Cat. Nuremberg 1997, 160]
+  _key: paragraph
+  _uid: paragraph_1569064971283_4119
+- 
+  paragraphheadline: Provenienz
+  paragraphtext: |
+    - Erworben vor 1882
+    
+    [Löcher, Cat. Nuremberg 1997, 160]
+  _key: paragraph
+  _uid: paragraph_1569065220207_4271

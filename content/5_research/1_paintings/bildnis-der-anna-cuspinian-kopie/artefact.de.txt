@@ -1,0 +1,87 @@
+Title: Bildnis der Anna Cuspinian
+
+----
+
+Headline: Bildnis der Anna Cuspinian
+
+----
+
+Previewtext: Brustbildnis der Frau des Historiographen Dr. Johannes Cuspinian (Spiessheimer) Teil eines Diptychons (Gegenstück zum Bildnis des Johannes Cuspinian)
+
+----
+
+Text: Brustbildnis der Frau des Historiographen Dr. Johannes Cuspinian (Spiessheimer) Teil eines Diptychons (Gegenstück zum Bildnis des Johannes Cuspinian)
+
+----
+
+Date: 1502
+
+----
+
+Tags: 
+
+----
+
+Mybuilder:
+
+- 
+  paragraphheadline: Allgemeines
+  paragraphtext: |
+    **Gemälde:**
+    
+    | CDA ID / Inventarnummer | CH_SORW_1925-1a |
+    |-------------------------|---------------------------------------|
+    | Permanent Link          | 	http://lucascranach.org/CH_SORW_1925-1a |
+    | FR (1978) Nr.           | FR007
+    |
+    
+    **Titel:**
+    Bildnis der Anna Cuspinian
+    
+    **Zuschreibung:**
+    Lucas Cranach der Ältere	[Sandner 1998 B, 122][Heydenreich 1998 A, 182]
+    
+    
+    **Datierung:**
+    1502	[Koepplin 2003, 127]
+    1502-1503	[Friedländer, Rosenberg 1978, 66] [Exhib. Cat. Kronach 1994, 298] [Sandner 1998 B, 122][Heydenreich 1998 A, 182]
+    
+    **Eigentümer / Besitzer / Standort:**
+    
+    | Eigentümer | 	Sammlung Oskar Reinhart, Winterthur |
+    |------------|--------------------------------|
+    | Besitzer   | 	Sammlung Oskar Reinhart, Winterthur |
+    | Standort   | Winterthur |
+    
+    **Maße:**
+    Maße Bildträger: 60,2-60,1 x 45,5-45 x 0,45-0,55 cm (Format nahezu original)
+    
+    **Bildträger:**
+    Malerei auf Fichtenholz (Picea sp.)
+    
+    **Signatur / Datierung:**
+    Keine
+    
+    **Inschriften, Stempel, Siegel, Beschriftungen:**
+    Rückseitig oben rechts Papieraufkleber, schwarz bedruckt: "Dr. Oskar Reinhart, Winterthur Nr. Cranach, Lucas d. Ae. Bildnis der Frau Joh. Cuspinians 45 x 59" Nummer SIK, Zürich. Zweiter Aufkleber: Aufschrift schwer leserlich, offensichtlich handelt es sich um eine Zahl, die mit den Ziffern "32" endet. Unten rechts eine Brandmarke mit den Buchstaben "CR" (Carlus Rex) und darüber eine Krone; entspricht der Marke auf der Rückseite des Bildnisses von Joh. Cuspinian)
+  _key: paragraph
+  _uid: paragraph_1569064971283_4119
+- 
+  paragraphheadline: Provenienz
+  paragraphtext: |
+    - Sammlung Charles I, König von England
+    - Familie Locker-Lampson, England
+    - Baron of Sandys, England
+    - Kunsthandel A. -G., Luzern, Julius Böhler gall.
+    - 1925 durch Reinhart erworben
+  _key: paragraph
+  _uid: paragraph_1569065220207_4271
+- 
+  paragraphheadline: Ausstellungen
+  paragraphtext: |
+    Bern 1939-1940, Nr. 62-63, Taf. III
+    Zürich 1940-1941, Nr. 39-40, Taf. XI-XII
+    Winterthur 1955, Nr. 42-43, Taf. V.
+    Kronach 1994, Nr. 118
+  _key: paragraph
+  _uid: paragraph_1569065234268_4423

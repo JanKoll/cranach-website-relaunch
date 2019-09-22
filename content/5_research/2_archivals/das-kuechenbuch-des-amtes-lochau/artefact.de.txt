@@ -1,0 +1,55 @@
+Title: Das Küchenbuch des Amtes Lochau
+
+----
+
+Headline: Das Küchenbuch des Amtes Lochau
+
+----
+
+Previewtext: Das Küchenbuch des Amtes Lochau verzeichnet über das Abrechnungsjahr 1503/1504 wöchentlich mehrere Maler, ohne Namensnennung. Der Name von Lucas Cranach wird nicht genannt.
+
+----
+
+Text: Das Küchenbuch des Amtes Lochau verzeichnet über das Abrechnungsjahr 1503/1504 wöchentlich mehrere Maler, ohne Namensnennung. Der Name von Lucas Cranach wird nicht genannt.
+
+----
+
+Date: 2019-09-06
+
+----
+
+Tags: 
+
+----
+
+Mybuilder:
+
+- 
+  paragraphheadline: Allgemeines
+  paragraphtext: |
+    **Ort und Datum:**
+    Lochau, 1503 Mai 1 bis 1504 April 30 [Abrechnungsjahr]
+    
+    **Besitzer / Standort:**
+    Thüringisches Hauptstaatsarchiv Weimar
+    
+    **Vollständige Signatur:**
+    Ernestinisches Gesamtarchiv, Reg. Bb 1768 [Amtsrechnung Lochau Walp. 1503 - Walp. 1504], Bl. 60v - 85v
+  _key: paragraph
+  _uid: paragraph_1569066421900_6781
+- 
+  paragraphheadline: Transkription
+  paragraphtext: |
+    Es wurden jeweils 3 Maler verzeichnet: Sonntag nach Vincula Petri [Bl. 60v], nach Laurentii [Bl. 61r], nach Assumptio [Bl. 61v], Bartholomei [Bl. 62r], Egidi [Bl. 63r], Nativitatis Mariae [Bl. 63v];
+    1 Maler Sonntags nach 11.000 Jungfrauen [Bl. 62r] und Simonis und Judae [Bl. 62v];
+    wieder 3 Maler Sonntags nach Omnium Sanctorum [Bl. 69v], Martini [Bl. 70r], Elisabeth [Bl. 70v], Catharine [Bl. 71r], Andrae [Bl. 72r], Nicolai [Bl. 72v], Lucie [Bl. 73r], Thomae [Bl. 73 v], nach Kindlein Tag [Bl. 74v] und Hlg. Drei Könige [Bl. 75r];
+    jeweils 5 Maler: Sonntag nach Erhardi [Bl. 75v], Fabiani et Sebastiani [Bl. 76r], Conversionis Pauli [Bl. 76v], Purificationis Mariae [Bl. 78r], Dorothee [Bl. 78v], Estomihi [Bl. 79r], Invocavit [Bl. 79v];
+    jeweils 3 Maler: Reminiscere [Bl. 80v], Oculi [Bl. 81r], Letare [Bl. 81v], Judica [Bl. 82r], Palmarum [Bl. 83r], Ostern [Bl. 83v], Quasimodo geniti [Bl. 84r], Miseriocordias domini [Bl. 84v], Jubilate [Bl. 85r];
+    zwei Maler: Mittwoch Walpurgis [Bl. 85v]
+  _key: paragraph
+  _uid: paragraph_1569066392094_6629
+- 
+  paragraphheadline: Kommentare
+  paragraphtext: 'Verschiedentlich wurde versucht, Cranach bereits vor 1505 in den Rechnungsbüchern des sächsischen Hofes nachzuweisen - über die dort verzeichneten Maler. Die spätere Nennung Cranachs ab 1505 zeigt, dass er immer erkennbar mit Namen genannt wird.'
+  _key: paragraph
+  _uid: paragraph_1569066465623_6939

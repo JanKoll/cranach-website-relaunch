@@ -21,7 +21,7 @@
             <div class="cell medium-8 small-12" id="<?= $page->uid() ?>-<?= $page->title() ?>">
               <div class="head">
                 <h2><?= $page->headline() ?></h2>
-                <p><?= $page->subHeadline() ?><?= $page->date()->toDate('d. M Y') ?></p>
+                <p><?= $page->subHeadline() ?><?= $page->date() ?></p>
                 <div class="media-control <?= $page->uid() ?>-<?= $page->title() ?> icon-pause" onClick="textToSpeech('<?= $page->uid() ?>-<?= $page->title() ?>')"></div>
               </div>
 

@@ -1,0 +1,49 @@
+Title: Madonna unter dem Apfelbaum
+
+----
+
+Headline: Madonna unter dem Apfelbaum
+
+----
+
+Previewtext: Bezeichnet recht oben am Baumstamm: Schlangensignet mit aufrechten Flügeln, nach rechts gewandt [cda 2015]
+
+----
+
+Text: Als sitzende Halbfigur gegeben, stützt die Madonna das nackte Jesuskind, das auf einem Bein in ihrem Schoß steht und den Betrachter lächelnd anblickt. In seiner Rechten hält das Kind einen Apfel, weitere sind in der oberen rechten Ecke am Baum hängend zu sehen. Das Haar der Madonna ist mit einem durchsichtigen Schleier bedeckt, die leichte Neigung ihres Kopfes verrät mütterliche Zuneigung. Am linken Bildrand reicht der Blick in eine weite Landschaft mit einer burgbesetzten Felsformation. [cda 2015]
+
+----
+
+Date: um 1525
+
+----
+
+Tags: 
+
+----
+
+Mybuilder:
+
+- 
+  paragraphheadline: Material / Technik
+  mybuilder:
+    - 
+      paragraphmultidate: 1900-01-01
+      paragraphmultitarget: >
+        Technologische Untersuchung /
+        Naturwissenschaftliche Materialanalyse
+      paragraphmultitechnology: Infrarot-Fotografie
+      paragraphmultitext: |
+        Unterzeichnung
+        - Deutlich erkennbare Unterzeichnung mit dem Pinsel, Veränderung der Handhaltung bei der Madonna
+        - Unterzeichnung in kurzen und längeren Pinselschwüngen, locker und sicher
+        [Bericht, Bernd Konrad 1990]
+      _key: bodyMultiText
+      _uid: bodyMultiText_1569175594459_1917
+  _key: multi
+  _uid: multi_1569175582527_1846
+- 
+  paragraphheadline: Erhaltungszustand
+  paragraphtext: 'Die Fugen zeichnen sich auf der Malseite deutlich ab. Auf der Tafelrückseite wurden die Fugen mit Leinwandstreifen gesichert (zwei in der ganzen Länge, zwei nur zur Hälfte) - Die Tafel besaß zuvor drei aufgeleimte Querhölzer, die sich noch heute auf der Rückseite markieren - Am linken Bildrand etwas beschnitten, oben und unten vermutlich unbeschnitten, Grundiergrat am rechten Bildrand vorhanden - Rückseitig lasierender, grau-grüner Ölanstrich über der Fugensicherung - Die Tafel ist von der Bildseite aus konvex verwölbt - Starker Anobienbefall, vor allem in der unteren Tafelzone - An der linken unteren Randzone Nut ausgebrochen, wohl durch Befall stark geschwächt - Linke obere Ecke handflächengroße Retuschen in der Himmelszone, deutlich nachgedunkelt - Umfangreiche Retuschen in den Inkarnaten - Ränder teilweise angebrochen [Zustandsbericht, Hessisches Landesmuseum 1989]'
+  _key: paragraph
+  _uid: paragraph_1569175681980_2510

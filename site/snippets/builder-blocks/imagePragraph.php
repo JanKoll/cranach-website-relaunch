@@ -17,6 +17,7 @@
                 <?php else: ?>
 
                     <?= $multi->paragraphmultiimage()->toFile() ?>
+                    <p class="image-caption"><?= $multi->paragraphmultiimage()->toFile()->caption() ?></p>
 
                 <?php endif ?>
               <?php endforeach ?>

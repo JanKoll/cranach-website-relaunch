@@ -10,36 +10,13 @@
         <div class="sticky" data-sticky data-margin-top="9" data-anchor="sticky-container">
 
           <!-- Breadcrumbs -->
-          <nav aria-label="You are here:" role="navigation">
-            <ul class="breadcrumbs">
-              <li><a href="#">
-                <?php 
-                if($kirby->language()->code()=='de') {
-                  echo 'Startseite'; 
-                } else {
-                  echo 'Home';  
-                };
-                ?>
-              </a></li>
-              <li>
-                <span class="show-for-sr">Current: </span> <?= $page->title() ?>
-              </li>
-            </ul>
-          </nav>
+          <?php snippet('breadcrumbs') ?>
 
           <!-- Article Navigation -->
           <ul class="article-nav" data-smooth-scroll>
-            <?php
-              $callback = function ($f) {
-                return $f->date()->toDate('Y');
-              };
+            <?php foreach ($page->children() as $year): ?>
 
-              $years = $page->children()->sortby('date','desc')->group($callback);
-
-              foreach ($years as $year => $itemsPerYear) :
-            ?>
-
-            <li><a href="#"><?= $year ?></a></li>
+            <li><a href="<?= $year->url() ?>"><?= $year->title() ?></a></li>
 
             <?php endforeach ?>
 
@@ -51,7 +28,7 @@
       <div class="news cell medium-8 small-12">
         <div class="grid-x">
 
-          <?php foreach ($list = $page->children()->sortby('date','desc')->paginate(5) as $item) : ?>
+          <?php foreach ($list = $page->children()->children()->sortby('date','desc')->paginate(5) as $item) : ?>
 
           <div class="cell small-12">
 
@@ -59,17 +36,15 @@
               <h3><?= $item->headline() ?></h3>
               <p><?= $item->previewText() ?></p>
               <a href="<?= $item->url() ?>">
-                <?php 
+                <?php
                     if($kirby->language()->code()=='de') {
-                      echo 'Weiter lesen...'; 
+                      echo 'Weiter lesen...';
                     } else {
-                      echo 'Read more...';  
+                      echo 'Read more...';
                     };
                 ?>
             </a>
-              <?php if (!(($item->indexOf() + 1) % 5 == 0)) : ?>
                 <hr />
-              <?php endif ?>
             </div>
           <?php endforeach ?>
 

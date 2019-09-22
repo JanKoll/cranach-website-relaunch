@@ -1,0 +1,83 @@
+Title: Klage unter dem Kreuz
+
+----
+
+Headline: Klage unter dem Kreuz
+
+----
+
+Previewtext: Kreuzigung Christi in gedrehter Komposition, das Kreuz Christi rechts, das der Schächer links und halblinks, Maria und Johannes in der Mitte. Maria schaut zu Christus empor. Rechts unter dem...
+
+----
+
+Text: Kreuzigung Christi in gedrehter Komposition, das Kreuz Christi rechts, das der Schächer links und halblinks, Maria und Johannes in der Mitte. Maria schaut zu Christus empor. Rechts unter dem Kreuz Christi ein Ausblick in eine weite Landschaft mit Bergen und einem See mit einem Wasserschloss. Dunkle Wolken ziehen auf. [Martin Schawe, Alte Pinakothek München, 26.03.2010]
+
+----
+
+Date: 1503
+
+----
+
+Tags: 
+
+----
+
+Mybuilder:
+
+- 
+  paragraphheadline: Allgemeines
+  paragraphtext: |
+    **Gemälde:**
+    
+    | CDA ID / Inventarnummer | 	DE_BStGS_1416 |
+    |-------------------------|---------------------------------------|
+    | Permanent Link          | 		http://lucascranach.org/DE_BStGS_1416 |
+    | FR (1978) Nr.           | FR005
+    |
+    
+    **Titel:**
+    Klage unter dem Kreuz	[Bayerische Staatsgemäldesammlungen, revised 2010]
+    
+    **Zuschreibung:**
+    Lucas Cranach der Ältere	[Bayerische Staatsgemäldesammlungen, revised 2010][Burmester 1998, 167][Rieffel 1895, 425]
+    
+    **Datierung:**
+    1503	[datiert]
+    
+    **Eigentümer / Besitzer / Standort:**
+    
+    | Eigentümer | 	Bayerische Staatsgemäldesammlungen |
+    |------------|--------------------------------|
+    | Besitzer   | 	Alte Pinakothek, München |
+    | Standort   | München  |
+    
+    **Maße:**
+    Maße Bildträger: 137,8-138 x 98,3-99,3 x 0,8-1,5 cm (am linken Bildrand geringfügig beschnitten, originale Bildfläche erhalten) Maße Bildfläche: 136-135,6 x 97 x 97,3 cm [Bayerische Staatsgemäldesammlungen, revised 2010]
+    
+    **Bildträger:**
+    Malerei auf Tannenholz (Abies sp.) [Klein, Bericht 2013] [Exhib. Cat. Munich 2011, 137, No. 1416] [Bayerische Staatsgemäldesammlungen, revised 2010] [Klein, Bericht 2006]
+    
+    **Signatur / Datierung:**
+    Bezeichnet am unteren Bildrand auf einem weißen Zettel mit schwarzer Farbe: "1503" (original angeschnitten) [Bayerische Staatsgemäldesammlungen, revised 2010]
+    
+    **Inschriften, Stempel, Siegel, Beschriftungen:**
+    Inventarzettel 1855: 1416 Inventarzettel 1905: 1181 Hs. Zettel mit der Nr. '212[...]' (=Zweibrücker Nachtragsinventar 2123) [Bayerische Staatsgemäldesammlungen, revised 2010] Rückseitig auf dem Bildträger: - Links unten: Vier Aufkleber: "Cranach Ausstellung Berlin 1937"; "Bayerische Staatsgemäldesammlungen 1416"; "Neues Inventar 1906 1181"; "R [...]" [Heydenreich 1995]
+  _key: paragraph
+  _uid: paragraph_1569064971283_4119
+- 
+  paragraphheadline: Provenienz
+  paragraphtext: |
+    - 1804 Säkularisationsgut aus einem aufgehobenen süddeutschen Kloster
+    [Bayerische Staatsgemäldesammlungen, revised 2010]
+    [Exhib. Cat. Munich 2011, 137, No. 1416]
+  _key: paragraph
+  _uid: paragraph_1569065220207_4271
+- 
+  paragraphheadline: Ausstellungen
+  paragraphtext: |
+    Dresden 1899
+    Berlin 1937
+    Bern 1949/50
+    München 2011, Nr. 18
+  _key: paragraph
+  _uid: paragraph_1569065234268_4423

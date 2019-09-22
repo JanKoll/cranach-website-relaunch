@@ -1,0 +1,105 @@
+Title: Katharinenaltar
+
+----
+
+Headline: Katharinenaltar: Hl. Genoveva und Hl. Apollonia [linker Seitenflügel, Außenseite]
+
+----
+
+Previewtext: Bei diesem Bild handelt es sich um die Außenseite des linken Altarflügels vom Katharinenaltar in Dresden. Die hl. Genoveva von Paris hält ihr Attribut, die Kerze. Die hl. Apollonia ist mit...
+
+----
+
+Text: Bei diesem Bild handelt es sich um die Außenseite des linken Altarflügels vom Katharinenaltar in Dresden. Die hl. Genoveva von Paris hält ihr Attribut, die Kerze. Die hl. Apollonia ist mit ihrem Martherwerkzeug, der Zange (mit der ihr die Zähne gezogen wurden) dargestellt. [http://www.nationalgallery.org.uk/paintings/lucas-cranach-the-elder-saints-genevieve-and-apollonia; accessed: 05.09.2011]
+
+----
+
+Date: 1506
+
+----
+
+Tags: 
+
+----
+
+Mybuilder:
+
+- 
+  paragraphheadline: Allgemeines
+  paragraphtext: |
+    **Gemälde:**
+    
+    | CDA ID / Inventarnummer | UK_NGL_6511-1                         |
+    |-------------------------|---------------------------------------|
+    | Permanent Link          | 	http://lucascranach.org/UK_NGL_6511-1 |
+    | FR (1978) Nr.           | FR015
+    |
+    
+    **Titel:**
+    Katharinenaltar: Hl. Genoveva und Hl. Apollonia [linker Seitenflügel, Außenseite]	[CDA 2011]
+    
+    
+    **Zuschreibung:**
+    Lucas Cranach der Ältere	[The National Gallery, revised 2011]
+    
+    **Datierung:**
+    1506	[Mitteltafel datiert]
+    
+    **Eigentümer / Besitzer / Standort:**
+    
+    | Eigentümer | The National Gallery, London |
+    |------------|--------------------------------|
+    | Besitzer   | The National Gallery, London |
+    | Standort   | London                          |
+    
+    **Maße:**
+    Maße Bildträger: 122,7 (l.) - 123 (r.) x 66,3 (o.) - 66 (u.) cm Maße Bildfläche: 122,7 (l.) - 123 (r.) x 64,3 cm [National Gallery archive 2013]
+    
+    **Bildträger:**
+    Malerei auf Lindenholz [The National Gallery, revised 2011]
+    
+    **Signatur / Datierung:**
+    Keine
+  _key: paragraph
+  _uid: paragraph_1568890565239_716
+- 
+  paragraphheadline: Provenienz
+  paragraphtext: |
+    - Ankauf, 1987
+    [The National Gallery, revised 2011]
+    
+    - beide Gemälde sind erstmals dokumentiert durch die Kopien des "Katharinenaltars" von Daniel Fritsch, welche auf 1586 und 1596 datiert sind (jetzt jeweils im Gotischen Haus, Stiftung Dessau Wörlitz und der Dorfkirche, Berlin, Alt-Tempelhof befindlich).
+    - bei einer 1610 durchgeführten Inventur auf Schloss Hartenfels wurde in der 'Schöne Fürstenkammer' eine 'alte gemahlte Taffel von Ölfarben darauff die Historien von der Catharina' angeführt, welche 1601 lediglich als 'grosser Flügelaltar mit vergoldetem Rahmen' geschrieben wurde, bei dem es sich wahrscheinlich um Cranachs Retabel handeln könnte.[1]
+    - 1738 wurde das Retabel von dem Hofmaler Bonaventura Rossi nach Dresden gebracht. Es kann klar in der 'Specification derjenigen Bilder, so von Monsieur Rossi von dem Schlosse zu Torgau mit nach Dresden genommen worde' identifiziert werden und wurde am 12 Juli 1738, als Nummer 2, 'Ein Bild, worauff die Historia der Dorothea auf Holz, in 3 Feldern gemahlt' in Torgau verladen.[2]
+    - 1786 ist das gesamte Retabel erstmals in der Königlichen Sammlung Dresden erwähnt, auf einer Liste an Bildern, die verkauft werden sollten; zu dieser Zeit waren die Flügel-Tafeln bereits gespalten, da die Innen- und Außenseiten separat gelistet waren.[3]
+    - 1797 wurden die beiden Außenflügel sowie ein Innenflügel verkauft: die Tafel mit der hl. Apollonia (NG6511.1) am 27. Juli für 2 Thaler 8 Groschen und die Tafel mit der hl. Ottilia (NG6511.2) am 2 Dezember für 11 Groschen.[4]
+    - alle drei Tafeln wurden zu einem unbekannten Zeitpunkt - vielleicht über den Dresdner Maler Ferdinand Hartmann (1774-1842) - von Heinrich Wilhelm Campe (1771-1862) erworben, einem Leipziger Geschäftsmann und Sammler; dieser verkaufte sie am 24 September 1827 in Leipzig.[5]
+    - die zwei Tafeln der National Gallery sind im Verkaufskatalog unter den Nummern 286 und 287 als Werke von Hans Holbein gelistet. Der Innenflügel mit Darstellung der hl. Dorothea, Nummer 300, wurde als Hans Baldung Grien verkauft.[6]
+    - die beiden Außenflügel wurden 1827 von einem Berliner Händler "v.d.Laar"(vielleicht der Künstler Ferdinand von Laer, aktiv 1828-40) für 50 Taler 4 Groschen erworben.[8]
+    - 1875 waren sie in der Sammlung des Bankiers und Verwalters der National Gallery, Samuel Loyd, erstem Baron Overstone (1796-1883).[9]
+    - 1987 verkauften dessen Nachkommen die Tafeln, welche von der National Gallery in einem privaten Verkauf erworben wurden
+    
+    [1][Findeisen, Magirius 1976,167]; [Marx 1996, 39].
+    [2][Marx, Mössinger, Exhib. Cat Chemnitz 2005, 380, 387, fn. 2]; und [Marx 1996, 40, 60, fn. 35]. Transkripiert von Dr Hans Posse im Archiv der Staatlichen Kunstsammlungen, Dresden, Posse Archive, Vol. XXII, nach Dokumenten ehemals im Staatsarchiv Dresden, Cap VII, Nr. 8, Verschiedene Verzeichnisse von Gemälden, loc. 18212. Herzlichen Dank an Katrin Kolb von der Gemäldegalerie, Dresden, für ihre Hilfe zu den archivalischen Hinweisen den Katharinenaltar in Dresden im 18. Jh. betreffend und für die von ihr zur Verfügung gestellten relevanten Teile ihrer Transkription von Dr. Posses Notizen.
+    [3][Kolb, Exhib. Cat. Chemnitz 2005, 380]
+    [4]Ebd.; [Posse 1936, 246]; Posse Transkription in den Archiven der Staatlichen Kunstsammlungen, Dresden, nach Staatsarchiv Dresden, Cap VII, Nr. 25 Nr. 15, verkauft 27/8 Juli 1797: 'Die heil. Utilia ein Buch inder Hand haltend, worauf zwey Augen liegen, dabei noch eine Heilige' und 'nicht zur Auction übergeben worden'; Katalog Nr. 88, 'Die Enhauptung der heil. Catherina'; Nr. 139, 'Die heil. Utilia dabey noch eine Heilige von L. Cranach'; unter 'verauctionert' Nr. 140, 'Die heil. Appollonia, dabey eine Heilige so ein Licht in der Hand halt von L. Cranach 2 Thaler 8 Gr.'; und Nr. 141, 'Die heil. Agnes ... dabey die hl. Dorothea'. Die Tafel mit Ottilia wurde am 2 Dezember für 11 Groschen verkauft.
+    [5]Information freundlicherweise zur Verfügung gestellt von Dr Dieter Gleisberg: Korrespondenz in NG Akten. Siehe auch [Kolb, Exhib, Cat. Chemnitz 2005, 381, fn. 12] ([Gleisberg 2000, 116] zitierend). Die Cranach Tafeln im Campe Verkauf 1827 in Leipzig zuerst publiziert bei [Trautscholdt 1957, 244].
+    [6]Siehe [Kolb, Exhib, Cat. Chemnitz 2005, 381]
+    [8][Kolb, Exhib, Cat. Chemnitz 2005, 381]
+    [9][Parris 1967,13]
+    [Susan Foister, "Lucas Cranach the Elder and workshop, Saints Genevieve and Apollonia and Saints Christina and Ottilia (The St Catherine Altarpiece: Reverses of Shutters)" Onlinepublikation 2015, aus "The German Paintings before 1800", London: in Kürze erscheinend.
+    www.nationalgallery.org.uk/paintings/research/lucas-cranach-the-elder-and-workshop-saints-genevieve-and-apollonia-christina-and-ottilia]
+  _key: paragraph
+  _uid: paragraph_1568890583493_868
+- 
+  paragraphheadline: Ausstellungen
+  paragraphtext: |
+    London 1906, Nrn. 46 und 58
+    Oxford 1934, Nrn. 22 und 28
+    Birmingham 1945 (bis 1952), Nrn. 10 und 11
+    London 1956, Nrn. 16 und 18
+    Kings Lynn Festival 1966, Nrn. 14 und 15
+    London 1974-1987, Dauerleihgabe, National Gallery, London
+    London 1997
+  _key: paragraph
+  _uid: paragraph_1568890598888_1020

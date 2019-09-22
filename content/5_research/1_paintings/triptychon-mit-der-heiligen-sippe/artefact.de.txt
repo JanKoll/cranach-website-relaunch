@@ -1,0 +1,79 @@
+Title: Triptychon mit der Heiligen Sippe
+
+----
+
+Headline: Triptychon mit der Heiligen Sippe [Mitteltafel]
+
+----
+
+Previewtext: Auf der Mitteltafel des Altars sind Joseph, Maria, Anna und der Jesusknabe dargestellt sowie im Hintergrund die drei Gatten Annas: Joachim, Kleophas (mit den Zügen Kaiser Maximilians I.) und...
+
+----
+
+Text: Auf der Mitteltafel des Altars sind Joseph, Maria, Anna und der Jesusknabe dargestellt sowie im Hintergrund die drei Gatten Annas: Joachim, Kleophas (mit den Zügen Kaiser Maximilians I.) und Salomas (mit den Zügen Sixtus Oelhafens?). Die heilige Sippe hält sich in einem großzügig dimensionierten, hohen Saal mit blaugrau verputzten Wänden und dreifarbig gefliestem Fußboden auf. Im Vordergrund erstreckt sich eine profilierte Steinbank quer über die gesamte Breite des Raumes. Am rechten und linken Bildrand trägt sie zwei Marmorsäulen, zwischen denen am oberen Bildrand ein großes Tuch aus schwarz und rot gemustertem Goldbrokat gespannt ist. Im Mittelgrund ragt eine Empore in den Saal, deren Fries ein Relief mit sechs Putten zeigt, zwischen denen sechs Wappenschilde mit den Figuren des kursächsischen Wappens verteilt sind. In die schlichte Rückwand ist in der linken Hälfte ein Fenster eingelassen. Auf der Steinbank im Vordergrund sitzt Maria im blauen Gewand und neben ihr Anna in einem roten Kleid. Anna hält den Jesusknaben auf ihrem rechen Knie. Das Kind wendet sich Maria zu, die ihm mit der rechten Hand einen Apfel reicht und mit ihrer linken Hand ein Buch hält. In Mariens Rücken sitzt Joseph schlafend auf dem Boden. Drei weitere Personen stehen auf der Empore. Der links stehende Mann (wahrscheinlich Joachim) in zeitloser Kleidung schaut zu der Frauengruppe. Die anderen zwei sind dagegen in zeitgenössische Tracht gekleidet und einander im Gespräch zugewandt. Im linken Vordergrund stehen zwei Knaben. Der Ältere (Simon) im grün-rot gestreiften Rock hält in der rechen Hand einen Wanderstab über der Schulter, an dem ein mit Trauben und Äpfeln gefüllter Korb hängt. Er wendet sich aus der Frontalen ein wenig nach links zu seinem kleinen Bruder (Judas), der mit der rechten Hand an den Korb fasst. Mit der Linken zieht er einen Schlitten aus Zweigen hinter sich her, in dem ein Apfel liegt. Rechts vom Schlitten kauert ein brauner Dackel auf dem Boden. [vgl. Cat. Frankfurt 2005, 204-225]
+
+----
+
+Date: 1509
+
+----
+
+Tags: 
+
+----
+
+Mybuilder:
+
+- 
+  paragraphheadline: Allgemeines
+  paragraphtext: |
+    **Gemälde:**
+    
+    | CDA ID / Inventarnummer | 	DE_SMF_1398A |
+    |-------------------------|---------------------------------------|
+    | Permanent Link          |  	http://lucascranach.org/DE_SMF_1398A |
+    | FR (1978) Nr.           | FR018
+    |
+    
+    **Titel:**
+    Triptychon mit der Heiligen Sippe [Mitteltafel]	[Exhib. Cat. Frankfurt 2008, 154, No. 19]
+    
+    **Zuschreibung:**
+    Lucas Cranach der Ältere	[Exhib. Cat. Frankfurt 2008, 154, No. 19] [Cat. Frankfurt 2005, 204-225] [Friedländer, Rosenberg 1979, 70-71, No. 18]
+    
+    
+    **Datierung:**
+    1509	[datiert]
+    
+    **Eigentümer / Besitzer / Standort:**
+    
+    | Eigentümer | 	Städel Museum Frankfurt a.M. |
+    |------------|--------------------------------|
+    | Besitzer   | 	Städel Museum Frankfurt a.M. |
+    | Standort   | Frankfurt am Main|
+    
+    **Maße:**
+    Maße Bildträger: 121,1 x 100,4 x 0,5 cm [Cat. Frankfurt 2005, 204-225] Maße Bildfläche: 120,6 x 99,3 cm [Cat. Frankfurt 2005, 204-225]
+    
+    **Bildträger:**
+    Malerei auf Lindenholz (Tilia sp.) [Exhib. Cat. Frankfurt 2008, 154, No. 19] [Cat. Frankfurt 2005, 204-225] [Klein, Bericht 1993]
+    
+    **Signatur / Datierung:**
+    Bezeichnet auf der, an der rechten Säule angebrachten Tafel: "LVCAS CHRONVS FACIEBAT ANNO 1509" [Exhib. Cat. Frankfurt 2008, No. 19] [Cat. Frankfurt 2005, 204-225] [Friedländer, Rosenberg, 70-71, No. 18]
+    
+    **Inschriften, Stempel, Siegel, Beschriftungen:**
+    Rückseite: - oben mit blauer Wachskreide: "7359" - oberes Drittel mit Bleistift: "Inv.N. 1398" [Cat. Frankfurt 2005, 204-225]
+  _key: paragraph
+  _uid: paragraph_1569064971283_4119
+- 
+  paragraphheadline: Provenienz
+  paragraphtext: |
+    - 21. - 28.06.1906 Auktion der Sammlung Molinier bei Brame in Paris (Nr. 136), vom Städel erworben mit Hilfe der Stadt Frankfurt, privater Kunstfreunde, des Städelschen Museums-Vereins und der Carl Schaub'schen Stiftung
+    [Cat. Frankfurt 2005, 204-225]
+  _key: paragraph
+  _uid: paragraph_1569065220207_4271
+- 
+  paragraphheadline: Ausstellungen
+  paragraphtext: Frankfurt a. M. 2008, Nr. 19
+  _key: paragraph
+  _uid: paragraph_1569065234268_4423

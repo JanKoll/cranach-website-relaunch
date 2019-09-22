@@ -62,9 +62,9 @@
             </a></li>
           <?php endforeach ?>
         </ul>
-        <ul class="language">
+        <ul class="mode">
           <li>
-            <a type="button" name="button" id="theme-toggle">DarkMode</a>
+            <a type="button" name="button" id="theme-toggle" class="icon-"></a>
           </li>
         </ul>
       </div>

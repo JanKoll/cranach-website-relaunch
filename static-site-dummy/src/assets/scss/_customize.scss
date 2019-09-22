@@ -53,3 +53,11 @@ body {
     top: .6rem;
   }
 }
+
+thead, th {
+  font-weight: normal !important;
+}
+
+.cell img {
+  width: 100%;
+}

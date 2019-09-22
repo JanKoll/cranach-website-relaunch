@@ -9,6 +9,25 @@
     }
   }
 
+  .medium-8 {
+    &:after {
+      content: "";
+      position: absolute;
+      right: 0;
+      top: 7.25rem;;
+      bottom: 0;
+      left: 0;
+      background: $primary-color;
+      transform: translateX(100%);
+      z-index: 1;
+    }
+
+    a {
+      color: $white;
+      text-decoration: underline;
+    }
+  }
+
   .cell {
     &:last-child {
       padding-top: $global-padding;
@@ -58,18 +77,6 @@
         padding-bottom: $global-padding;
         padding-top: calc(1rem + 1px);
         position: relative;
-
-        &:after {
-          content: "";
-          position: absolute;
-          right: 0;
-          top: 0;
-          bottom: 0;
-          left: 0;
-          background: $primary-color;
-          transform: translateX(100%);
-          z-index: 1;
-        }
       }
 
       p:last-child {

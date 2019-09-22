@@ -8,4 +8,4 @@ Pages:
 - about-us
 - news
 - partner
-- research
+- research/paintings

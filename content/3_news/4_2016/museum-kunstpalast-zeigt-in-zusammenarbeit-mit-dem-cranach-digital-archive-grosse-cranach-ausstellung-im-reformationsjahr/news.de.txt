@@ -1,0 +1,39 @@
+Title: Museum Kunstpalast zeigt in Zusammenarbeit mit dem Cranach Digital Archive große Cranach-Ausstellung im Reformationsjahr
+
+----
+
+Mybuilder:
+
+- 
+  paragraphnewstext: |
+    Große Ereignisse werfen ihre Schatten voraus: Lucas Cranach der Ältere zählt zu den bedeutendsten Malern der Deutschen Renaissance, war ein enger Freund Martin Luthers und beeinflusste Künstler über Jahrhunderte. Als einer der Höhepunkte im Reformationsjahr 2017 widmet das Museum Kunstpalast in Düsseldorf dem berühmten Wittenberger Maler vom 8. April bis 30. Juli die groß angelegte Werkschau: Cranach. Meister – Marke – Moderne. Erstmals nimmt die Ausstellung Cranach den Älteren in seiner Gesamtheit und Modernität in den Blick und beleuchtet neben seinen Erfolgsstrategien den Einfluss des herausragenden Künstlers bis in die Kunst der Moderne und Gegenwart. Neueste Forschungsergebnisse offenbaren bislang unbekannte Seiten dieses Ausnahmekünstlers.
+    
+    Rund 230 Werke aus internationalen Museen und Sammlungen, darunter das Metropolitan Museum of Art in New York, die National Gallery in London, das Museo Thyssen-Bornemisza in Madrid, das Museum der Bildenden Künste in Budapest sowie das Nationalmuseum Stockholm, werden zum Höhepunkt der Lutherdekade 2017 in der Düsseldorfer Ausstellung zusammengeführt. Zu sehen sind hochkarätige Exponate wie die lebensgroße Venus und Cupido aus St. Petersburg, Christus und die Ehebrecherinaus Budapest und der sogenannte Prager Altar, dessen weitverstreute Teile für die Laufzeit der großen Schau in Düsseldorf vereint werden. Weitere bedeutende Tafelbilder, Zeichnungen und Drucke dokumentieren die maßgebliche Rolle Cranachs bei der Verbreitung der Reformation und sein geschicktes Agieren im Dienste der bedeutendsten fürstlichen Auftraggeber des 16. Jahrhunderts. In Gegenüberstellung mit Werken von Albrecht Dürer, Hans Holbein dem Jüngeren, Jacopo de´Barbari und Lorenzo Costa dem Älteren untersucht die Ausstellung Cranachs Position im Netzwerk der Künstler seiner Zeit.
+    
+    Die Ausstellung folgt den Spuren Cranachs bis in die Kunst der Gegenwart und Moderne. Arbeiten von Pablo Picasso, Marcel Duchamp, Alberto Giacometti, Otto Dix, Andy Warhol oder Martial Raysse zeigen, welchen Einfluss Cranachs Bildsprache auf führende Wegbereiter der Moderne ausgeübt hat.
+    
+    Neueste kunsttechnologische Forschungen und Archivrecherchen geben faszinierende Einblicke in die tägliche Praxis des bedeutenden und produktivsten deutschen Malers im 16. Jahrhundert. Cranachs Gemälde zeugen von einem immensen Spektrum innovativer Bildlösungen und völlig neuartiger Bildthemen, die der enge Weggefährte Martin Luthers im Spannungsfeld unterschiedlicher Glaubensvorstellungen entwickelte und die sich innerhalb kürzester Zeit über den europäischen Kontinent verbreiteten.
+    
+    Die Ausstellung nimmt den Besucher mit auf eine Zeitreise in die florierende Werkstatt des Malers und gibt spannende Einblicke in die künstlerischen Prozesse bei der Entstehung der Gemälde: Dank modernster Technik werden unter der Malschicht verborgene Unterzeichnungen erstmals für die Besucher erschlossen. Sie geben unter anderem Auskunft über den enormen Reichtum an verwendeten Malmaterialien und die effiziente Arbeitsweise des Künstlers. So entwickelte Cranach verschiedene Verfahren zur Ökonomisierung und Optimierung der Malprozesse, um seine Bilder in hoher Qualität und großer Anzahl produzieren zu können.
+    
+    Verschiedene Medienstationen in der Ausstellung und ein vielfältiges museumspädagogisches Begleitprogramm lassen die Zeit des großen Wittenberger Malers für die Besucher lebendig werden. Ein umfangreicher Katalog zu Cranach. Meister – Marke – Moderne erscheint im Hirmer Verlag.
+    
+    WISSENSCHAFTLICHER BEIRAT
+    Dr. Bodo Brinkmann (Kunstmuseum Basel), Dr. Susan Foister (The National Gallery London), Dr. Daniel Hess (Germanisches Nationalmuseum Nürnberg), Prof. Dr. Thomas Kaufmann (Universität Göttingen), Prof. Dr. Dieter Koepplin (Basel), Dr. Guido Messling (Kunsthistorisches Museum Wien), Dr. Matthias Weniger (Bayerisches Nationalmuseum München
+  _key: newsText
+  _uid: newsText_1569174750604_889
+
+----
+
+Headline: Museum Kunstpalast zeigt in Zusammenarbeit mit dem Cranach Digital Archive große Cranach-Ausstellung im Reformationsjahr
+
+----
+
+Previewtext:
+
+CRANACH
+Meister – Marke – Moderne
+
+----
+
+Date: 2016-06-19

@@ -10,22 +10,7 @@
         <div class="sticky" data-sticky data-margin-top="9" data-anchor="sticky-container">
 
           <!-- Breadcrumbs -->
-          <nav aria-label="You are here:" role="navigation">
-            <ul class="breadcrumbs">
-              <li><a href="#">
-                <?php
-                if($kirby->language()->code()=='de') {
-                  echo 'Startseite';
-                } else {
-                  echo 'Home';
-                };
-                ?>
-              </a></li>
-              <li>
-                <span class="show-for-sr">Current: </span> <?= $page->title() ?>
-              </li>
-            </ul>
-          </nav>
+          <?php snippet('breadcrumbs') ?>
 
           <!-- Article Navigation -->
           <ul class="article-nav" data-smooth-scroll>
@@ -59,9 +44,7 @@
                     };
                 ?>
             </a>
-              <?php if (!(($item->indexOf() + 1) % 5 == 0)) : ?>
                 <hr />
-              <?php endif ?>
             </div>
           <?php endforeach ?>
 

@@ -54,4 +54,6 @@ Viel Aufwand wurde in die Dynamisierung von Inhalten investiert. Dabei war nicht
 
 Refactoren könnte man die Struktur der Aktuelles Seite. In der jetzigen Implementierung erstellt man für jedes Jahr eine Unterseite, welche die zugehörigen Neuigkeiten fasst. Eleganter wäre eine Lösung, bei der die News alle auf der Ebene der Übersichtsseite angelegt werden und dort automatisch in Jahre gruppiert werden.
 
-Die Livedemo der Seite findet sich unter http://jankoll.de/cranach/. Die Login-in Daten für das Kirby Panel wurden per Mail an die betreffenden Personen weitergeleitet. 
+## Livedemo
+
+Die Livedemo der Seite findet sich unter http://jankoll.de/cranach/. Die Login-in Daten für das Kirby Panel wurden per Mail an die betreffenden Personen weitergeleitet.

@@ -56,4 +56,4 @@ Refactoren könnte man die Struktur der Aktuelles Seite. In der jetzigen Impleme
 
 ## Livedemo
 
-Die Livedemo der Seite findet sich unter http://jankoll.de/cranach/. Die Login-in Daten für das Kirby Panel wurden per Mail an die betreffenden Personen weitergeleitet.
+Die Livedemo der Seite findet sich unter <a href="http://jankoll.de/cranach/">http://jankoll.de/cranach/</a>. Die Login-in Daten für das Kirby Panel wurden per Mail an die betreffenden Personen weitergeleitet.
